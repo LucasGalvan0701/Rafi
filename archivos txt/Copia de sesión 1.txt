@@ -1,0 +1,1540 @@
+﻿Sesión 1
+
+Simulacro
+
+SABER  11o
+
+F10 V2
+
+Áreas Nº de Preguntas
+Matemáticas 23
+Ciencias Naturales 24
+
+En el siguiente cuadro usted encuentra 
+las pruebas que va a resolver, el número Sociales y Ciudadanas I 25
+de preguntas y el tiempo disponible para Lectura Crítica 33
+contestarlas. Número total de preguntas: 105
+
+Duración total de la prueba: 4 Hor. 30 Min.
+
+IMPORTANTE
+Dentro de esta bolsa plástica usted encuentra:
+Un cuaderno con preguntas, una hoja de respuestas y una hoja de operaciones.
+
+NO ABRA LA BOLSA PLÁSTICA HASTA CUANDO EL JEFE DE SALÓN SE LO INDIQUE
+Tomado de preguntas liberadas por el ICFES
+
+
+
+Prueba de Matemáticas
+1. 	En la tabla se registra la información reportada por 2. 	La ecuación (x-3)2 + (y+4)2=22, representa una 
+
+un municipio de Colombia, sobre la cantidad de circunferencia ¿Cuál es la gráfica que representa esa 
+estudiantes de algunos programas educativos que misma circunferencia desplazada 3 unidades hacia 
+ofrece una institución de enseñanza. arriba?
+
+A.
+Título que otorga el Cantidad de 
+programa educativo estudiantes
+
+Tecnólogo en gastronomía 32
+Tecnólogo en Contabilidad y Finanzas 39
+Técnico en Mantenimiento de motores 
+de Gasolina y de Gas 34
+
+Tecnólogo en Administración Hotelera 27
+Tabla B.	
+
+	 La gráfica que mejor representa la información de la 
+tabla es
+
+A.
+
+C.
+
+B.
+
+	
+D.	
+
+C.
+
+3. 	El movimiento de una partícula P1 se puede 
+representar con la ecuación 9x2 + y2 - 18x - 4y - 2 = 0 
+y el movimiento de una partícula P2 con la ecuación 
+3x2 - 2y2 +12x - 4y - 2 = 0 Respecto al movimiento de 
+las partículas, es correcto afirmar que
+
+A.		 P1 describe una elipse y P2 una parábola.
+D. B.		 P1 describe una parábola y P2 una elipse.
+
+C.		 P1 describe una elipse y P2 una hipérbola.
+D.		 P1 describe una hipérbola y P2 una elipse.
+
+4. 	A continuación se muestran los resultados de una 
+encuesta que indagó sobre el parque automotor del 
+transporte intermunicipal en Colombia.
+
+2	
+Página Porque mereces ingresar a la universidad
+
+Sesión 1
+
+
+
+A.	 es cero, cuando t = 1.000 horas
+B.	 se acerca a 1.000 gramos, cuando t toma valores 
+
+muy grandes.
+C.	 se acerca a cero (0) gramos, cuando t toma valores 
+
+muy grandes.
+D.	 es constante a partir de t=1.000
+
+8. 	En clase de matemáticas un estudiante propone que 
+Segun la información anterior es correcto afirmar que: “todo número entero impar elevado al cuadrado será 
+
+divisible por dos”
+A.	 la mayor parte del parque automotor son automóviles, 
+
+camionetas y camperos. Esta afirmación no es verdadera porque todo número 
+B.	 la mitad del parque automotor corresponde a impar de la forma 2n + 1 elevado al cuadrado
+
+automóviles, camionetas y camperos. A.	 es impar todas las veces	
+C.	 la mayor parte del parque automotor son buses, B.	 es impar la mitad de veces	
+
+microbuses y busetas. C.	 es impar cuando n es distinto de 0	
+D.	 la mitad del parque automotor corresponde a buses, D.	 es impar solamente cuando n=0
+    microbuses y busetas.
+
+9. 	En la figura se muestra un triángulo equilátero ABC y 
+5. 	Dos mil personas se encuestan para conocer su sus ejes de simetría AH, BH, CH.
+
+intención de voto en futuras elecciones. El 60% de las 
+personas que votarán tienen entre 18 y 38 años, y el 
+40% restante son mayores de 39 años. La encuesta 
+representará la intención de voto de toda la población, 
+cuando la cantidad de encuestados entre los 18 y 38 
+años sea    
+
+A.	 2.000	 B.	1.200	 C.	 1.000	 D.	600 ¿Cuál es el triángulo obtenido luego de hacer una 
+reflexión respecto a la recta AH y una rotación de 120o en 
+
+6. 	En una institución educativa hay dos cursos en grado el sentido contrario al movimiento de las agujas del reloj 
+undécimo. El número de hombres y mujeres de cada con centro en el punto H?
+curso se relaciona en la tabla: A.		  B.	
+
+Curso 11A Curso 11B Total
+Número de mujeres 22 23 45
+Número de hombres 18 12 30
+
+Total 40 35 75
+Tabla
+
+La probabilidad de escoger un estudiante de grado C.		  D.	
+undécimo, de esta institución, que sea mujer es de  3/5. 
+Este valor corresponde a la razón entre el número total 
+de mujeres y
+A.	 el número total de estudiantes de grado undécimo.
+B.	 el número total de hombres de grado undécimo. 10.	Se realizó una encuesta a 200 clientes de una empresa 
+C.	 el número total de mujeres del curso 11 B. de telecomunicaciones para saber cómo clasifican la 
+D.	 el número total de hombres del curso 11 A. calidad del servicio que reciben. La siguiente gráfica 
+
+muestra los porcentajes de las calificaciones dadas 
+7. 	En un laboratorio, algunos científicos han observado por los clientes:
+
+que al dejar 1.000 gramos de una sustancia radiactiva 
+a temperatura ambiente, dicha sustancia inicia un 
+proceso de desintegración en el cual pierde cada 
+hora el 10% de su masa. La función M(t) describe la 
+cantidad de masa de la sustancia radiactiva a medida 
+que transcurre el tiempo t.
+
+M(t) = 1.000 (0,9)t, t en horas
+	 En cuanto a la masa de la sustancia radiactiva, es 
+
+correcto afirmar que 3
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 1
+
+
+
+	 La afirmación verdadera acerca de los resultados de 13.	Una prueba atlética tiene un récord mundial de 10,49 
+la encuesta es: segundos y un récord olímpico de 10,50 segundos. 
+
+A.	 Más de 30 clientes consideran que la calidad del ¿Es posible que un atleta registre un tiempo, en el 
+servicio que ofrece la empresa es excelente. mismo tipo de prueba que rompa el récord olímpico 
+
+B.	 Menos de 50 clientes consideran que la calidad del pero no el mundial?
+servicio que ofrece la empresa es regular.
+
+C.	 Menos de 55 clientes están satisfechos con el servicio A.	 Sí, porque puede registrar, por ejemplo un tiempo 
+que ofrece la empresa. de 10,497 segundos, que está entre los dos tiempos 
+
+D.	 Más de 60 clientes consideran que la calidad del récord.
+B.	 Sí, porque puede registrar un tiempo menor que 10,4 
+
+servicio que ofrece la empresa es bueno. y marcaría un nuevo récord.
+11.	La figura muestra el mapa de 2 avenidas principales C.	 No, porque no existe un registro posible entre los dos 
+
+tiempos récord.
+de una ciudad, las cuales son atravesadas por 3 D.	 No, porque cualquier registro menor que el récord 
+calles paralelas entre sí olímpico va a ser menor que el récord mundial.
+
+14.	En la tabla se presentan las cartas que conforman 
+una baraja de póker.
+
+Negras Rojas
+Picas Tréboles Corazones Diamantes
+
+1  A  A  A  A
+2  2  2  2  2
+3  3  3  3  3
+4  4  4  4  4
+
+La distancia que hay entre la calle Z y la calle Y sobre la 5  5  5  5  5
+avenida primera es 6  6  6  6  6
+A.	  dam	 B.	 6 dam	 C.	  dam	 D.	 12 dam 7  7  7  7  7
+
+8  8  8  8  8
+12.	Al lanzar una piedra dentro de una piscina se observan 9  9  9  9  9
+
+ondas de forma circular en la superficie del agua. En 
+el plano cartesiano de la figura se presenta una vista 10  10  10  10  10
+superior de la piscina y la onda que se forma seis 11  J  J  J  J
+segundos después de lanzar la piedra. 12  Q  Q  Q  Q
+
+13  K  K  K  K
+Tabla
+
+Si la probabilidad de escoger una de ellas que cumpla 
+dos características determinadas es cero, estas 
+características podrían ser:
+
+A.	 Ser una carta negra y ser una número par.
+B.	 Ser una carta roja y ser de picas.
+C.	 Ser una carta de corazones y ser un número impar.
+D.	 Ser la carta roja K y ser de diamantes.
+15.	Una bodega contiene 240 cajas de un alimento, 120 
+
+cajas son de la marca X, 80 cajas de la marca Y y 40 
+cajas de la marca Z. Se requiere estimar si las cajas 
+tienen el peso ideal, para ello se van a seleccionar 
+
+¿Cuál es la ecuación que describe la cincunferencia que aleatoriamente 12 cajas de alimento que van a 
+forma la onda en la piscina? pesarse. De las siguientes selecciones ¿Cuál es la 
+
+A.	(X+5)2 + (y+4)2 = 4 muestra que mejor representa las cajas de alimento 
+que hay en la bodega? 
+
+B.	(X+4)2 + (y+5)2 = 4
+C.	(X-4)2 + (y-5)2 = 4 A.	 4 cajas de la marca X, 4 cajas de la marca Y, 4 cajas 
+
+4 D.	(X-5)2 + (y-4)2 = 4 de la marca Z.
+Página Porque mereces ingresar a la universidad
+
+Sesión 1
+
+
+
+B.	 6 cajas de la marca X, 4 cajas de la marca Y, 2 cajas 	 j + k es congruente con ellos en módulo 5?
+de la marca Z.
+
+C.	 8 cajas de la marca X, 3 cajas de la marca Y, 1 cajas A.	 Cuando j y k sean múltiplos de 5.
+de la marca Z. B.	 Cuando j = 5k.
+
+D.	 12 cajas de la marca X, 8 cajas de la marca Y, 4 cajas C.	 Cuando (j + k)  5 tenga residuo 5
+de la marca Z. D.	 Cuando j = k
+
+16.	Dos número naturales son congruentes módulo n si 17.	Un docente ha preseleccionado unos estudiantes 
+al dividirlos por n, el residuo en ambos casos es el para realizar una actividad deportiva. Como todos 
+mismo. Por ejemplo, 9 y 24 son congruentes módulo cumplen los requisitos necesarios, el docente va a 
+5 porque en ambos cocientes el residuo es 4: escoger al azar solamente a un trío (grupo de 3) y 
+
+encuentra que puede hacer 10 posibles selecciones.
+	 ¿Cuántos estudiantes conforman el grupo 
+
+preseleccionado?
+
+	 Si j y k son congruentes módulo 5, ¿cuándo A.	 13	 B.	10	 C.	6	 D.	5
+
+RESPONDA LAS PREGUNTAS 18 Y 19 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN
+
+En la gráfica se muestran los resultados de cinco jugadores de tenis. En Australia y Estados Unidos se juega en 
+cancha dura, el Roland Garros en arcilla y el Wimbledon en césped. Cada uno de ellos se juega una vez al año y 
+otorga 2.000 puntos al vencedor, mientras que otros torneos solo entregan como máximo 1.000 puntos al vencedor.
+
+18.	Se desea saber cuál de los jugadores que aparecen B.	 el más efectivo es el jugador A con 100% de torneos 
+en la gráfica consiguió un mayor porcentaje de ganados antes de los 24 años.
+victorias en las finales del Grand Slam y se concluyó C.	 el más efectivo es el jugador D con 77,8% de 
+que fue el jugador C. Está conclusión es incorrecta efectividad en finales.
+porque D.	 no supera los torneos ganados en cancha dura del 
+
+jugador A.
+A.	 el jugador C no ganó Roland Garros antes de los 24 
+
+años.
+5
+
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 1
+
+
+
+19.	Una fracción propia es aquella en que el numerador Ubicación
+es menor que el denominador; por ejemplo, 3/8, Oriental Lateral Total
+
+Localidad
+12/23, 125/431, siempre y cuando el numerador y el 
+denominador sean números naturales. En la recta Platino 3.000 2.000 5.000
+numérica, ¿dónde se localizará una fracción propia? VIP 5.000 3.000 8.000
+
+A.	 Entre 0 y la unidad.	 Preferencial 7.000 5.000 12.000
+B.	 Entre 0 y 1/2 General 35.000 10.000 45.000
+C.	 Entre 1 e infinito.	
+D.	 Entre 1 y 3/2. Total 50.000 20.000 70.000
+
+Tabla
+20.	Sobre una circunferencia de centro O se localizan 
+
+dos puntos P y P’ diferentes. 	 Con las boletas se realizó el sorteo de un pase para 
+conocer a la banda. Se sabe que el ganador compró 
+
+	 De las siguientes, ¿cuál figura NO puede resultar al la boleta en lateral y que la probabilidad de ser 
+unir entre sí los puntos P, P’ y O? seleccionado en la localidad en que se estaba es de 
+
+A.	 Un triángulo isósceles. 1/10.
+B.	 Un radio de la circunferencia.
+C.	 Un triángulo equilátero. 	 ¿Cuál era la localidad del asistente que ganó el pase?
+D.	 Un diámetro de la circunferencia. A.	 VIP	 B.	 Platino
+21.	Para fijar un aviso publicitario se coloca sobre un C.	 General	 D.	 Preferencial
+
+muro una escalera a 12 metros del suelo (ver figura 23.	Una fábrica de lápices que realiza el control de 
+1). Las figuras, además, muestran la situación y calidad de sus productos, selecciona una muestra 
+algunas de las medidas involucradas. de 100 lápices. En la siguiente tabla se registra la 
+
+longitud de los mismos:  
+
+Cantidad de lápices Longitud (mm)
+8 149
+
+16 150
+65 151
+11 152
+
+Tabla
+¿Cuál es el coseno del ángulo Ɵ que forman el suelo y 
+la escalera? 	 Con base en la información presentada en la anterior 
+
+tabla y teniendo en cuenta que el margen de error 
+del control de calidad es del +/- 3%, el porcentaje 
+correspondiente a los lápices producidos que miden 
+150 mm está entre
+
+22.	En la tabla se relaciona la ubicación y la localidad de A.	 el 8% y el 16%.	 B.	 el 13% y el 19%.	
+las 70.000 personas que asistieron a un concierto en C.	 el 15% y el 18%.	 D.	 el 16% y el 65%.
+una ciudad.
+
+Prueba de Ciencias Naturales
+24.	Un estudiante toma un resorte atado a una rampa y lo Suponiendo que la energía elástica inicial del resorte es 
+
+comprime. Al soltarlo este impulsa una bola de 1 Kg igual a la energía potencial final de la bola, que depende 
+hacia arriba de la rampa. La bola sube por la rampa de su altura, una herramienta que podría usar el estudiante 
+hasta que se detiene como se muestra en la figura para medir la energía elástica inicial del resorte es
+
+A.	 una regla.
+B.	 una balanza.
+C.	 un cronómetro.
+D.	 un termómetro.
+
+6
+Página Porque mereces ingresar a la universidad
+
+Sesión 1
+
+
+
+25.	En una investigación se calculó la energía cinética 27.	Una varilla metálica aumenta su longitud al calentarse 
+(EC) y potencial (EP) de un acróbata durante un salto en un fenómeno denominado expansión lineal. Esta 
+y se obtuvieron los resultados que se muestran en la expansión es directamente proporcional al cambio de 
+figura. temperatura y a un coeficiente de proporcionalidad, el 
+
+cual solamente depende del metal del que está hecha 
+la varilla y se llama coeficiente de expansión lineal.
+
+	 En un experimento se requiere determinar el coeficiente 
+de expansión lineal de cuatro metales distintos. Para 
+esto se toman cuatro varillas de 15 cm de longitud y 
+se calientan desde una temperatura de 0oC hasta una 
+de 25oC. Los resultados se muestran en la siguiente 
+tabla.
+
+Varilla del Coeficiente de expansión 
+metal lineal (1/oC)
+
+1 29 x 10-6
+
+2 17 x 10-7
+
+3 17 x 10-6
+
+4 11 x 10-6
+
+	 De acuerdo con los resultados del experimento, se 
+puede concluir que la varilla que se expande más está 
+hecha con el metal
+
+	 De los resultados de la investigación se puede concluir 
+que A.	 4, porque tiene menor coeficiente de expansión lineal.
+
+B.	 3, porque tiene mayor coeficiente de expansión lineal.
+A.	 la energía potencial de todo el sistema es mayor que la C.	 2, porque tiene menor coeficiente de expansión lineal.
+
+energía cinética. D.	 1, porque tiene mayor coeficiente de expansión lineal.
+B.	 la suma de la energía potencial y la energía cinética 
+
+cambia en cada punto de la caída. 28.	Un estudiante infla dos globos y los frota contra su 
+C.	 la suma de la energía potencial y cinética es constante saco para cargalos eléctricamente. Enseguida los 
+
+en cada punto de la caída.
+D. cuelga con un hilo de una puntilla como muestra la 
+
+	 la energía cinética en todo el sistema es mayor que la 
+energía potencial. figura y luego los suelta.
+
+26.	Una estudiante mide la presión y la cantidad de aire 
+cuando infla un balón. Los datos se muestran en la 
+tabla.
+
+Presión del aire Masa del aire 
+dentro del balón (atm) dentro del balón (g)
+
+0,10 100 	 Al soltar los globos, el estudiante esperaría que estos.
+0,12 120
+0,15 150 A.	 permanezcan juntos porque quedaron con carga de 
+
+diferente signo.
+0,20 200 B.	 permanezcan juntos porque quedaron con carga de 
+0,21 210 igual signo.
+0,25 250 C.	 se separen porque quedaron con carga de diferente 
+
+	 ¿Cuál de los siguiente diagramas presión (P) versus signo.
+masa (M), puede presentar los resultados de este D.	 se separen porque quedaron con carga de igual signo
+experimento? RESPONDA LAS PREGUNTAS 29 Y 30 
+
+A.	 			   B.	 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN
+Un gas se modela como un sistema de esferas rígidas 
+que están en un recipiente, como se muestra en la figura. 
+Las partículas chocan elásticamente entre sí y con las 
+paredes del recipiente.
+
+C.				    D.	
+
+7
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 1
+
+
+
+29.	Sobre el choque entre dos partículas un estudiante 
+propone:
+
+I.	 La suma de las energías cinéticas de las dos partículas 
+se conserva.
+
+II.	 La energía total de las dos partículas se conserva.
+III.	 La suma de las energías cinéticas de las dos partículas 
+
+no se conserva.
+	 Si ahora el campo eléctrico está en la dirección (x), es 
+
+	 De las propuestas hechas por el estudiante es(son) correcto afirmar que al entrar en la región del campo 
+correcta(s). eléctrico el cuerpo se moverá
+
+A.	 Solamente I.	 B.	 I y II. A.	 más rápido.	 B.	más lento.
+C.	 solamente III.	 D.	 II y III. C.	 a igual rapidez.	 D.	 se quedará quieto.
+
+33.	La gráfica muestra la variación del volumen de un 
+30.	Se coloca una resistencia eléctrica dentro del sólido conforme se aumenta la presión sobre él.
+
+recipiente y se conecta a un circuito cerrado para que 
+a través de ella fluya una corriente eléctrica. Como 
+resultado de esta conexión el gas se calienta.
+
+Esta situación ocurre porque
+
+A.	 el gas le entrega energía térmica a la resistencia. 	 Sobre la tendencia de los datos mostrados en la 
+B.	 la resistencia le entrega energía térmica al gas. gráfica es correcto afirmar que 
+C.	 a través del gas pasa una corriente eléctrica. A.	 al aumentar la presión el cambio de volumen es cada 
+D.	 aparece una resistencia térmica en el circuito. vez menor.
+
+B.	 al aumentar la presión, el volumen tiende hacia su valor 
+31. inicial.
+
+	La segunda ley de Newton afirma que la aceleración C.	 al disminuir la presión el volumen del sólido tiende a un 
+de un objeto es directamente proporcional a la fuerza valor constante.
+que actúa sobre él. En la siguiente figura se muestra un D.	 al disminuir la presión, el volumen del sólido toma sus 
+bloque que se mueve sobre una mesa con rozamiento valores mínimos.
+y su respectivo diagrama de fuerzas. 34.	Antiguamente se consideraba que el movimiento de 
+
+los cuerpos se daba de forma natural e ininterrumpida 
+únicamente en sentido vertical (arriba-abajo) mientras 
+que en el sentido horizontal el movimiento siempre 
+tendía a perderse. Sin embargo, posteriormente se 
+encontró que en realidad el movimiento en el sentido 
+horizontal puede darse de forma ininterrumpida. ¿Qué 
+factor movió este cambio en la conceptualización del 
+movimiento horizontal? 
+
+	 Si el bloque se mantiene acelerando, ¿cuál(es) de A.	 El reconocimiento de que la gravedad generaba el 
+movimiento en el sentido vertical.
+
+las siguientes fuerzas contribuye(n) a la aceleración B.	 El desarrollo de nuevos motores que permiten halar 
+horizontal del bloque y por qué? cuerpos muy pesados.
+
+C.	 El reconocimiento de que existen fuerzas que pueden 
+A.	 El peso y la normal porque son las fuerzas causantes de interrumpir el movimiento vertical de un cuerpo.
+
+que el bloque no se caiga verticalmente. D.	 La realización de experimentos sobre superficies lisas 
+con poca fricción.
+
+B.	 la fricción solamente porque es la fuerza que se opone 
+al movimiento del bloque.
+
+C.	 El peso solamente porque es la fuerza que causa la 35.	Un grupo de estudiantes encontró la siguiente 
+información en un libro: “Una persona promedio puede 
+
+aceleración del bloque debido a la gravedad. soportar una exposición continua durante 16 horas a 
+D.	 La fricción y la fuerza aplicada porque estas actúan un ruido con una intensidad máxima de 82 dB, por lo 
+
+horizontalmente. que después de superarse este valor las personas 
+deben utilizar elementos de protección en el oído”.
+
+32.	Un cuerpo con carga positiva se mueve con una 
+velocidad v en dirección x. Al entrar en una región con 	 Con base en la anterior información, los estudiantes 
+campo eléctrico E (en dirección y) la fuerza eléctrica lo realizaron una investigación con el objetivo de evaluar 
+
+los niveles de ruido a los cuales se expone el ser 
+desvía como se muestra en la figura. humano en la ciudad y determinar cuáles de ellos 
+
+pueden causar daño a la salud. Para ello se midió la 
+intensidad de algunos sonidos comunes de la ciudad 
+
+8 mediante el uso de un sonómetro. De acuerdo con 
+Página Porque mereces ingresar a la universidad
+
+Sesión 1
+
+
+
+lo anterior, ¿cuál de las siguientes carteleras muestra 
+de manera clara la investigación realizada?
+
+A.	
+
+C.	
+
+B.	
+
+9
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 1
+
+
+
+A.	 menor resistividad eléctrica y el flujo de electrones es 
+menor. 39.	Un estudiante observó la siguiente imagen en una 
+
+B.	 menor resistividad eléctrica y el flujo de electrones es revista de deportes
+mayor.
+
+C.	 mayor resistividad eléctrica y el flujo de electrones es 
+menor.
+
+D.	 mayor resistividad eléctrica y el flujo de electrones es 
+mayor.
+
+38.	Se tienen tres segmentos de alambre de igual material 
+e igual área transversal que actúan como resistencias 
+en el circuito eléctrico mostrado en la figura
+
+El estudiante le explica a un compañero que el deportista 
+permanece en reposo porque
+
+A.	 la magnitud de la fuerza neta que ejercen las correas 
+	 Sobre las corrientes (I) en cada resistencia es correcto sobre el deportista es igual a la magnitud del peso del 
+
+afirmar que deportista.
+A.	 I B.	 la magnitud del peso del deportista es mayor que la 
+
+1 > I2 e I2 > I3, porque a mayor resistencia menor 
+corriente. magnitud de la fuerza que ejerce el deportista.
+
+B.	 I C.	 la magnitud del peso del deportista disminuye por la 
+2 < I3 e I1 < I3, porque a mayor resistencia mayor 
+corriente. posición de las piernas del deportista.
+
+C.	 I1 > I2 e I2 < I3, porque a menor resistencia menor D.	 la magnitud de la fuerza que ejerce el deportista es igual 
+corriente. a la magnitud del peso de las correas.
+
+D.	 I3 < I2 e I1 < I2, porque a menor resistencia menor 
+corriente.
+
+40.	Un estudiante desea estudiar la viscosidad del agua y del aceite. Para ello llena dos recipientes con estos líquidos, 
+deja caer desde el reposo esferas pequeñas en cada uno de los recipientes y mide el tiempo que tardan en 
+descender hasta el fondo de los mismos. El estudiante hace intentos para cada líquido. El experimento y los 
+resultados obtenidos se muestran en la figura y en la tabla.
+
+Tiempo de descenso 
+(segundos)
+
+Intento Recipiente con Recipiente con 
+agua aceite
+
+1 0,90 1,20
+2 1,00 1,30
+3 1,00 1,30
+
+Tiempo 
+promedio 0,97 1,27
+
+	 Con los resultados obtenidos, el estudiante concluye que “todos los líquidos que no son transparentes tienen 
+una viscosidad mayor que la del agua”. De acuerdo con lo anterior, ¿hay evidencias suficientes para respaldar la 
+conclusión del estudiante?
+
+A.	 Sí, porque el experimento muestra que la esfera en el recipiente con agua se mide más rápido que en el recipiente con 
+aceite.
+
+B.	 No, porque se necesita realizar más intentos con el agua y el aceite para llegar a esa conclusión.
+C.	 No, porque se necesitan analizar más líquidos con coloración diferente de la del agua para llegar a esa conclusión.
+D.	 Sí, porque al soltar las esferas desde el reposo la única fuerza que actúa sobre ella es la viscosidad.
+
+10
+Página Porque mereces ingresar a la universidad
+
+Sesión 1
+
+
+
+RESPONDA LAS PREGUNTAS 41 Y 42 DE ACUERDO CON LA SIGUIENTE INFORMACION
+
+Una persona quiere estudiar el comportamiento de un A.	 aumente, porque la constante elástica es mayor que 16 
+resorte al que le cuelga objetos de diferente peso. El N/m
+montaje utilizado para este estudio se observa en la figura. B.	 disminuya, porque la constante elástica es mayor que 
+
+16 N/m
+C.	 sea igual, porque al aumentar la constante la fuerza del 
+
+resorte disminuye.
+D.	 sea igual, porque los pesos utilizados son los mismos 
+
+que para el resorte de 16 N/m.
+
+43.	Se sabe que los ratones pierden pelo si su dieta no 
+contiene la vitamina inositol y por eso se ha especulado 
+que el inositol puede prevenir la calvicie en los 
+humanos. Antes de iniciar un experimento para estudiar 
+el efecto del inositol en los hombres calvos, ¿cuál de 
+
+Los datos obtenidos se consignaron en la siguiente tabla. las siguientes acividades sería la más apropiada?
+A. Preguntarles a 50 personas calvas y a 50 personas con 
+
+Objeto No. Peso (N) Estiramiento (m) abundante pelo si han consumido inositol, elaborar una 
+1 0,8 0,05 gráfica y analizarla.
+2 1,6 0,10 B.	 Formar dos grupos con 50 ratones cada uno, darle 
+3 2,4 0,15 inositol sólo a uno de los grupos y ver qué pasa con el 
+4 3,2 0,20 pelo.
+
+C. 	Establecer cuántas marcas de productos farmacéuticos 
+5 4,8 0,30 venden inositol para prevenir la calvicie.
+6 6,4 0,40 D.	 Investigar en libros y documentos si el metabolismo del 
+7 8,0 0,50 inositol es igual en humanos y en ratones.
+8 9,6 0,60
+
+44.	El nitrógeno entra en las cadenas tróficas después de 
+La persona analiza los datos experimentales y encuentra que las plantas lo absorben del suelo y los transforman 
+que la constante elástica del resorte tiene un valor en proteínas. Los consumidores primarios obtienen 
+aproximado de 16 N/m. el nitrógeno al consumir las proteínas de las plantas. 
+
+Con base en esta información ¿qué sucedería con 
+los consumidores terciarios si las plantas redujeran la 
+
+41.	La persona realizó la práctica con dos objetos más absorción de nitrógeno en el ecosistema?
+pesados. La tabla que completa la práctica se muestra A. Los consumidores terciarios no podrían consumir las 
+en plantas del ecosistema.
+
+B.	 Se reduciría el número de consumidores terciarios en 
+A.	 el ecosistema.
+
+Objeto No. Peso (N) Estiramiento (m) C.	 Los consumidores terciarios fijarían el nitrógeno 
+presente en la atmósfera.
+
+9 11,2 0,70 D. Se transformará su nicho a consumidores de primer 
+10 12,8 0,80 grado.
+
+B.	 45.	Un grupo de cultivadores de lulo quiere evaluar cuál es 
+Objeto No. Peso (N) Estiramiento (m) el efecto del fósforo en el suelo y de un hongo que se 
+
+9 11,0 0,70 asocia con la raíz de las plantas durante los primeros 
+10 12,6 0,80 15 días. Para lograrlo, realizaron un experimento 
+
+modificando las dos variables y evaluando el 
+C.	 crecimiento de las plantas con base en su masa seca. 
+
+Los resultados se muestran en la gráfica:
+Objeto No. Peso (N) Estiramiento (m)
+
+9 10,8 0,70
+10 12,4 0,80
+
+D.	
+Objeto No. Peso (N) Estiramiento (m)
+
+9 11,4 0,70
+10 13,0 0,80
+
+42.	Si la persona desea modificar la práctica utilizando un 	 Con los resultados obtenidos, los cultivadores 
+resorte de mayor constante elástica para los mismos concluyeron que para asegurar plantas con mayor 
+pesos utilizados en la práctica anterior, se esperaría masa deben sembrar plantas con asociación del hongo 
+que el estiramiento del resorte en comparación con la en una concentración de fósforo en el suelo cercana a 
+primera práctica 0,2 mg/L.
+
+11
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 1
+
+
+
+	 Con base en los resultados del experimento se puede 	 Con base en la información anterior, ¿cuál de las 
+afirmar que la conclusión anterior es: siguientes funciones se relaciona con el sistema 
+
+A. endocrino?
+	 Acertada, porque la concentración de 0,2 mg/L de 
+
+fósforo generó los mayores crecimientos de plantas A.	 Responder con la producción de hormonas a todos los 
+con la asociación del hongo.
+
+B. estímulos que recibe el organismo.
+	 Acertada, porque el fósforo es un nutriente esencial B.	 Sustituir la glucosa del torrente sanguíneo a hormonas.
+
+para el crecimiento del hongo y la planta.
+C. C.	 Regular el funcionamiento del organismo a través de la 
+
+	 Equivocada, porque las plantas con la asociación del secreción de hormonas.
+hongo tuvieron un crecimiento significativo en todas las D.	 Producir energía para todo el organismo a través de la 
+concentraciones de fósforo.
+
+D. degradación de la glucosa.
+	 Equivocada, porque las plantas sin la asociación con 
+el hongo tienen más masa a 0,2 mg/L comparadas con 47.	Un botánico encontró una especie de plantas con hojas 
+las otras concentraciones. grandes, raíces y tallos largos en el bosque donde hay 
+
+46.	 poca entrada de luz y baja disponibilidad de nutrientes 
+Un ejemplo del funcionamiento del sistema endocrino en el suelo.
+es: 	 ¿Qué funciones pueden relacionar con las 
+
+	 Al disminuir la concentración de glucosa en la sangre características que presenta esta especie de planta?
+se segrega glucagón, una hormona que permite que el 
+azúcar almacenada en algunos músculos sea liberado A.	 Acumular nutrientes y agua en las hojas.
+por el torrente sanguíneo. Por otro lado, si hay una alta B.	 Captar luz y nutrientes en forma eficiente.
+concentranción de glucosa en la sangre, se produce C.	 Conservar mayor cantidad de agua.
+insulina, una hormona que disminuye los niveles de D.	 Defenderse de los animales hervíboros.
+glucosa en el torrente sanguíneo porque la almacena 
+en el hígado y los músculos.
+
+Prueba de Ciencias Sociales Parte I
+48.	En el escenario global se observa que los países 50.	La sustitución de importaciones involucra aquellas 
+
+tecnológicamente avanzados compiten en los mercados políticas que favorecen el proceso de producción 
+internacionales con innovaciones tecnológicas y interna de productos; puede lograrse mediante políticas 
+científicas, mientras que los países denominados artificiales que ponen restricciones al libre comercio, 
+“subdesarrollados” tratan de posicionar en estos como la imposición de aranceles e impuestos a 
+mercados materias primas y mano de obra barata. Esta las importaciones. Sin embargo, la sustitución de 
+situación se da  en parte porque los gobiernos de los importaciones también puede lograrse a través de
+países “subdesarrollados” A.	 la liberación de las importaciones y cualquier barrera al 
+
+A.	 realizan poca inversión en investigación y aplicación libre mercado.
+tecnológica. B.	 el aumento de las exportaciones de los productos 
+
+B.	 tienen poca iniciativa para exportar materias primas agrícolas de un país.
+minerales. C.	 la disminución de los costos y la mejora de los productos 
+
+C.	 no saben cómo vender productos en el mercado nacionales.
+internacional. D.	 el otorgamiento de subsidios a los importadores de 
+
+D.	 han decidido marginarse de los avances tecnológicos productos externos.
+mundiales.
+
+51.	La denominada Epoca Medieval se caracterizó por 
+49.	En cuanto a los cambios en la organización laboral, una economía eminentemente agrícola y un gobierno 
+
+el taylorismo y el fordismo fomentaron la organización descentralizado. Todo pertenecía al rey, quien había 
+del proceso productivo de la empresa mediante la entregado el poder político y económico a  los nobles 
+especialización de las labores de los empleados y la y señores en las regiones que dirigían sus ejércitos 
+estandarización de los procesos, con lo cual buscaban personales; por ello se considera que aun no se puede 
+reducir los costos de producción y abaratar el producto hablar de Estado. Más adelante, el poder político se 
+final a los clientes. fortaleció originó las monarquías absolutas y con ellas 
+
+el Estado moderno caracterizado por
+	 ¿Cuál de las siguientes pautas NO cumple los criterios 
+
+del taylorismo y el fordismo? A.	 un poder político dividido entre la iglesia y los 
+A. gobernantes.
+
+	 aumento de la destreza del obrero mediante la B.	 una forma de organización en feudos y burgos.
+enseñanza de habilidades técnicas.
+
+B. C.	 un poder político, económico y militar centralizado y un 
+	 mayor control del tiempo para aumentar la productividad.
+
+C. territorio delimitado.
+	 distribución equitativa de las ganancias de producción D.	 una forma de organización regida por la ley natural que 
+
+entre industriales y obreros. 
+D. provenía de Dios.
+	 estudio científico del movimiento y proceso productivo.
+
+52.	En las principales ciudades del mundo moderno está 
+produciéndose un paulatino abandono de las zonas 
+
+12
+Página Porque mereces ingresar a la universidad
+
+Sesión 1
+
+
+
+residencilaes del centro urbano, al tiempo que las zonas A.	 garantizar la paz y la prosperidad de las naciones, 
+periféricas tienden a un mayor poblamientos. Estas al expresar los acuerdos y compromisos de cada 
+migraciones las realizan personas o familias que tienen ciudadano con la sociedad.
+ingresos medios y altos: La principal causa de este B.	 impartir justicia y orientar las acciones del Poder 
+fenómeno se atribuye Ejecutivo en un Estado de Derecho.
+
+C.	 establecer un orden jurídico y un marco normativo para 
+A.	 al creciente desarrollo de la industria en el centro de las delimitar el poder del Estado y establecer qué es lo legal 
+
+ciudades. y lo ilegal.
+B.	 a la búsqueda de mejor calidad de vida en barrios D.	 facilitar la labor de los jueces al asumir la tarea de 
+
+tranquilos. impartir justicia, de manera imparcial y oportuna.
+C.	 a la escasa oferta de servicios en los barrios del centro 
+
+de la ciudad. 57.	Con la democracia participativa fortalecida con la 
+D.	 a la creciente oferta de vivienda barata en las afueras de Constitución de 1991, los ciudadanos colombianos 
+
+la ciudad. pueden hacer uso de sus derechos y participar en la 
+toma de las decisiones.
+
+53.	La integración económica se da cuando países cercanos 
+acuerdan unificar aspectos de su política económica y Por lo tanto, la democracia participativa consiste en que 
+social. Esto se traduce en el uso de una misma moneda 
+y en la libre circulación de mercancías y personas dentro A.	 de forma conjunta el Estado y los ciudadanos participan 
+de sus territorios. en la toma de decisiones.
+
+B.	 los ciudadanos eligen a sus candidatos por las 
+	 En la actualidad, el ejemplo más visible y claro de propuestas de sus programas de gobierno.
+
+integración económica lo constituye C.	 las autoridades del gobierno tienen en cuenta las 
+propuestas de los ciudadanos.
+
+A.	 el Trato de Libre Comercio (TLC). D.	 los ciudadanos delegan en organismos especializados 
+B.	 la Unión Europea (EU). la vigilancia y control del gobierno.
+C.	 el Mercado Común del Sur (Mercosur).
+D.	 Estados Unidos de Norteamerica. 58.	Los antecedentes de la Revolución Francesa se pueden 
+
+rastrear en el surgimiento de una burguesía cada vez 
+54.	La sociedad civil se ha definido como un conjunto de más adinerada que deseaba llegar a ejercer el control 
+
+organizaciones sociales que surgen por intereses político, para ello, realizó alianzas coyunturales con 
+económicos, culturales, religiosos, entre otros, y capas sociales menos favorecidas. Estas alianzas 
+mantienen una independencia del Estado. Los partidos desencadenaron conflictos en Francia, dado que
+políticos NO se consideran parte de la sociedad civil 
+porque A.	 las confrontaciones se dieron entre la burguesía de 
+
+origen noble y las fuerzas armadas de la monarquía.
+A.	 uno de sus propósitos es exigir y hacer respetar los B.	 las capas pobres de la estructura social francesa se 
+
+derechos políticos de la sociedad civil por el Estado. enfrentaron con la creciente burguesía comercial 
+B.	 su principal objetivo es dirigir las acciones del gobierno europea.
+
+y de las organizaciones que conforman la sociedad civil. C.	 se conformaron fuerzas que reunían estratégicamente 
+C.	 ocupan una posición intermedia entre el Estado y la artesanos, campesinos, comerciantes y obreros.
+
+sociedad civil y aspiran a representar al estado en el D.	 los bandos estaban conformados por representantes del 
+gobierno. antiguo régimen monárquico y la clase obrera.
+
+D.	 asumen lo político como propio y se encargan de que la 
+sociedad civil acate las normas emitidas por el Estado. 59.	
+
+55.	La acción de la tutela es un mecanismo que busca la 
+protección inmediata de los derechos fundamentales de 
+los ciudadanos. Por tanto, esta se puede presentar ante 
+un juez cuando
+
+A.  se vulnera el derecho a la salud, porque está en riesgo 
+la vida de la persona.
+
+B.	 alguien es expulsado de una agremiación, a pesar de 
+estar al dia en sus pagos.
+
+C.	 se busca proteger un derecho colectivo de constituir 
+juntas de acción comunal.
+
+D.	 se legisla sobre el derecho a la vida y el acceso a un 
+trabajo digno para las personas. 	 Esta fotografía fue tomada a comienzos del siglo XX 
+
+56.	Se dice que una Constitución es la ley de leyes, la fuente en América Latina. Teniendo en cuenta este contexto 
+de toda la jurisprudencia en un Estado de Derecho. Por histórico, es más probable que corresponda a
+esta razón, cada una de las normas que se expidan debe 
+ajustarse a los principios y mandatos constitucionales; los A.	 las luchas de independencia de los países 
+cuales no pueden alterarse fácilmente. En consonancia latinoamericanos.
+con lo anterior, una Constitución sirve principalmente B.	 un grupo de personas que participó en la revolución 
+para cubana.
+
+13
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 1
+
+
+
+C.	 la aparición de movimientos revolucionarios en un país sólido para formar una unión monetaria robusta y 
+centroamericano. plena, con un sistema bancario unificado y una mayor 
+
+D.	 un grupo de milicianos que participaron en la Primera integración fiscal”. De lo anterior, puede inferirse que el 
+Guerra Mundial. FMI
+
+60.	En la actualidad, Ciudad de México, con más de 20 A.	 toma las decisiones cambiarias del sistema bancario de 
+millones de habitantes es la ciudad más poblada del los países que conforman la zona euro.
+planeta y en su crecimiento ha absorbido a varias B.	 genera políticas microeconómicas que deben aplicar los 
+ciudades vecinas, lo cual hace difícil identificar dónde estados de Europa central y occidental.
+termina una ciudad y empieza otra. Este tipo de ciudad C.	 ayuda a los países en desarrollo a sanear sus economías 
+se define como mediante políticas de choque a la crisis económica.
+
+A.	 ciudad jardín.	 B. D.	 brinda a los países recomendaciones y ejerce la 
+	 ciudad hongo.
+
+C.	 megalópolis.	 D. supervisión de las políticas económicas aplicadas.
+	 metrópolis.
+
+61. 65.	El socialismo busca la igualdad social, política y 
+	Con la aplicación de la ciencia y la tecnología los económica. Para alcanzar este propósito el socialismo 
+efectos de la Revolución Industrial mejoraron los propone
+procesos productivos en el campo y propiciaron el uso 
+de nuevas fuentes de energía como el cabón y el vapor. A.	 privatizar los medios de producción y lograr desmontar 
+Indirectamente esta revolución condujo a los sindicatos de las empresas transnacionales y 
+
+A. multinacionales.
+	 el deterioro del ambiente y al uso irracional de la tierra.
+
+B. B.	 impulsar el consumo y la capacidad de endeudamiento 
+	 la consolidación de la agricultura y la ganadería.
+
+C. de trabajadores como factores fundamentales para 
+	 la desaparición de las pequeñas y medianas empresas.
+
+D. dinamizar la economía.
+	 la interrupción de la minería y la manufactura. C.	 ofrecer bienes y servicios según el esquema de los 
+
+62. tratados de libre comercio y la apertura económica de 
+	En un sector de la opinión pública norteamericana, las fronteras nacionales.
+ser árabe y practicar el islam se asocia con un tipo D.	 lograr la tendencia colectiva de los medios de producción 
+de nacionalismo religioso exacerbado, vinculado y la consolidación del poder político en las clases 
+directamente con el ejercicio de la violencia. Con el trabajadoras.
+propósito de ampliar esa mirada y profundizar en la 
+complejidad de las sociedades del Oriente Medio usted 66.	El Derecho Internacional Humanitario (DIH) es un 
+plantearía conjunto de normas de carácter internacional que 
+
+A.	 investigar los principios que mueven a los árabes al en tiempos de guerra protege a las personas que no 
+fundamentalismo islámico, y así logra restringir su participan en el combate. En este contexto, el principio 
+actuación en las sociedades europea y norteamericana. más general del DIH es 
+
+B.	 conocer los principios de la identidad del mundo islámico A.	 prohibir el uso de armas biológicas y la tortura.
+y comprender los escenarios de tensión y conflictos B.	 garantizar el respeto de normas minimas humanitarias.
+internacionales vinculados con los recursos energéticos.
+
+C. C.	 hacer efectivo el respeto de los Derechos Humanos.
+	 iniciar campañas en la prensa y la televisión para mostrar D.	 limitar el uso de unas armas y determinados métodos de 
+la influencia que tienen los dirigentes árabes, producto combate.
+de la extracción de petróleo, en la economía global.
+
+D.	 indagar sobre el extremismo del mundo islámico y 67.	El rector de un colegio buscaba ayudar a los estudiantes 
+comprender cómo sus practicantes se internan en las de bajos recursos económicos para que pudieran 
+sociedades del mundo occidental. comprar los útiles escolares y uniformes. Implementó 
+
+63. entonces un programa de recolección de los desechos 
+	Una de las conclusiones del congreso nacional de una reciclables en las instalaciones del colegio. Con la venta 
+organización social es la siguiente de estos desechos pudo recaudar dinero.
+
+	 “Se hace necesario que fortalezcamos nuestra propia 	 El rector de otro colegio quisiera ayudar a sus estudiantes 
+identidad como grupo. Sin identidad no lograremos un de la misma manera.
+reconocimiento político, económico y social. Los jóvenes 
+deben aprender a trabajar como lo hacíamos antes. 	 ¿Qué debe tener en cuenta este último rector para que 
+Nuestras escuelas deben enseñar a respetar nuestros su proyecto tenga éxito?
+valores y prácticas políticas”. Estas conclusiones se 
+centran en promover A.	 Que los estudiantes aprendan sobre el proceso de 
+
+reciclaje.
+A.	 los saberes culturales.	 B.	 trabajo y economía. B.	 Que sólo debe ayudar a los niños que sobresalen 
+C.	 los valores ciudadanos.	 D.	 la educación de calidad. académicamente.
+
+C.	 Que el colegio no debe pedir una lista de útiles escolares.
+64.	En un informe fechado en junio de 2012, el Fondo D.	 Que el colegio no debe exigirles uniformes a los 
+
+Monetario Internacional (FMI) plantea que “la crisis en la estudiantes.
+zona del euro ha alcanzado una etapa crítica, [...] e insta 
+a los 17 países de la zona a mantener su compromiso 68.	La conquista y la colonización europea del continente 
+
+americano implicó la dominación y el control tanto de 
+14
+
+Página Porque mereces ingresar a la universidad
+
+Sesión 1
+
+
+
+la población nativa de América como la del continente A.	 complementarias, pues tanto el acceso a los 
+africano, porque preservativos como un mejor conocimiento sobre la 
+
+A. sexualidad son medida que se refuerzan.
+	 se irrespetaron los ritos y costumbres religiosas de las B.	 innecesarias, pues ninguna de esas medidas puede 
+
+culturas dominadas.
+B. reducir de manera significativa el índice de embarazos 
+	 el intercambio de las tres culturas fue pacífico, igualitario en adolescentes..
+
+y fraterno.
+C. C.	 contradictorias, pues la educación sexual busca 
+	 se forzó a los aborígenes americanos a trabajar y a los primordialmente que los adolescentes no tengan que 
+
+africanos a la esclavitud.
+D. acudir al uso de preservativos.
+	 los europeos trajeros esclavos africanos para defenderse D.	 contraproducentes, pues la educación sexual y la 
+
+de los aborígenes. disponibilidad de preservativos llevan a los adolescentes 
+69. a tener más relaciones sexuales.
+
+	En 1791, Olympia de Goules presentó ante la Asamblea 
+francesa su “Declaración de los Derechos de la Mujer 71.	En Colombia, la discriminación de personas con 
+y de la Ciudadana”. Allí sostuvo que “...El ejercicio de orientación sexual diferente a la heterosexual, es decir, 
+los derechos naturales de la Mujer no encuentra otros lesbianas, homosexuales, bisexuales y transgéneristas, 
+límites sino la tiranía perpetua a la que el hombre la ha llevado a procesos de movilización y acciones 
+somete (...) Su pensamiento se consideró como una afirmativas de estas comunidades por la defensa de 
+`Osadía juzgada en la época, como un verdadero hecho sus derechos. Estas movilizaciones y acciones que 
+delictivo por haber`... olvidado las virtudes de su sexo visibilizan a personas con orientación sexual diferente 
+para mezclarse en los asuntos de la república...”. a la general, son fundamentales en el desarrollo de la 
+
+igualdad y del respeto por la diferencia, porque
+Tomado de: http://www.apdh-argentina.org.ar/publicaciones
+
+A.	 exigen al gobierno proyectos pedagógicos para la salud 
+Esta declaración evidencia que las mujeres sexual.
+A. B.	 denuncian la explotación laboral y las condiciones de 
+
+	 se acogieron a la Declaración de los Derechos del marginación espacial de estas personas.
+Hombre y del Ciudadano proclamados por Francia.
+
+B. C.	 promulgan y reivindican los derechos y se denuncia la 
+	 tuvieron que luchar contra los roles tradicionales que las exclusión.
+
+excluían de la vida política y les impedían gozar de sus D.	 sensibilizan a la gente sobre la importancia de reconocer 
+derechos.
+
+C. la diversidad de creencias religiosas.
+	 formaron parte de los grupos revolucionarios y sus 
+
+aportes y luchas fueron reconocidos en la Declaración 72.	La Revolución Industrial se debió, entre otras causas, a 
+de los derechos. la invención de la máquina de vapor y la concentración 
+
+D.	 se opusieron a la Declaración de los Derechos del del capital, que permitió adquirir máquinas para 
+Hombre y del ciudadano que proclamaron los hombres. producir en masa. Esta revolución produjo cambios en 
+
+la población, se pasó de la explotación de la tierra a la 
+70.	Según investigaciones recientes, en Colombia el producción de bienes, del telar familiar a la gran fábrica 
+
+17% de las adolescentes entre los 15 y 19 años y de la manufactura a la producción tecnificada.
+alguna vez han estado embarazadas y el 14% ya son 
+madres. Para enfrentar este problema se contemplan 	 De acuerdo con lo anterior, se puede afirmar que una 
+diferentes alternativas.  Algunos proponen incrementar de las consecuencias de esta revolución, respecto a la 
+de manera significativa el acceso de los adolescentes población, fue el
+a preservativos, instalando dispensadores gratuitos A.	 traslado del campo a la ciudad y el surgimiento del 
+en sitios públicos frecuentados por jóvenes. Otros proletariado urbano.
+argumentan que lo mejor es incrementar las campañas B.	 crecimiento de la población rural sobre la urbana.
+de educación sexual en colegios públicos y privados. C.	 nacimiento de una élite propietaria de la tierra.
+Respecto a las dos soluciones propuestas, puede D.	 desarrollo de un modelo económico para la protección 
+afirmarse que estas son del proletariado.
+
+Prueba de Lenguaje
+RESPONDA LAS PREGUNTAS 73 A 75 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN 
+
+LAS SAGAS ISLANDESAS en Islandia y Noruega sobre los reyes de este último país. 
+Sin embargo, el sentido fundamental del término ha pasado 
+
+En la antiguedad escandinava se llamaba saga a las pequeñas a referirse fundamentalmente a un tipo determinado de obra 
+leyendas sobre seres heróicos, mitológicos, etc., como las que literaria que se produjo en Islandia entre los siglos XIII y XIV, 
+de hecho aparecen en las Eddas. Sin embargo, en el siglo aunque hay epígonos posteriores.
+XIII apareció en Islandia un género literario al que se aplicó 
+la misma denominación y que no tiene prácticamente relación Los estudiosos clasifican las sagas en varios tipos; sin embargo 
+directa con aquellas antiguas leyendas: la saga propiamente el principal de ellos es el de las Sagas Islandesas; dentro de 
+dicha. este grupo existen algunas de carácter fundamentalmente 
+La palabra islandesa saga quiere decir “lo dicho, lo contado”. histórico, mientras que otras unen, a partes iguales, realidad 
+
+En general, podríamos traducirla por “narración” y así se histórica y ficción, las hay también en que predomina lo 
+puede aplicar también a las historias narrativas escritas ficticio e incluso es claro que algunas son simples obras 15
+
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 1
+
+
+
+de ficción sin base histórica. Sin embargo, en general podemos 
+decir que una saga es una narración, cuya acción transcurre 75.	Del texto anterior se puede afirmar que es un texto 
+en torno a la época de la colonización de Islandia, hasta la explicativo porque
+conversión del país al cristianismo, en torno al año 1000 y en la A.	 expresa opiniones.	 B.	demuestra ideas.
+que se cuenta la vida de un personaje islandés. C.	 aclara un fenómeno.	 D.	expone un pensamiento.
+Podríamos compararlas con novelas históricas o con 
+biografías noveladas. En unas y otras, el autor sitúa la acción RESPONDA LAS PREGUNTAS 76 A 84 DE ACUERDO CON 
+en un tiempo pasado y, asesorándose mediante libros de LA SIGUIENTE INFORMACIÓN.
+historia, biografías, etc, hace una narración que puede ser 
+completamente inventada, aunque siempre haya algunos EL LENGUAJE EN EL COMIENZO DEL <<MUNDO>>
+elementos de carácter histórico. Los personajes, o el personaje 
+principal, pueden ser inventados también, o reales, en cuyo [...] El lenguaje hace la diferencia sustancial entre el hombre 
+caso el elemento histórico  puede ser más o menos importante, y el primate. Sin lenguaje no hay pensamiento, y el tejido de 
+incluso hasta predominar con claridad. Lo mismo sucedía con relaciones por fuera del lenguaje aún no es social, pues se 
+las sagas, tanto en la forma  en que trabajaba el autor como por funda mucho más en la simple instintividad gregaria que en la 
+su propio carácter literario. acción comunicativa entre sujetos. El trabajo de transformación 
+
+sustituye al trabajo simple de recolección, y se humaniza en 
+Desde los principios del país, colonizado a partir del año la medida en que el pensamiento le confiere la opción de 
+874, los islandeses gustaban de componer historias en verso convertirse en una actividad orientada al logro de realidades 
+y, posiblemente, también en prosa sobre los personajes [...].
+de la historia de su país, especialmente de la época de la 
+colonización. Estas historias no se escribían, sino que tenían Según Claude Lévi-Strauss* antes el lenguaje era el reino 
+carácter exclusivamente oral. Su función era múltiple: por un del canto y, quizás, agregamos nosotros, el dominio de los 
+lado servían de entretenimiento, pero también guardaban los gruñidos onomatopéyicos. El canto ha sobrevivido en las 
+recuerdos históricos, la genealogía de las familias, los hechos culturas históricas subsiguientes pero se ha ennoblecido y 
+más importantes que habían sucedido en el país, en cada humanizado gracias al lenguaje, al progreso de los instrumentos 
+región y en cada una de sus familias principales; servían así, en y a la evolución de las formas musicales. Los fines arcaicos y 
+cierto modo, para mantener la relación entre familias del mismo primarios del canto animal fueron, pues, sobrepasados por los 
+origen establecidas en lugares distintos de la isla. fines del lenguaje simbólico que terminó apoderándose de lo 
+Estas historias orales se conservan entonces a lo largo humano, imprimiéndole otro rumbo. La onomatopeya sobrevive 
+de varios siglos, pues suponemos que se originarían poco como huella vestigial, y los gruñidos del hombre ya no dicen 
+después de la muerte de los personajes, si no en vida de estos. tanto como en otro tiempo pudieron haber dicho.
+Esto explicaría, aparentemente al menos, varias cosas. En 
+primer lugar, ciertos rasgos estilísticos de las sagas, propios Gracias al lenguaje simbólico que proyecta sobre lo real el 
+del lenguaje hablado y no del escrito; además la existencia de soplo de su propio <<sentido>>, el <<mundo>> fue posible 
+variaciones más o menos grandes entre diversos manuscritos como mundo y como representación de un <<todo>> exterior 
+de las sagas. coherente. Comunicación entre sujetos y sentido del <<mundo>> 
+
+y de la exitencia humana, he ahí lo que el lenguaje fundó he 
+Fuentes:	Texto basado en Prefacio de Enrique Bernárdez a “Textos hizo posible. Desde ese mismo momento ya no fuimos sólo 
+mitológicos de las Eddas”. Libros de los Malos Tiempos. Ed Miraguano. casualidad en el mundo, azar entre el azar de las cosas, sino 
+Literaturas Germánicas Medievales, Jorge Luis Borges, Alianza una especie de protagonistas <<inteligentes>> en medio de la 
+Editorial gramática de una realidad supuestamente dotada de sentido, 
+Voluspá - “Textos Mitológicos de las Eddas” condecorados y distinguidos como habíamos sido con la ilusión 
+Libros de los Malos Tiempos. Ed Miraguano, sobre Voluspá Sigurdur del <<hombre puesto en este mundo cargado de sentido>> tal 
+Nordal gaf ut. Reykjavik, Heifell, 1952. y como si ese sentido fuera algo realmente existente de manera 
+
+objetiva y no una simple proyección o atribución del sujeto a 
+Tomado y adaptado de: http://www.asatru-argentina.com la casualidad de lo real, dominado como había quedado por 
+
+el reino de su lenguaje y el carácter <<carcelario>> de sus 
+códigos. Se pensó, pues, que el sentido tan anhelado era un 
+
+73.	Cuando se dice que la palabra islandesa saga quiere decir atributo objetivo del mundo y no algo atribuido por el sujeto al 
+“lo dicho, lo contado”, esto último permite: mundo, una simple proyección o exhalación de los códigos y 
+
+A.	 convenciones de la lengua sobre la causalidad de lo real.
+definir qué es una saga.
+
+B.	 sugerir la naturaleza del género.
+C.	 *Levi-Strauss, Claude. Mitológicas, Lo crudo y la cocido. 
+
+caracterizar un tipo especial de relato.	
+D.	 México. Fondo de Cultura Económica. 1968.
+
+diferenciar las sagas islandesas de las leyendas.
+76.	El texto anterior está organizado de la siguiente manera: 
+
+74.	Cuando se afirma que las sagas islandesas tienen ciertos 
+rasgos estilísticos propios del lenguaje hablado y no del A.	 Primer párrafo: afirmación e introducción.
+escrito, se quiere señalar que 	 Segundo párrafo: explicación sustentada por una figura de 
+
+autoridad.
+A.	 los escandinavos no escribieron los relatos contenidos en 	 Tercer párrafo: reflexión.
+
+las sagas islandesas. B.	 Primer párrafo: introducción y explicación.
+B.	 el lenguaje hablado no tienen la rigurosidad que exige el 	 Segundo párrafo: explicación sustentada por un hecho 
+
+lenguaje escrito. histórico.
+C.	 el desarrollo escritural del Norte de Europa fue incipiente 	 Tercer párrafo: conclusión.
+
+en el siglo XIII. C.	 Primer párrafo: explicación e introducción.
+D.	 el origen de estos relatos se funda en la tradición oral 	 Segundo párrafo: explicación sustentada por un hecho 
+
+16 del pueblo nórdico. histórico.
+	 Tercer párrafo: explicación.
+
+Página Porque mereces ingresar a la universidad
+
+Sesión 1
+
+
+
+D.	 Primer párrafo: introducción y planteamiento del problema. el <<mundo>> fue posible como mundo y como 
+	 Segundo párrafo: explicación sustentada por una figura de representación de un <<todo>> exterior coherente...”, 
+
+autoridad. al escribir la palabra mundo con comillas, y sin éstas 
+	 Tercer párrafo: explicación a modo de conclusión. respectivamente, se
+
+77.	En el tercer párrafo del texto se habla específicamente: A.	 establece la primera como mundo posible y la segunda 
+A.	 del hombre y del primate. como representación de un todo exterior coherente.
+B.	 de la significación y del sentido. B.	 aclara que en la primera existen múltiples concepciones 
+C.	 del trabajo y del hombre. del mundo y en la segunda se limita al mundo como 
+D.	 de la realidad y del azar. espacio físico.
+
+C.	 enfatiza que la primera hace referencia al mundo antes 
+78.	En el texto, la nota del pie de la página se utiliza para del lenguaje y la segunda después de la inserción del 
+
+referenciar lenguaje simbólico en éste.
+D.	 aclara que la primera se refiere al mundo subjetivo y la 
+
+A.	 una obra.	 B.	un intertexto. segunda a la multiplicidad de realidades sobre éste.
+C.	 una fuente.	 D.	un autor.
+
+84.	En la expresión “Según Claude Lévi-Strauss, antes el 
+79.	De acuerdo con la perspectiva del texto sobre la diferencia lenguaje era el reino del canto...”, la palabra subrayada es
+
+sustancial entre el hombre y el primate, el enunciado que 
+guarda relación directa con éste: A.	 una preposición que tiene como función conectar la 
+
+A.	 la transformación del primate a hombre es consecuencia introducción y la afirmación del primer párrafo con la 
+de cambios genéticos en el seno de una población. explicación del segundo párrafo. 
+
+B.	 el hombre y el primate, al ser producto de la creación B.	 una conjunción adversativa que tiene como función 
+divina, son especies inmutables. oponer la afirmación y la introducción del primer párrafo 
+
+C.	 la transformación  del primate al hombre no se da a través con la explicación del segundo párrafo. 
+de un proceso gradual, sino, por el contrario, mediante C.	 una preposición que tiene como función relacionar la 
+cambios drásticos. introducción y el planteamiento del problema del primer 
+
+D.	 el fenómeno del paso del primate a hombre se da mediante párrafo con la explicación del segundo párrafo.
+el proceso de transformaciones fortuitas y sucesivas. D.	 una conjunción adversativa que tiene como función 
+
+contraponer la explicación y la introducción del primer 
+80.	Teniendo en cuenta la forma en que el autor plantea el párrafo con la explicación del segundo.
+
+desarrollo del texto, se puede afirmar que su perspectiva 
+es RESPONDA LAS PREGUNTAS 85 Y 86 DE ACUERDO CON 
+
+LA SIGUIENTE INFORMACIÓN
+A.	 positivista, porque se interesa en la reorganización de la 
+
+vida social para el bien de la humanidad.
+B.	 evolucionista, porque considera todo proceso de cambio 
+
+como producto de transformaciones.
+C.	 historicista, porque considera la realidad como producto 
+
+de un devenir histórico.
+D.	 estructuralista, porque entiende en gran medida a la 
+
+cultura humana como un sistema.
+
+81.	En la expresión “Se pensó, pues, que el sentido tan 
+anhelado era un atributo objetivo del mundo y no algo 
+atribuido por el sujeto al mundo...”, la palabra subrayada 
+expresa
+
+A.	 contraposición, porque da paso a la contrastación de 
+ideas que sustentan una idea anterior.
+
+B.	 causalidad, porque da paso a la presentación de razones 
+que sustentan una idea anterior.
+
+C.	 consecución, porque da paso a la exposición de 
+consecuencias que se desprenden de una idea anterior.
+
+D.	 oposición, porque da paso a la refutación de ideas que 
+sustentan una idea anterior.
+
+82.	Al tener en cuenta la estructura del texto anterior, este 
+puede ubicarse dentro de los textos
+
+A.	 narrativos.	 B.	 argumentativos.
+C.	 explicativos.	 D.	 descriptivos.
+
+83.	En la expresión “Gracias al lenguaje simbólico que 
+proyecta sobre lo real el soplo de su propio <<sentido>>, 
+
+17
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 1
+
+
+
+85.	Según la infografía, “los países de ingresos medios solo C.	 situaciones religiosas que afectaron a los griegos del 
+tienen la mitad de los vehículos existentes en el mundo y, a siglo V.
+pesar de eso, sufren el 80% de las muertes por accidente D.	 problemas políticos que sólo afectaban a la sociedad 
+de tránsito”. griega del siglo V.
+
+	 En este enunciado, la conjunción ‘a pesar de’ cumple la 89.	¿En qué medida lo que conocemos es verdadero o 
+función de cierto? Las diferentes corrientes filosóficas responden 
+
+esta pregunta utilizando métodos cuyos resultados 
+A.	 resaltar que el índice de muertes por accidente de tránsito les permite afirmar o descartar la certeza de lo que se 
+
+en países de ingresos medios es bastante elevado dadas conoce. Una razón por la cual estos métodos ayudan a 
+sus condiciones particulares. descartar o afirmar la verdad es porque
+
+B.	 oponer el alto número de vehículos en países de ingresos 
+medios frente al bajo porcentaje de muertes por accidente A.	 verifican lo conocido como verdadero.
+de tránsito. B.	 establecen una relación entre la realidad y lo que se 
+
+C.	 aclarar que el alto índice de muertes por accidente de conoce.
+tránsito en países de ingresos medios está estrechamente C.	 constatan que todo lo que se conoce es falso.
+relacionado con el número de autos. D.	 contrastan la verdad con la mentira para obtener certeza.
+
+D.	 señalar que el índice de muertes por accidente de tránsito 
+en países de ingresos medios puede ser aun más alto de 90.	Para el filósofo ingles G. Berkeley   (1685-1753), “ser 
+lo dicen las cifras oficiales. es ser percibido”. Esta frase indica que aquello que 
+
+percibimos
+86.	Considere la siguiente descripción del contenido de la A.	 existe mientras sea percibido. 
+
+infografía: «La infografía muestra datos sobre la frecuencia B.	 no existe aunque sea percibido. 
+de los accidentes de tránsito en el mundo, y ejemplos C.	 es percibido en la medida en que existe.
+relacionados. Además, informa sobre la mortalidad por D.	 es percibido aunque puede que en realidad no exista.
+género, por ingresos, por número de vehículos, por tipo de 
+vehículo y por ubicación regional.» 91.	Leopoldo Zea   afirmó que “la filosofía es actividad 
+
+Esta descripción es insatisfactoria porque humana encaminada hacia la tarea de enfrentar y 
+solucionar problemas humanos, en una época y en unas 
+
+A.	 pasa por alto información esencial contenida en la circunstancias determinadas”. La reflexión de Zea
+infografía. A.	 niega la posibilidad de construir una filosofía 
+
+B.	 el orden de su contenido no corresponde con el de la latinoamericana.
+infografía. B.	 critica aquellas propuestas filosóficas propias de la 
+
+C.	 menciona información que no está presente en la infografía. época.
+D.	 omite evidencias que sustentan la información de la C.	 posibilita la construcción de una filosofía latinoamericana.
+
+infografía. D.	 admira y defiende la filosofía griega y europea.
+RESPONDA LAS PREGUNTAS 87 Y 88 92.	El bing bang (o gran estallido) es una teoría que defiende 
+
+DE ACUERDO CON LA SIGUIENTE INFORMACIÓN que el universo es producto de una gran explosión. 
+Antes de ella la materia se concentraba en un punto de 
+
+“Así es un amigo mío, dice Platón: si has hallado para los densidad infinita. La  explosión de este punto generó la 
+que van a gobernar un modo de vida mejor que el gobernar, expansión de la materia en todas las direcciones, con lo 
+podrás contar con un Estado bien gobernado; pues sólo en él cual se formó el universo.
+gobiernan los que son realmente ricos, no en oro, sino en la 
+riqueza que hace la felicidad: una vida virtuosa y sabia. No, 	 La anterior información es un esbozo de una teoría 
+en cambio, donde los pordioseros y necesitados, de bienes científica. Este tipo de teorías científicas
+privados marchan sobre los asuntos públicos, convencidos 
+de que allí han de apoderarse del bien; pues cuando el A. aporta elementos para la que la filosofía renueve su visión 
+gobierno se convierte en objeto de disputas, semejante del universo.
+guerra doméstica e intestina acaba con ellos y con el resto B. resta importancia a las discusiones filosóficas sobre el 
+del Estado”. origen del universo.
+
+C. niega la existencia de un dios o divinidad creador de todo.
+87.	En la Colombia actual, una lectura del texto de Platón D. muestra que la ciencia se basta a sí misma para explicarlo 
+
+puede equiparar “pordioseros y necesitados” con los todo.
+A.	 corruptos que roban los recursos públicos. 93.	Algunas corrientes filosóficas consideran que existen tres 
+B.	 habitantes de la calle que carecen de vivienda. clases de mal. El mal físico resulta de eventos producidos 
+C.	 sectores populares que reivindican derechos sociales. en virtud de las leyes de la naturaleza; el mal metafísico 
+D.	 líderes sociales que trabajan por el bien de la comunidad. resulta del hecho de que el ser humano es finito; y el 
+
+mal moral resulta de algunas acciones que los seres 
+88.	En el texto anterior, la reflexión filosófica de Platón, humanos pueden realizar en el ejercicio de su libertad.
+
+construida hacia el siglo quinto (V) antes de Cristo, se 
+refiere a 	 Entre los siguientes enunciados, ¿cuál presenta un 
+
+ejemplo de mal moral?
+A.	 situaciones políticas que afectarán a las sociedades del 
+
+futuro. A.	 La catástrofe ocasionada por un terremoto.
+B.	 problemas políticos que pueden presentarse en 
+
+18 B.	 Las reflexiones sobre el sentido de la muerte. 
+cualquier sociedad. 
+
+Página Porque mereces ingresar a la universidad
+
+Sesión 1
+
+
+
+C.	 La tragedia que implica el genocidio de la comunidad. D. Las ciencias aportaron conocimientos centrales sobre la 
+D.	 El desarrollo tecnológico que posibilita la ciencia. naturaleza humana.
+
+94.	 Algunos filósofos consideran que la vida no tiene sentido 99.	 Lea el siguiente texto de Max Scheler.
+más allá de sí misma. De los siguientes enunciados, 	 “Tras una historia de ya más de diez mil años, estamos 
+¿cuál apoya mejor esta consideración? en una época en que, por primera vez, el hombre 
+
+es para sí mismo un ser radical y universalmente 
+A.	 El cuerpo es perecedero, pero el alma es eterna. <<problemático>>. El hombre ya no sabe quién es y se 
+B.	 Una persona desaparece por completo cuando muere su da cuenta de que jamás lo llegará a saber. Sólo se volverá 
+
+organismo. a tener juicios fundamentados si se hace tabula rasa de 
+C.	 Aunque el hombre es mortal, algunos seres no lo son. todas las tradiciones relacionadas con este problema y 
+D.	 El ser humano está compuesto de cuerpo y alma. se contempla con el máximo rigor metodológico y con el 
+
+más grande estupor a ese ser llamado hombre”.
+95.	¿Cuál de los siguientes planteamientos NO es una Tomado de: Mex Scheler, El puesto del hombre 
+
+objeción a la existencia de Dios? en el cosmos, Barcelona: 2000, p.
+A.	 Dios es el fundamento último de la moralidad. 	 El filósofo afirma que el hombre es un ser radical y 
+B.	 Dios es una proyección del hombre y de sus creencias. universalmente problemático. Esto significa que el ser 
+C.	 La idea de la existencia de Dios es una distracción para humano
+
+justificar la dominación social.
+D.	 Dios es una expresión sublime del resentimiento de los A.	 problematiza el sentido de la vida.
+
+débiles frente a los poderosos. B.	 no se preocupa por el futuro.
+96.	Sobre el problema del conocimiento, el filósofo griego C.	 evoluciona para saber quién es.
+
+Protágoras de Abdera afirmó: “El hombre es la medida D.	 es un ser que no se comprende a sí mismo.
+de las cosas, lo que no significa sino que lo que le parece 
+a cada uno, tal es para él también con certeza”. RESPONDA LAS PREGUNTAS 100 A 105 DE ACUERDO 
+
+CON LA SIGUIENTE INFORMACIÓN
+Lo anterior significa que la verdad depende “Nadie es justo por voluntad sino porque tiene el poder 
+A.	 del conocimiento científico. de cometer injusticias. Esto lo percibiremos mejor si nos 
+B.	 de lo que diga un credo religioso. imaginamos las cosas del siguiente modo: demos tanto al 
+C.	 de lo que cada hombre opine. justo como al injusto el poder de hacer lo que cada uno de 
+D.	 de lo que la razón puede demostrar. ellos quiere,  y a continuación sigámoslo para observar hasta 
+
+dónde lo lleva a cada uno el deseo. Entonces sorprenderemos 
+al justo tomando el mismo camino que el injusto, siguiendo 
+
+97.	Algunas escuelas filosóficas consideran que las acciones sus propios intereses, lo que toda criatura persigue por 
+morales se fundamentan en las emociones o en los naturaleza como un bien, pero que la fuerza de la ley obliga 
+sentimientos, mientras que otras consideran que la base a seguir el camino por la igualdad.
+de la moralidad son los principios universales que deben 
+ser aceptados por los miembros de una sociedad. El poder del que hablo sería efectivo al máximo si aquellos 
+
+hombres adquirieran una fuerza tal como la que se dice 
+	 Un argumento que apoya la idea según la cual la moral que cierta vez tuvo Giges, el antepasado del lidio, Giges 
+
+se fundamenta en principios universales es: era un pastor que servía al entonces rey de Lidia. Un día 
+sobrevivió una gran tormenta y un terremoto que rasgó la 
+
+A.	 Los actos morales dependen de los estados de ánimo. tierra y produjo un abismo en el lugar en que Giges llevaba 
+B.	 La razón no puede motivar la acción moral. el ganado a pastorear. Asombrado al ver esto, descendió al 
+C.	 La guía de la moral son las pasiones humanas. abismo y halló, entre otras maravillas que narran los mitos, 
+D.	 El ejercicio de la razón es la fuente de la moral. un caballo de bronce, hueco y con ventanillas, a través de las 
+
+cuales divisó adentro un cadáver de tamaño más grande que 
+el de un hombre según parecía, y que no tenía nada excepto 
+
+98.	Lee el siguiente texto. un anillo de oro en la mano. Giges le quitó el anillo y salió del 
+	 “Ninguna época ha logrado tanto y tan dispares abismo. Ahora bien, los pastores hacían su reunión habitual 
+
+conocimientos sobre el hombre como la nuestra… Y, sin para dar al rey el informe mensual concerniente a la hacienda, 
+embargo, ninguna otra época como la nuestra ha sabido cuando llegó Giges llevando el anillo. Tras sentarse entre 
+tan poco sobre el hombre. Pues jamás ha sido el hombre los demás, casualmente volvió el engaste del anillo hacia el 
+tan problemático como ahora”. interior de su mano. Al suceder esto se tornó invisible para 
+
+los que estaban sentados allí, quienes se pusieron a hablar 
+Tomado de: Heidegger Matin, Kant y el problema de la metafísica. de él como si si hubiera ido. Giges si asombró, y luego, 
+
+Madrid: 1993, p. examinando el anillo, dio vuelta al engaste hacia afuera y 
+tornó a hacerse visible. Al advertirlo, experimentó  con el 
+
+	 ¿Cuál de las siguientes opciones presenta una situación anillo para ver si tenía tal propiedad y comprobó que así era: 
+por la cual en el siglo XX, según Heidegger, se conocía cuando giraba el engaste hacia adentro , su dueño se hacía 
+tan poco sobre el hombre? invisible, y cuando lo giraba hacia afuera, se hacía visible. 
+
+En cuanto se hubo cerciorado de ello, maquinó el modo de 
+A.	 Las ciencias naturales no aportaron nada nuevo. formar parte de los que fueron a la residencia del rey como 
+
+B.	 Se hizo mucho daño a múltiples ecosistemas. informantes y, sedujo a la reina y con la ayuda de ella mató al 
+C.	 La historia se desarrolló de una manera imprevisible. rey y se apoderó del reino. 19
+
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 1
+
+
+
+Por consiguiente, si hubiesen dos anillos como el de Giges y D.	 La justicia no brinda ninguna de las ventajas individuales 
+se diera uno a un hombre justo y otro a uno injusto, ninguno que la justicia brinda.
+perseveraría en la injusticia ni soportaría abstenerse de 
+bienes ajenos, cuando podría tanto apoderarse impunemente 102. ¿Cuál de las siguientes afirmaciones presenta una 
+de lo que quisiera del mercado, como, al entrar en las casas, razón de la cual se deriva la tesis principal del texto 
+acostarse con la mujer que prefiera, y tanto matar a unos anterior, según la cual nadie es justo por voluntad sino 
+como librar de las cadenas a otros, según su voluntad, y por obligación?
+hacer todo como si fuera igual a un dios entre los hombres. 
+En esto, el hombre justo no haría nada diferente del injusto, A.	 La gente se ve obligada a actuar justamente.
+sino que ambos marcharían por el mismo camino. E incluso B.	 Sólo la igualdad garantiza el respeto por la ley.
+si diría que esto es una importante prueba de que nadie C.	 La injusticia brinda las mismas ventajas individuales que 
+es justo si no es forzado a serlo, por no considerarse a la la justicia.
+justicia como un bien individual, ya que allí donde cada uno D.	 Siempre que una persona cuente con la libertad para 
+se cree capaz de cometer injusticias, las comete. En efecto, cometer injusticias lo hará.
+todo hombre piensa que la injusticia le brinda más ventajas 
+individuales que la justicia, y está en lo cierto, si habla de 103. ¿Cuál de las siguientes afirmaciones expresa de modo 
+acuerdo con esta teoría”. preciso la tesis principal del texto anterior?
+
+Tomado de Platón IV, D. (1986). República, traducción y A.	 Las personas que actúan con justicia no lo hacen por 
+notas de C. Eggers Lan, Madrid. Gredos. voluntad sino por obligación.
+
+B.	 La injusticia, contrariamente a la justicia, es inevitable en 
+100. Según la estructura del texto anterior, ¿cuál es el el ser humano.
+
+propósito general del autor al introducir el relato sobre el C.	 Actuar con justicia brinda mucho menos ventajas que 
+anillo de Giges? hacerlo con justicia.
+
+D.	 La injusticia, contrariamente a la justicia, se comete 
+A.	 Promover en su audiencia la idea de que es más ventajoso voluntariamente.
+
+seguir el camino de la justicia, señalando los beneficios 
+que obtuvo Giges gracias al poder del anillo. 104. ¿Cuál de las siguientes afirmaciones sintetiza 
+
+B.	 Convencer a su audiencia de que todos cometen adecuadamente las ideas contenidas en el primer 
+injusticias cuando tienen la oportunidad, tal como hizo párrafo?
+Giges al ver el poder que le otorgaba el anillo.
+
+C.	 Reforzar en su audiencia de que todos cometen A.	 El que alguien sea justo es una obligación que se deriva 
+injusticias, al ilustrar con el caso de Giges que quien de la conciencia moral que tienen todos los hombres.
+obtenga el poder del anillo perseguirá la injusticia a su B. El que alguien sea justo es una imposición, pues toda 
+voluntad. persona sin las restricciones y exigencias de la ley 
+
+D.	 Persuadir a su audiencia de que la justicia se hace por buscará satisfacer sus deseos.
+voluntad, al mostrar que Giges no requirió más impulsos C. La justicia es una ilusión, ya que lo natural es que una 
+para ser injusto que el poder del anillo. persona busque cumplir sus deseos y alcanzar sus 
+
+intereses, sin reparar en la igualdad que exige la ley.
+101. ¿Cuál de los siguientes enunciados es un supuesto D. La justicia es un engaño, ya que toda persona, por más 
+
+subyacente a la afirmación “todo hombre piensa que justa que aparente ser, tiene intereses propios que 
+la injusticia le brinda más ventajas individuales que la pueden llevarla a cometer injusticias.
+justicia, y está en los cierto, si habla de acuerdo con esta 
+teoría”? 105. ¿Cuál de los siguientes términos es el sinónimo más 
+
+adecuado para la expresión “respeto por la igualdad”, 
+A.	 La injusticia brinda las mismas ventajas individuales que que se encuentra en la última frase del primer párrafo?
+
+la justicia también brinda.
+B.	 La justicia, al igual que la injusticia, brinda ventajas A.	 Imparcialidad.	 B.	 Rectitud.
+
+individuales. C.	 Sensatez.	 D.	 Honestidad.
+C.	 La injusticia, a diferencia de la justicia brinda pocas 
+
+ventajas individuales.
+
+20
+Página Porque mereces ingresar a la universidad
+
+Sesión 1

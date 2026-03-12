@@ -1,0 +1,1427 @@
+﻿Sesión 2
+
+Simulacro
+
+SABER  11o
+
+F10 V2
+
+Áreas Nº de Preguntas
+Matemáticas II 32
+Ciencias Naturales II 28
+
+En el siguiente cuadro usted encuentra Sociales y Ciudadanas II 20
+las pruebas que va a resolver, el número 
+
+Inglés 45
+de preguntas y el tiempo disponible para 
+contestarlas.
+
+Número total de preguntas: 125
+Duración total de la prueba: 4 Hor. 30 Min.
+
+IMPORTANTE
+Dentro de esta bolsa plástica usted encuentra:
+Un cuaderno con preguntas, una hoja de respuestas y una hoja de operaciones.
+
+NO ABRA LA BOLSA PLÁSTICA HASTA CUANDO EL JEFE DE SALÓN SE LO INDIQUE
+Tomado de preguntas liberadas por el ICFES
+
+
+
+Prueba de Matemáticas
+1. 	En determinada zona de una ciudad se construyen edificios 4. 	La función f(x) =  genera la siguiente 
+
+de apartamentos, cada metro cuadrado tiene un costo de 	 tabla para diferentes valores de x1 cuando x tiende por derecha $800.000, y se asegura a los compradores que en esta zona e izquierda a 1
+anualmente, el metro cuadrado se valoriza un 5% respecto al 
+costo del año anterior. 
+
+	 ¿Con cuál de las siguientes expresiones se representa el costo 
+de un metro cuadrado en esa zona, transcurridos n años?
+
+A.	 800.000 + 5n.	 B.	 800.000(5n).
+
+C.	 800.000 	 D.	 800.000 
+
+2. 	En la figura se representa un cuadrilátero MNOP con la medida 
+de algunos de sus lados, ángulos y de una de sus diagonales.
+
+	 Cada vez que x se acerca a 1 por derecha los valores de f(x) 
+crecen cada vez más. Se define como asíntota vertical a la 
+
+	 Los lados PO y MN del cuadrilátero son paralelos porque recta que se puede construir paralela al eje Y, que corta al eje 
+A.	 MO es congruente con MN.	 B.	 r` es congruente con β X en un punto y no corta a la curva o curvas descritas por la 
+C.	 PM es congruente con NO.	 D.	 α es congruente con β función y su valor se acerca continuamente a esta.
+
+3. 	Las directivas de la carrera de administración de una 	 De acuerdo con la información anterior es correcto deducir 
+universidad realizan un sondeo acerca del salario mensual de que
+100 de sus egresados.
+
+	 Los resultados se muestran en la gráfica A.	 existe una asíntota vertical en x=1 ya que x debe ser distinto 
+de 1 y f(1) no existe.	
+
+B.	 sólo existe una asíntota vertical en x=-1, ya que f(-1)=0
+C.	 existe una asíntota vertical en x=1, ya que f(x) 1 para todo x 
+
+en el dominio.	
+D.	 no existen asíntotas verticales, ya que la recta y = x corta la 
+
+función.
+
+5. 	En una nevera hay 50 jugos de los cuales 10 son de naranja 
+y los demás de manzana. Si antes de que alguien tome un 
+jugo al azar, otra persona guarda 5 más de cada sabor, la 
+probabilidad de que tome un jugo de naranja, ahora respecto 
+al momento en el que había 50 jugos, es
+
+	 ¿Por qué se puede afirmar que la mediana es 1.300.000?
+A.	 Porque hay 50 personas que tienen un salario mayor o igual A.	 mayor, porque se agrega la misma cantidad del cada sabor.
+
+que éste y otras 50 tiene un salario menor o igual que este. B.	 menor, porque la proporción de jugos de naranja disminuye 
+B.	 Porque es el salario mensual que tiene la mayor cantidad de respecto al total.
+
+personas. C.	 menor, porque la cantidad de jugos en total aumenta.
+C.	 Porque el 50% de las personas tiene un salario menor o igual D.	 mayor, porque la proporción de jugos de naranja aumentó con 
+
+que este. respecto al total.
+D.	 Porque este valor corresponde al promedio de los datos.
+
+6. 	En una clase de geometría se planteó el siguiente problema: “Construir un rectángulo semejante al que se presenta en la figura”
+
+2
+Página Porque mereces ingresar a la universidad
+
+Sesión 2
+
+
+
+Para resolver el problema, un estudiante realizó la siguiente construcción:
+
+	 Respecto a los rectángulos EFGH y MNOP es correcto afirmar que
+A.	 son semejantes porque los lados del rectángulo inicial se incrementaron 1 cm
+B.	 son semejantes porque los ángulos internos correspondientes son congruentes.
+C.	 no son semejantes porque sus lados correspondientes tienen diferentes medidas.
+D.	 no son semejantes porque sus lados correspondientes no son proporcionales.
+
+7. 	La suma digital (Sd) se define como la suma de los digitos que 9. 	En una fábrica se aplica una encuesta a los empleados para 
+conforman un número, es decir: saber el medio de transporte que usan para llegar al trabajo, 
+
+Sd(532)= 5 + 3 + 2 = 10 y luego decidir si se implementa un servicio de ruta. Los 
+Sd(20)= 2 + 0 = 2 resultados mostraron, entre otras, estas tres conclusiones 
+
+Sd(111)= 1 + 1 + 1 = 3 sobre un grupo de 100 empleados que viven cerca de la 
+Según la anterior información, si se desea conocer la cantidad de fábrica y que se desplazan únicamente en bus o a pie:
+números cuya suma digital (Sd) sea 9, es correcto afirmar que
+
+	 El 60% del grupo son mujeres
+A.	 corresponde a la mitad de la cantidad de números cuya suma 	 El 20% de las mujeres se transportan en bus
+
+sea 18, pues es el doble de 9.
+B.	 existe una cantidad infinita de números que cumplen la 	 El 40% de los hombres se desplaza caminando
+
+condición, dado que el dígito 0 permite construir diferentes ¿Cuál de las siguientes tablas representa correcta-mente la 
+números cuya suma digital es 9.
+
+C.	 excede en uno a la cantidad de números cuya suma digital es información obtenida de ese grupo?
+8, pues 9 es igual a 8+1.
+
+D.	 existe una cantidad finita de números que cumplen la condición, A.	
+ya que no es posible utilizar todos los digitos para cumplirla.
+
+8. 	Un octágono regular es un polígono de ocho lados y ocho 
+ángulos internos congruentes. La figura muestra un octágono 
+regular inscrito en una circunferencia de radio 2.
+
+B.	
+
+C.	
+
+	 Con la expresión 2sen45º
+sen67,5º  se puede calcular en el octágono D.	
+
+	 de la figura, la medida del
+	 A.	 ángulo OPQ.	 B.	 segmento PQ.
+
+	C.	 ángulo QOP.	 D.	 segmento OQ.
+3
+
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 2
+
+
+
+10.	Un trapecio isósceles es un cuadrilátero que tiene un solo par 14.	La expresión  relaciona la sonoridad de un  sonido de 
+de lados paralelos y los otros dos, de igual medida. 30 decibeles con su intensidad (I) y la menor intensidad (Io) 
+
+	 En un plano cartesiano se dibuja un trapecio isósceles de que percibe el oído humano. ¿Cuántas veces es el valor de I 
+modo que el eje Y divide al trapecio en dos figuras iguales. respecto a Io?
+
+	 Si las coordenadas de dos de los vértices del trapecio son A.	 Una milésima.	 B.	 Un tercio.
+(-4, 2) y (-2, 8), ¿Cuáles son las coordenadas de los otros dos C.	 Tres veces.	 D.	 Mil veces.
+vértices?
+
+A.	 (8, 2) y (2, 4).	 B.	 (2, 8) y (4, 2). 15.	En determinada zona de una ciudad se construyen edificios 
+C.	 (-2, -4) y (-8, -2).	 D.	 (-4, -2) y (-2, -8). de apartamentos en los que cada metro cuadrado tiene un 
+
+costo de $800.000, y se asegura a los compradores que en 
+esta zona anualmente, el metro cuadrado se valoriza un 5% 
+
+RESPONDA LAS PREGUNTAS 11 A 12 DE ACUERDO CON respecto al costo del año anterior. ¿Con cuál de las siguientes 
+LA SIGUIENTE INFORMACIÓN expresiones se representa el costo de un metro cuadrado en 
+
+Para adquirir un crédito por $6.000.000, Ángela solicita en una esa zona, transcurridos n años?
+entidad financiera información sobre las modalidades de pago A.	 800.000 + 5n	 B.	 800.000 (5n)
+para crédito. Un asesor le da la siguiente información. 
+
+C.	 800.000 	 D.	 800.000  
+
+16.	Se puede encontrar números racionales mayores 
+que k, de manera que sean cada vez más 
+cercanos a él, calculando  (con j entero
+
+	 positivo). Cuanto más grande sea j, más cercano a k será el 
+racional construido. ¿Cuántos números racionales se pueden 
+construir cercanos a k y menores que ?
+
+A.	 10, que es la cantidad de racionales menores que 11.
+B. Una cantidad infinita, pues existen infinitos números enteros 
+
+mayores que 11.
+*En cualquier modalidad, el saldo del crédito cada mes será igual C. 11, que es el número que equivale en este caso a j.
+a la diferencia entre el saldo del crédito del mes anterior y el abono D. Uno, pues el racional más cercano a k se halla con j = 10, es 
+al crédito realizado en el mes. decir, con k + 0,1.
+
+11. 	Después de analizar la información, Ángela afirma: “Con la 17.	En la figura se representa una cancha de fútbol con las 
+modalidad I, el valor de la cuota disminuirá $50.000 en cada medidas de sus lados.
+mes”. La afirmación es correcta porque
+
+A.	 el interés total del crédito será $300.000 y cada mes disminuirá 
+$50.000.
+
+B.	 cada mes se abonará al crédito $1.000.000 y el interés 
+disminuirá en $50.000.
+
+C.	 cada mes aumentará el abono al crédito en $50.000, de 
+manera que el interés disminuirá.
+
+D.	 el abono al crédito disminuirá $50.000 cada mes, al igual que 
+el interés. 	 Un arquitecto realiza una maqueta del diseño de la cancha, 
+
+12.	El interés total de un crédito es la cantidad de dinero que se con medida de los lados cien veces menor que las medidas 
+paga adicional al valor del mismo. ¿Cuál(es) de los siguientes originales. El diseño de la maqueta medirá
+procesos podría utilizar la entidad, para calcular el interés total A.
+del crédito de Ángela, si se pagara con la modalidad II?
+
+Proceso 1:	 calcular el 20% de $6.000.000.
+Proceso 2:	 calcular el 20% de $6.000.000 y multiplicarlo por 12.
+Proceso 3:	 calcular el valor de la cuota, multiplicarlo por 12 y al 
+
+resultado restarle $6.000.000.
+A. 1 solamente.	 B. 2 solamente.
+C. 1 y 3 solamente.	 D. 2 y 3 solamente. B. 
+
+13.	Un colegio necesita enviar 5 estudiantes como representantes 
+a un foro sobre la contaminación del medio ambiente. 
+Se decidió que 2 estudiantes sean de grado décimo 
+y 3 de grado undécimo. En décimo hay 5 estudiantes 
+preparados para el foro y en undécimo hay 4. ¿Cuántos 
+grupos diferentes pueden formarse para enviar al foro?
+
+	 A.	 9	 B. 14	 C. 20	 D. 40
+4
+
+Página Porque mereces ingresar a la universidad
+
+Sesión 2
+
+
+
+C. 
+
+D. 
+
+19.	Con el SFV más los ahorros con los que cuente el grupo 
+familiar y el crédito que obtenga de una entidad financiera, 
+se puede comprar la vivienda. Por tanto, el procedimiento 
+
+18. correcto para estimar el valor del crédito que debe solicitarse 
+	El área de los rectángulos que se pueden construir a partir al banco es:
+del origen, los ejes y un punto que pertenece a la gráfica de A.	 Valor del crédito = ingresos + ahorros + subsidio + valor de la 
+la función  donde x > 0, se describe con la expresión Vivienda.
+Ax= xf(x). B.	 Valor del crédito = valor de la vivienda – ahorros – subsidio.
+
+C.	 Valor del crédito = ingresos + ahorros – subsidio + valor de la 
+Vivienda.
+
+D.	 Valor del crédito = valor de la vivienda + subsidio – ahorros.
+
+20.	Una persona que observa la información de la tabla elabora la 
+gráfica que se presenta a continuación.
+
+¿Cuál de las siguientes gráficas corresponde a Ax?
+
+A. B. 
+La gráfica presenta una inconsistencia porque
+A.	 los ingresos y el subsidio correspondientes se dan en miles de 
+
+pesos, y no en SMMLV.
+B.	 la correspondencia entre ingresos y subsidios es inversa, pero 
+
+no disminuye de manera constante y continua.
+C.	 faltan algunos valores de los subsidios presentados en la 
+
+tabla.
+	 	 D.	 los valores del subsidio deben ser ascendentes, pues a 
+
+menores ingresos, mayor es el subsidio.
+C. D. 21.	Una familia con ingresos entre 0 y 1 SMMLV recibe un subsidio 
+
+equivalente a
+A.	 1,4 veces el subsidio de una familia de ingresos entre 2 y 2,25 
+
+SMMLV.
+B.	 1,8 veces el subsidio de una familia de ingresos entre 2,5 y 
+
+2,75 SMMLV.
+C.	 3,5 veces el subsidio de una familia de ingresos entre 3 y 3,5 
+
+SMMLV.
+	 D.	 5,5 veces el subsidio de una familia de ingresos entre 3,5 y 4 
+
+	 SMMLV.
+22.	Entre los 16 estudiantes de un salón de clases se va a rifar 
+
+RESPONDA LAS PREGUNTAS 19 A 22 DE ACUERDO CON LA una boleta para ingresar a un parque de diversiones. Cada 
+SIGUIENTE INFORMACIÓN estudiante debe escoger un número del 3 al 18. El sorteo 
+
+se efectúa de la siguiente manera: se depositan 6 balotas 
+El subsidio familiar de vivienda (SFV) es un aporte que entrega en una urna, cada una numerada del 1 al 6; se extrae una 
+el Estado y que constituye un complemento del ahorro, para balota, se mira el número y se vuelve a depositar en la urna. 
+facilitarle la adquisición, construcción o mejoramiento de una El experimento se repite dos veces más. La suma de los tres 
+solución de vivienda de interés social al ciudadano. A continuación puntajes obtenidos determina el número ganador de la rifa. 
+se presenta la tabla de ingresos en salarios mínimos mensuales Si en la primera extracción del sorteo se obtuvo 2, es más 
+legales vigentes (SMMLV) y el subsidio al que tiene derecho, para probable que el estudiante que escogió el número 10 gane la 
+cierto año. rifa a que la gane el estudiante con el número 7, porque
+
+A.	 al ser mayor el número escogido, es mayor la probabilidad 
+de ganar. 5
+
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 2
+
+
+
+B.	 el primer estudiante tiene una posibilidad más de ganar que el La mayor diferencia en el consumo de petróleo del 2003 al 2008, 
+segundo. se dio entre:
+
+C.	 es más probable seguir obteniendo números pares. A.	 Venezuela y Colombia en el año 2008
+D.	 es mayor la diferencia entre 10 y 18 que entre 2 y 7. B.	 Iraq y Colombia en el año 2003
+
+C.	 Venezuela e Iraq en el año 2008
+RESPONDA LAS PREGUNTAS 23 Y 24 D.	 Colombia e Iraq en el año 2005
+
+DE ACUERDO CON LA SIGUIENTE INFORMACIÓN 26.Una empresa que exporta diariamente la misma cantidad de 
+En la figura se presenta la parte lateral de un coliseo con algunas flores obtiene mayor ganancia mientras mayor sea la diferencia 
+de las medidas del techo. entre el precio de cierre y de apertura del dólar durante el día.
+
+	 En la tabla se presentan los precios del dólar durante cuatro 
+días
+
+Abrió (en pesos) Cerró (en pesos)
+Día 1 2.005 1.977
+Día 2 1.977 1.998
+Día 3 1.998 2.003
+Día 4 2.003 2.010
+
+Tabla
+Con base en la información de la tabla, es correcto afirmar que el 
+día de mayor ganancia para la empresa fue el
+A.	 1	 B.	 2	 C.	 3	 D.	4
+
+27.En la figura 1 se muestra una pista de forma parabólica, donde 
+se practica patinaje.
+
+23.Con cuál de las siguientes expresiones se puede determinar En la figura 2 se representa la forma de la pista en un plano 
+X? cartesiano.
+
+A.		 Sen 60o	 =	 sen 60o La expresión y=(x-2)2 relaciona la altura y el desplazamiento 
+		  20 m		  x horizontal x de un patinador
+
+B.  		 x	 =	 20 m
+	 	Sen 30o		  Sen 60o
+
+C. 	 	 x	 =	 h
+		 Sen 60o		  Sen 30o
+
+D. 	 	Sen 30o	 =	 Sen 60o
+
+	 	 X	 	 h
+	 ¿En cuáles de los siguientes pares de desplazamientos 
+
+24.En el techo del coliseo se han señalado cuatro piezas donde se horizontales, alcanza el patinador la misma altura?
+pueden identificar A.	 1 m, 4 m	 B.	 1 m, 3 m
+
+A. dos triángulos isósceles y dos triángulos equiláteros. C.	 2 m, 3 m	 D.	 2 m, 4 m
+B.	 cuatro triángulos equiláteros.
+C.	 cuatro triángulos rectángulos. 28.Los polígonos que tienen al menos una diagonal exterior 
+
+(diagonal: segmento que une dos vértices no consecutivos) 
+D.	 dos triángulos rectángulos y dos triángulos escalenos. se llaman polígonos cóncavos.
+
+25.La siguiente gráfica presenta el promedio del consumo de Observa la figura.
+petróleo por día, en tres países, entre los años 2003 y 2008.
+
+Figura
+¿Cuál de los siguientes polígonos de la figura es cóncavo?
+A.	 LMNR	 B.	 LRPQ	 C.	 OPQR	 D.	 NOQR
+
+6
+Página Porque mereces ingresar a la universidad
+
+Sesión 2
+
+
+
+29.La gráfica representa la variación del área de rectángulos cuyos A cuál de las siguientes situaciones NO puede corresponder la 
+lados miden x y ax unidades;  a es una constante positiva. información del diagrama:
+
+A. edades, en años, de jóvenes inscritos en un curso vacacional.
+B.	 promedio de peso, en kilos, de jóvenes que cursan secundaria.
+C.	 tiempo, en horas, que dedican algunos jóvenes a realizar 
+
+actividades extraescolares.
+D.	 distancia, en kilómetros, recorrida diariamente  por un grupo 
+
+de atletas.
+31.Diez atletas entrenan para una competencia y su entrenador 
+
+registra el tiempo que emplea cada uno de ellos en dar una 
+vuelta a la pista.
+En promedio los 10 atletas emplearon  27 segundos. El menor 
+y el mayor tiempo registrados fueron 21 y 30 segundos; tres de 
+los atletas emplearon entre 25 y 26 segundos.
+
+La observación de la gráfica permite concluir correctamente que, en Si los tiempos de los otros cinco atletas no difieren entre ellos 
+todos los rectángulos, ax es en más de un segundo; estos atletas emplearon entre
+
+A.	 el doble de x.	 B.	 el cuádruple de x. A.	 22 y 23 segundos	 B.	 24 y 25 segundos
+C.	 el cuadrado de x.	 D.	 el cubo de x. C.	 26 y 27 segundos	 D.	 28 y 29 segundos
+
+32.A continuación se presenta el desarrollo plano de un sólido, 
+30.En la gráfica se representa información sobre características con las medidas (en cm) de algunos lados de los polígonos 
+
+de un grupo de personas. que lo componen.
+
+¿Cuál es el volumen del sólido?
+A.	 42 cm3	 B.	 70 cm3	 C.	 84 cm3	 D.	 96 cm3
+
+Prueba de Ciencias Naturales
+33.	La siguiente gráfica muestra las concentraciones normales 
+
+de la hormona foliculoestimulante (FSH) responsable del 
+desarrollo del folículo ovárico y la hormona luteinizante (LH) 
+responsable de la ovulación
+
+B.	
+
+Los anticonceptivos orales combinados con las hormonas 
+(estrógenos y progestinas) cuya función es alterar la secreción C.	
+normal de las hormonas hipofisarias. Estos anticonceptivos 
+inhiben la producción de FSH y baja los niveles de LH. Según 
+la información ¿cuál de las siguientes gráficas representa la 
+actividad hormonal de una mujer que consume anticonceptivos 
+orales?
+
+A.	 7
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 2
+
+
+
+D.	
+
+34.	En un laboratorio se investiga el efecto de varios 
+medicamentos sobre los diferentes organismos.
+
+	 Se descubrió que estos medicamentos actúan sobre 
+determinadas partes de la célula, como se muestra en la 
+tabla.
+
+Medicamento Efecto
+X Incrementa la producción 
+
+de cloroplastos
+W Incrementa la producción 
+
+de mitocondrias
+	 Según la información anterior, ¿qué tipo de organismos se 
+
+beneficiarían con estos medicamentos?
+
+A.	 Medicamento W: plantas y animales.
+	 Medicamento X: sólo animales.
+B.	 Medicamento X: sólo plantas.
+	 Medicamento W: sólo animales.
+C.	 Medicamento W: sólo plantas.
+	 Medicamento X: sólo animales.
+D.	 Medicamento X: sólo plantas. El sistema nervioso regula respuestas rápidas y una corta duración 
+	 Medicamento W: plantas y animales. como la locomoción; el sistema endocrino regula respuestas 
+35. tardías y de larga duración, como el crecimiento y el desarrollo. 
+
+	La figura muestra la absorción de glucosa de una célula De acuerdo con las figuras, ¿a qué se debe la diferencia en la 
+epitelial del intestino. velocidad de respuesta de los sistemas?
+
+A.	 Las hormonas viajan por el torrente sanguíneo y son 
+reconocidas por determinadas células, mientras que las 
+neuronas se conectan directamente a las células que activan.
+
+B.	 Las hormonas regulan respuestas en órganos cercanos a la 
+glándula que las produce mientras que los nervios regulan 
+respuestas en órganos lejanos al órgano estimulado.
+
+C.	 El sistema endocrino responde a estímulos internos y el 
+nervioso a estímulos externos.
+
+D.	 El sistema endocrino actúa en los órganos internos del 
+cuerpo y el sistema nervioso actúa en el cerebro.
+
+La glucosa entra en las células epiteliales por transporte activo, 37.	En las sabanas africanas coexisten los leones y las hienas. 
+el cual se lleva a cabo en un evento de cotransporte con sodio Ambas especies se alimentan de las mismas presas y 
+(Na+). Para que tenga lugar este proceso se necesita una alta frecuentemente luchan entre sí y se roban lo que la otra 
+concentración extracelular de Na+ generada por la actividad de la especie cazó. Se ha observado que los leones machos cazan 
+bomba sodio-potasio (Na+ - K+). y matan hienas sin comérselas y que las hienas depredan a 
+¿Qué pasaría con el transporte de glucosa si hubiera una ausencia los cachorros de leones.
+de K+ en el ambiente extracelular de las células epiteliales del 
+intestino? 	 Con base en la información anterior, se puede afirmar que la 
+
+relación que existe entre leones y hienas les ha permitido a 
+A.	 El transporte de glucosa sería normal por ser independiente lo largo del tiempo
+
+de la presencia de K+.
+B.	 El transporte de glucosa se interrumpiría por disminución de A.	 compartir los mismos comportamientos y estrategias de 
+
+Na+ extracelular. caza.
+C.	 El transporte de glucosa aumentaría al haber más Na+ B.	 mantener reducidas las dos poblaciones de animales.
+
+disponible. C.	 dividir equitativamente los recursos para mantener estables 
+D.	 El transporte de glucosa ocurriría solamente a través de la a las dos especies.
+
+bomba Na+ - K+. D.	 establecer al león como la especie dominante en la sabana 
+africana.
+
+36.	Las figuras muestran la manera en que el sistema endocrino 
+(1) y el sistema nervioso (2) transmiten las señales que les 38.	En la tabla se muestran los datos de oxígeno disuelto en una 
+permiten a los seres humanos responder a los cambios laguna contaminada.
+
+8 internos del cuerpo y a los estímulos externos.
+Página Porque mereces ingresar a la universidad
+
+Sesión 2
+
+
+
+	 El incremento de oxígeno dentro de la célula después de dos 
+Profundidad (cm) Oxígeno Presencia de 
+
+disuelto (mg/L) organismos vivos horas se debe a que:
+10 4,5 Sí A.	 las moléculas de oxígeno ingresaron sin gasto de energía 
+50 9,5 Sí porque estaban en mayor concentración en el medio.
+
+B.	 la membrana de la célula hizo invaginaciones atrapando el 
+200 1,8 Sí oxígeno del medio.
+250 0,5 No C.	 la membrana de la célula estaba dañada porque se filtró el 
+
+oxígeno.
+Con estos datos, un investigador puede inferir que habrá una D.	 las moléculas de oxígeno pasaron por transporte activo porque 
+mayor cantidad de estaban en menor concentración en el interior.
+A.	 organismos autótrofos a 200 cm que heterótrofos. 42.	Es común que las bacterias intercambien genes, entre ellos, 
+B.	 bacterias a 250 cm, porque no necesitan oxígeno. aquellos que les confieren resistencia a un antibiótico. En la 
+C.	 organismos consumidores a 10 cm por estar cerca de la gráfica se muestra el resultado de un experimento en el que 
+
+superficie. se sometieron tres tipos de bacterias a un nuevo antibiótico 
+D.	 organismos autótrofos a 50 cm que producen oxígeno. durante 5 días.
+
+39.	El lobo ártico tiene una temperatura corporal de 37oC, sin 
+embargo, la temperatura de sus patas puede descender 
+hasta 0oC.
+
+Por esta razón, los animales han desarrollado   un sistema de 
+intercambio calórico en las patas en el cual la sangre fría que 
+retoma por las venas absorbe el calor de la sangre que llega a las 
+extremidades, a través de las arterias.
+Este intercambio calórico representa una ventaja porque
+A.	 reduce la pérdida de calor a través de las extremidades del 
+
+cuerpo.
+B.	 iguala la temperatura de las extremidades a la temperatura del Con base en esta información, ¿qué puede concluirse sobre la 
+
+medio. resistencia de este tipo de bacterias al antibiótico?
+C.	 minimiza la actividad muscular y la producción de energía 
+
+metabólica. A.	 Las tipo 1 son las únicas que resisten el antibiótico y sobreviven.
+D.	 aumenta la oxigenación de la sangre que es transportada por B.	 Las tipo 2 obtuvieron la resistencia al antibiótico de las tipo 1.
+
+las venas. C.	 Las tipo 3 obtuvieron la resistencia al antibiótico de las tipo 2.
+D.	 Las tipo 2 obtuvieron la resistencia al antibiótico de las tipo 3.
+
+40.	La biomagnificación es un proceso de acumulación de una 
+sustancia tóxica, como el mercurio, en los organismos de 43.	Un estudiante cree que a cualquier temperatura, los peces 
+niveles tróficos superiores. La sustancia se presenta en bajas en el agua de mar siempre tendrán mayor disponibilidad 
+concentraciones en organismos al principio de la cadena de oxígeno (O2) disuelto en el agua dulce. Para comprobar 
+trófica y en mayor concentración a medida que asciende. la hipótesis el estudiante mide la cantidad de oxígeno (O2) 
+Con base en esta información, un investigador va a averiguar en ambos tipos de agua (dulce y de mar) en regiones del 
+si existe biomagnificación en la cadena trófica del atún que mundo con distintas temperaturas obteniendo los siguientes 
+es un pez carnívoro. ¿Cuál es la hipótesis que él debería resultados:
+plantearse?
+
+A.	 La concentración de mercurio en los atunes va a ser mayor Cantidad promedio de oxígeno
+que la de sus presas y la cantidad dependerá de la cantidad (mL de O2 por L de agua)
+de mercurio en ellas. Temperatura oC Agua dulce Agua de mar
+
+B.	 La concentración de mercurio en los atunes va a ser menor 0 10,29 7,27
+que la de sus presas y la cantidad dependerá de la cantidad 10 8,02 6,35
+de mercurio en ellas. 15 7,22 5,79
+
+C.	 La concentración de mercurio en los atunes va a ser mayor 20 6,57 5,31
+que la de sus presas y la cantidad no dependerá de la cantidad 30 5,57 4,46
+de mercurio en ellas.
+
+D.	 La concentración de mercurio en los atunes va a ser menor Al analizar los resultados el estudiante debe concluir que
+que la de sus presas y la cantidad no dependerá de la cantidad 
+de mercurio en ellas. A.	 los peces a 10oC en agua de mar tienen mayor disponibilidad 
+
+de oxígeno que los peces de agua dulce a 20oC.
+41.	Una célula es introducida en un medio rico en oxígeno (O B.	 los peces a 15oC en agua dulce tienen mayor disponibilidad de 
+
+2) 
+y permanece allí durante dos horas, como se muestra en el oxígeno que los peces de agua de mar  que están en regiones 
+dibujo. a 0oC.
+
+C.	 los peces a 30oC en agua de mar presentan mayor 
+disponibilidad de oxígeno que los peces que se encuentran a 
+cualquier otra temperatura medida en el experimento.
+
+D.	 los peces a 0oC y en agua dulce presentan mayor disponibilidad 
+de oxígeno que los peces que se encuentran a cualquier otra 
+temperatura medida en el experimento.
+
+44.	Una estudiante desea conocer las proteínas presentes en 
+la sangre. Para ello, emplea una técnica que las separa de 
+acuerdo con su peso molecular y produce una respuesta en 
+diferentes instantes de tiempo cada vez que una proteína 
+es detectada. 9
+
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 2
+
+
+
+	 Ella obtiene los resultados mostrados en la siguiente gráfica, 
+en donde cada pico representa una proteína diferente. 45.	Una estudiante dispone de los siguiente métodos   de 
+
+separación de mezclas en el  laboratorio del colegio.
+
+Método de 
+separación Fundamento
+
+Destilación Separación de dos o más líquidos solubles entre sí 
+y que tienen diferentes puntos de ebullición.
+
+Cristalización Separación de un sólido soluble del líquido que lo 
+contiene, al forzar la formación de cristales.
+
+Filtración Separación de un sólido insoluble de un líquido al 
+retener el sólido en un papel poroso.
+
+Decantación Separación de dos o más líquidos insolubles entre 
+sí y que tienen diferentes densidades.
+
+Ella desea separar una mezcla de arena, agua y aceite. Según 
+Una proteína con peso molecular de 120 kDa podrá separarse la información anterior, ¿cuál será el mejor procedimiento para 
+en un tiempo realizar esa separación?
+A.	 entre 25 y 35 minutos.	 B.	 entre 5 y 25 minutos. A.	 Destilar y luego cristalizar.	 B.	 Cristalizar y luego decantar.
+C.	 entre 35 y 45 minutos.	 D.	 después de 45 minutos. C.	 Filtrar y luego decantar.	 D.	 Decantar y luego cristalizar.
+
+46.	El principio activo de los detergentes comerciales  es un alquilbencenosulfonato lineal, que es una alternativa biodegradable con 
+respecto a otros detergentes más contaminantes. A continuación se presentan las estructuras de dos alquilbencenosulfonatos.
+
+	 De acuerdo con las estructuras es correcto afirmar que estos dos compuestos son isómeros estructurales porque
+A.	 el nombre presentado por ambos compuestos es similar, sólo que la estructura del primer compuesto tiene una cadena más larga 
+
+que la otra.
+B.	 dado que ambos compuestos tienen un anillo bencénico, los dos tienen las mismas propiedades físicas y químicas.
+C.	 ambos compuestos tienen la misma fórmula molecular, pero los átomos están en diferente posición de la molécula.
+D.	 la posición de la función sulfonato en ambos anillos aromáticos es la misma que en los dos compuestos presentados.
+
+47.	En un experimento, un sólido de identidad desconocida se ¿A que sustancia corresponde el sólido inicial?
+calienta y se mide su temperatura cada minuto hasta que se 
+evapora, obteniendo la siguiente gráfica. A.	 Al benceno.	 B.	 Al agua
+
+C.	 Al acetonitrilo.	 D.	 Al 2-butanol.
+48.	La materia puede clasificarse analizando su composición 
+
+como se muestra en  el diagrama.
+
+Para identificar el sólido se cuenta con los datos de la tabla
+
+Sustancia Temperatura Temperatura de 
+de fusión (oC) ebullición (oC)
+
+Benceno 5,5 80,2
+El acero es un material que contiene los elementos hierro y 
+
+Agua 0 100 carbono. Dos muestras distintas de acero tienen diferentes 
+Acetonitrilo -45 82 cantidades de estos elementos pero ambas muestras 
+2-butanol -115 100 tienen composición uniforme. Usando el diagrama anterior 
+
+10 ¿cómo clasificaría al acero?
+Página Porque mereces ingresar a la universidad
+
+Sesión 2
+
+
+
+A.	 Como mezcla homogénea, porque está formado por diferentes C.	 Como mezcla heterogénea, porque está formado por diferentes 
+elementos y es uniforme. elementos.
+
+B.	 Como sustancia pura, porque tiene composición uniforme y es D.	 Como sustancia pura, porque muestras distintas tienen 
+un solo compuesto. composición diferente.
+
+49.	Un estudiante desea comparar los valores de las densidades de tres líquidos (agua, etanol y aceite) y para ello hace tres 
+mediciones de una misma masa de líquido (100g) a tres temperaturas. Los resultados obtenidos se muestran en la tabla.
+
+Agua Etanol Aceite
+Temperatura Densidad Temperatura Densidad Temperatura Densidad 
+
+(oC) agua (g/cm3) (oC) etanol (g/cm3) (oC) aceite (g/cm3)
+6 0,99999 3 0,80374 10 0,92252
+
+17 0,99886 8 0,79956 20 0,91553
+22 0,99786 34 0,77756 30 0,90852
+
+Con base en la anterior información se puede afirmar que el experimento del estudiante está mal planteado, porque
+
+A.	 las temperaturas empleadas no son las mismas, por lo que se pueden hacer comparaciones entre las densidades de los tres 
+líquidos.
+
+B.	 no se pueden hacer comparaciones sin medir diferentes volúmenes de los tres líquidos en las temperaturas indicadas.
+C.	 es necesario realizar otras mediciones a temperaturas más altas, para saber si el valor de la densidad sigue cambiando.
+D.	 el aceite posee propiedades físicas y químicas muy diferentes del agua y del etanol y esto hace que no se puedan comparar.
+
+50.	El ácido clorhídrico (HCl) del estómago ayuda a digerir 51.	Los siguientes esquemas representan el proceso de 
+las proteínas de los alimentos. Cuando comemos muy disolución de un sólido en un líquido y el efecto del cambio 
+rápido, el estómago produce un exceso de HCl que en la organización de las moléculas durante el proceso en 4 
+ocasiona quemaduras o úlceras. Para evitar esto, se toman momentos.
+antiácidos, que están compuestos por hidróxidos metálicos 
+que reaccionan con el HCl, reduciendo el exceso de ácido 
+en nuestro estómago. A continuación se muestra la reacción:
+
+	 De acuerdo  a la anterior información, ¿por qué los antiácidos 
+son capaces de reducir la acidez del estómago? 	 De acuerdo con la información, puede deducirse que las 
+
+atracciones entre las partículas
+A.	 Porque los hidróxidos metálicos actúan como bases, 
+
+neutralizando el exceso de ácido. A.	 soluto-soluto en el momento 2 son las más fuertes.
+B.	 Porque evitan la formación de hidróxidos metálicos y agua. B.	 disolvente-disolvente en el momento 2 son las más fuertes.
+C.	 Porque ayudan a formar agua para diluir el ácido del estómago. C.	 solulto-soluto en el momento 3 son las más fuertes.
+D.	 Porque protegen el tejido del estómago y evitan la formación D.	 disolvente-disolvente en el momento 4 son las más fuertes.
+
+de cloruro de aluminio (III) y agua.
+
+52.	La siguiente tabla muestra algunos datos  de investigaciones relacionadas con la cantidad de azufre que emanaron algunos 
+combustibles a la atmósfera, en los años comprendidos entre 1987 a 1998 y la gráfica muestra la variación en el pH de agua de 
+lluvia en ciudad de México en esos mismos años.
+
+Año Azufre (toneladas)
+1987 200
+1988 400
+1989 1.330
+1990 750
+1991 850
+1992 1.100
+1993 920
+1994 980
+1995 1.100
+1996 1.050
+1997 920
+1998 990
+
+Según los datos anteriores, puede afirmarse que
+
+A.	 en los años 1989, 1992 y 1995 la emanación de azufre fue la menor.
+B.	 cuando el promedio ponderado estuvo en el intervalo natural de pH del agua de lluvia hubo el máximo de emanación de azufre.
+C.	 los valores de pH nunca fueron iguales a 3 en ninguno de los años.
+D.	 después de 1999 se esperaría que el pH se mantuviera en el intervalo natural del pH del agua de lluvia. 11
+
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 2
+
+
+
+53.	La solubilidad de un gas en un líquido es directamente 54.	La ley de Boyle afirma que para un gas ideal con temperatura 
+proporcional a la presión del gas e inversamente proporcional y número de moles constantes, la presión es inversamente 
+a la temperatura. Cuando se destapa una gaseosa, la porporcial al volumen, estableciéndose la relación P1*V1 = 
+presión sobre la superficie del líquido se reduce y permite P2*V2. La gráfica muestra el comportamiento del volumen de 
+que el CO2 salga, generando burbujas. un gas ideal que se somete a dos presiones.
+
+Si la gaseosa permanece destapada por largo tiempo a 
+temperatura ambiente (20oC), se podría esperar que pierda el 
+gas rápidamente.
+
+¿Qué ocurre si se destapa una lata de gaseosa e inmediatamente 
+se refrigera a 4oC?
+
+A.	 El gas se liberará rápidamente y ya no se observarán burbujas 
+en la superficie.
+
+B.	 Disminuirá la velocidad de pérdida del CO2 porque aumenta la 
+solubilidad en el líquido. Sabiendo que  ¿Cuál es la presión P2 en el punto F?
+
+C.	 La presión aumentará y no habrá pérdidas del CO2.
+D.	 No habrá ninguna diferencia, el gas se perderá a la misma A.	 2P1.	 B.	 P1/2.	 C.	 8P1.	 D.	 P1/8.
+
+velocidad.
+
+55.	Un estudiante propone la siguiente ecuación para la combustión del metano (CH4):
+
+El estudiante no está seguro de si la ecuación está balanceada por lo que le pide a su profesor explicarle una de las razones por la 
+cual la ecuación está o no balanceada. ¿Qué debería responderle el profesor?
+A.	 No está balanceada, porque en los reactivos no había agua.
+B.	 Si está balanceada, porque hay un átomo de carbono tanto en los reactivos como en los productos.
+C.	 No está balanceada, porque hay 4 átomos de hidrógeno en los productos.
+D.	 Sí está balanceada, porque reaccionan una mol de metano y de O2, que producen una mol de H2O y de CO2.
+56.	Los alcoholes pueden ser oxidados a acetonas, aldehídos o ácidos carboxílicos de acuerdo con el tipo de alcohol que reacciona, 
+
+como se muestra en el diagrama
+
+Para conocer el tipo de compuesto que se forma en una oxidación se realizan las siguientes pruebas
+
+Prueba de Tollens Prueba de Lucas Prueba de yodoformo Prueba de Yoduro=Yodato
+Reconoce la presencia de alde- Reconoce la presencia de Reconoce la presencia de Reconoce la presencia de 
+hídos, si se forma un espejo de alcoholes, si se forma un pre- cetonas, si aparece un pre- ácidos, si una solución con 
+plata (color plateado) en el fondo cipitado insoluble en la reac- cipitado de color amarillo. almidón se torna de colorl 
+del tubo de ensayo. ción. morado oscuro.
+
+Si en un laboratorio se oxida un alcohol de 6 carbonos y se aplican las pruebas de reconocimiento de grupos funcionales obteniendo un 
+espejo de plata y coloración morada con alcohol, se espera que después de la oxidación se haya formado una mezcla de
+
+A.	
+
+B.	
+
+C.	
+
+D.	
+12
+
+Página Porque mereces ingresar a la universidad
+
+Sesión 2
+
+
+
+57.	Una estudiante realiza diferentes ensayos con el objetivo de determinar el efecto de la concentración de los reactivos sobre la 
+velocidad de formación de W en la reacción X + Y  W. En cada ensayo mide la velocidad de formación de W manteniendo 
+constante la concentración de uno de los reactivos y variando la del otro, como se muestra en las siguientes gráficas:
+
+Con base en estos resultados se puede concluir que el cambio de velocidad de formación de W.
+
+A.	 no depende de la concentración de los reactivos.	 B.	 depende de la concentración de ambos reactivos.
+C.	 depende solamente de la concentración de X.	 D.	 depende solamente de la concentración de Y.
+
+RESPONDA LAS PREGUNTAS 58 Y 59 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN
+
+El potencial de ionización es la cantidad de energía necesaria para remover el electrón más externo del átomo, y la afinidad electrónica 
+es la cantidad de energía que se desprende cuando un átomo gana electrones. La electronegatividad es la tendencia de los átomos 
+para atraer electrones. La fuerza con la que éstos se atraen determina el tipo de enlace. Cuando la atracción de uno de los átomos por 
+los electrones del enlace es mucho mayor que la del otro enlace es iónico; en caso contrario, si la fuerza es la misma o se atraen los 
+electrones con fuerzas ligeramente diferentes, se presenta un enlace covalente.
+La siguiente gráfica representa el comportamiento de estas tres propiedades en la tabla periódica y ubica algunos elementos en ella:
+
+La electronegatividad aumenta
+La afinidad electrónica aumenta
+
+El potencial de ionización aumenta
+
+58.	De acuerdo con la información de la tabla periódica, es 60.	La electronegatividad mide la capacidad de un átomo para 
+correcto afirmar que el potencial de ionización del elemento atraer y retener electrones extra cuando se forma un enlace. 
+X con respecto al del elemento Z es La diferencia entre las electronegatividades de los átomos 
+
+A.	 menor, porque el electrón más externo de Z está en un mayor puede usarse para definir el tipo de enlace formado. Observe 
+nivel de energía. el siguiente esquema:
+
+B.	 mayor, porque el electrón más externo de X está en un menor 
+nivel de energía.
+
+C.	 menor, porque el electrón más externo de Z está en un menor 
+nivel de energía.
+
+D.	 mayor, porque el electrón más externo de X está en un mayor 
+nivel de energía.
+
+59.	Se hacen reaccionar los elementos Z y Y y se obtiene el 	
+compuesto ZY. De acuerdo con la información anterior, es 
+correcto afirmar que el compuesto ZY presenta un enlace A continuación se muestran las electronegatividades de cuatro 
+
+A.	 iónico, porque la fuerza con la que el elemento Y atrae los elementos (Q, U, Z y W)
+electrones es tan alta que logra arrancar el electrón del átomo Z.
+
+B.	 covalente, porque el elemento Y atrae con la misma fuerza los Elemento Q U Z W
+electrones de Z siendo idénticamente compartidos. Electronegatividad 2,55 2,20 0,93 3,44
+
+C.	 iónico, porque la fuerza con que el elemento Z atrae los 
+electrones es tan alta que logra arrancar el electrón del átomo Y.
+	 D.	 covalente, porque aunque el elemento Z atrae con más 	 Con base en la información anterior, se puede afirmar que el 
+		 fuerza los electrones de Y, son idénticamente compartidos. enlace formado entre 13
+
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+El potencial de ionización disminuye
+La afinidad electrónica disminuye
+La electronegatividad disminuye
+
+Sesión 2
+
+
+
+A.	 Q y W será covalente no polar, al igual que el formado entre U C.	 Q y U será covalente no polar, mientras que el enlace formado 
+y Z. por Z y W será iónico.
+
+B.	 U y W será covalente polar, al igual que el formado entre Z y D.	 Q y U será iónico, mientras que el enlace formado por Z y W 
+W. será covalente no polar.
+
+Prueba de Ciencias Sociales Parte II
+61.	Un estudio reveló que el 30% de las mujeres en Colombia C.	 En el país C, el Gobierno quita los subsidios para los 
+
+son víctimas de violencia física. A partir de este estudio varias servicios públicos.
+organizaciones feministas solicitaron el endurecimiento D.	 En el país D, el Gobierno aumenta los impuestos de 
+de las penas para las personas que ejercían violencia patrimonio y renta.
+contra las mujeres. Ante esta petición un funcionario del 
+gobierno señaló que el estudio no era confiable, porque no 65.	Un programa impulsado por países europeos lleva varios 
+consideraba los distintos contextos de estas agresiones y años apoyando a jóvenes bogotanos de estratos 1, 2 y 3 
+que era muy importante tener en cuenta la justificación de con buen manejo del inglés, para que creen sus propios 
+los hechos. negocios. Después de 5 años de operación, detectan 
+
+que el 30% de los negocios son restaurantes de comida 
+	 Según la información presentada, la posición del funcionario internacional, 30% salones de belleza, 20% tiendas de ropa 
+
+podría tener como consecuencia que: formal, 10% librerías y 10% escuelas de baile. Ante el éxito 
+del proyecto, deciden abrir una convocatoria para replicar el 
+
+A.	 Se cuestione la idoneidad de los investigadores que modelo en Riohacha, Leticia, Arauca y Florencia. Basados 
+realizaron el estudio. en la experiencia bogotana, establecieron que en cada 
+
+B.	 Se generen estrategias más efectivas de prevención de la ciudad debían apoyarse las mismas tipologías de negocio 
+violencia contra las mujeres. y en los mismos porcentajes. Probablemente implementar 
+
+C.	 No se reconozca la gravedad de los actos de violencia en este mismo modelo en estas ciudades, no resulte pertinente 
+contra de las mujeres. porque en ellas
+
+D.	 Las organizaciones feministas retiren sus peticiones.
+A.	 los jóvenes no están interesados en hacer negocios sino en 
+
+62.	En una región de Colombia, una organización estatal estudiar.
+promueve proyectos de agricultura para la reintegración de B.	 no es viable mantener un programa por tan largo tiempo.
+campesinos desplazados. Con este objetivo, se propone C.	 las necesidades de la población, lo que se demanda, puede 
+la utilización de unos terrenos que forman parte de un ser muy distinto.
+ecosistema de humedal. Una organización ambientalista D.	 los jóvenes no tienen buen dominio del inglés.
+rechaza esta decisión porque afectará este ecosistema. 66.	El gobierno decidió construir una represa que es 
+
+	 De lo que busca cada una de las organizaciones mencionadas indispensable para generar electricidad para todo el país. La 
+se puede afirmar que represa solo puede construirse en un sitio en el que hay un 
+
+A. es semejante, porque las dos buscan el aprovechamiento asentamiento indígena. En principio, al hacer las consultas 
+económico del humedal para el bienestar de los campesinos. respectivas con esta comunidad, ellos se negaban a la 
+
+B. es semejante, porque las dos buscan defender a toda costa construcción de la represa. Sin embargo, después de un 
+las riquezas naturales de la región. largo proceso de conciliación con la comunidad, se acordó la 
+
+C. es diferente, porque una defiende al ecosistema aunque esto construcción de la represa y que los indígenas se asentaran 
+signifique no poder dar tierras a los campesinos y la otra en otro territorio.
+quiere ayudarlos, aunque se dañe el ecosistema. 	 Según la Constitución política de Colombia, en esta situación 
+
+D. es diferente, porque una busca que los campesinos se el gobierno
+asienten y trabajen en otra región y la otra busca que se 
+preserve el ecosistema del humedal. A.	 actuó en contra de los derechos de las comunidades 
+
+indígenas.
+63. B.	 favoreció a la comunidad indígena en contra del interés 
+
+	La crisis económica que se desató en 1929, en Estados general.
+Unidos, también afectó a los países latinoamericanos C.	 mostró respeto por la comunidad indígena y actuó pensando 
+al reducirse sus exportaciones y, por consiguiente, sus en el bien común.
+importaciones. Para contrarrestar el efecto de esta crisis, D.	 debió hacer una consulta popular para resolver este 
+los estados latinoamericanos adoptaron medidas como la problema.
+sustitución de importaciones, que consistió en
+
+A.	 prohibir el ingreso de toda clase de productos extranjeros. 67.	Un profesor universitario sostiene que cuando sus 
+B.	 otorgar total libertad de producción, de cambio y de consumo. estudiantes mujeres responden a una pregunta, se extienden 
+C.	 producir los bienes que tradicionalmente se traían del demasiado en la respuesta. Por esa razón, cuando les 
+
+exterior. pregunta a los estudiantes y algunos levantan la mano para 
+D.	 dejar actuar libremente las leyes de la oferta y la demanda. responder, hombres y mujeres por igual, el profesor solo les 
+
+da la palabra a los hombres.
+64.	Algunas tendencias del liberalismo promueven cobrar más De acuerdo con la Constitución, el profesor
+
+impuestos a la parte de la población que posee más recursos, 
+y menos impuestos a aquellas personas que posean menos. A.	 puede hacer esto porque tiene más experiencia que sus 
+¿Cuál de las siguientes situaciones está de acuerdo con lo estudiantes.
+anterior? B.	 está actuando de forma incorrecta pues viola el principio de 
+
+igualdad.
+A.	 En el país A, la tasa promedio de impuestos es el 33% del C.	 adopta una actitud que puede ser chocante para algunos 
+
+salario de los habitantes. pero que no es discriminatoria.
+B.	 En el país B, el Gobierno autoriza aumentar el impuesto D.	 puede justificar lo que hace siempre y cuando pueda 
+
+14 		 del IVA. 	 probar que las mujeres de hecho sí hablan demasiado.
+Página Porque mereces ingresar a la universidad
+
+Sesión 2
+
+
+
+68.	Una compañía petrolera identificó un yacimiento de petróleo 72.	Ante los crecientes robos a residencias en algunos sectores 
+en una zona en la que vive una comunidad indígena para de estratos altos de una ciudad, el alcalde está considerando 
+la cual extraer el petróleo significa “robarle la sangre a autorizar el cerramiento de grandes sectores residenciales 
+la madre tierra”, y por ello se opone a la explotación del que agrupan varios barrios de la ciudad, para que sean 
+yacimiento. La compañía invirtió muchos recursos en un vigilados por seguridad privada y para que sólo se permita 
+proceso de diálogo con los representantes de la comunidad, la entrada a los residentes o a personas autorizadas por 
+pero fue imposible llegar a un acuerdo. Ante esto, y después estos. A la hora de evaluar la propuesta, ¿qué intereses en 
+de un análisis detenido de las posiciones, el Estado le negó conflicto deben ser tenidos en cuenta?
+a la empresa el permiso de explotación. A.	 Los de las empresas de seguridad privada que buscan 
+
+	 La razón que mejor sustenta esta decisión es que, de expandir su negocio, y los de las bandas de ladrones que 
+acuerdo con la Constitución, el Estado debe buscan seguir realizando sus actividades sin obstáculos.
+
+A.	 garantizar el derecho a la igualdad. B.	 Los de los residentes que buscan su seguridad, y los de 
+B.	 garantizar el derecho a la libre asociación. los demás habitantes de la ciudad que dejarían de tener 
+C.	 proteger la diversidad étnica y cultural. acceso a las vías y otros espacios públicos de los sectores 
+D.	 proteger el medio ambiente. encerrados.
+
+C.	 Los de los residentes que buscan su beneficio particular y 
+69.	En un periódico de la ciudad han aparecido continuamente los intereses del gobierno local que debe encargarse del 
+
+titulares como los siguientes: “El alcalde no es capaz de bienestar de la comunidad.
+solucionar el problema de criminalidad en la ciudad”, “Al D.	 Los de las empresas de seguridad privada que serían 
+alcalde le queda grande erradicar el crimen de la ciudad” y contratadas para cuidar los sectores encerrados, y los de la 
+“La ciudad y la Alcaldía están sometidas a los criminales”. Policía encargada de la seguridad en la ciudad
+
+	 Antes de creer que el alcalde está haciendo mal su trabajo en 73.	La Corte Constitucional falló a favor de un soldado que había 
+materia de seguridad, ¿qué deberían revisar los ciudadanos interpuesto una tutela al considerar que la institución militar 
+principalmente? no le respetaba el derecho a la objeción de conciencia, 
+
+A.	 El plan de gobierno para ver si había propuestas en el tema porque su religión le prohíbe el uso de armas y las prácticas 
+de seguridad. militares. El fundamento del fallo es la defensa de la libertad 
+
+B.	 Los índices de criminalidad en otras ciudades del país y de de conciencia del soldado.
+los países vecinos.
+
+C.	 Los cambios en los índices de criminalidad desde que el 	 ¿Cuál de las siguientes acciones es coherente con este 
+alcalde se posesionó. fallo?
+
+D.	 Las declaraciones oficiales del alcalde sobre si lo está A.	 Ordenarle al Ejército la entrega de la libreta militar al soldado 
+haciendo bien o no. y su inmediata desvinculación de la institución.
+
+B.	 Ordenarle al soldado cumplir su servicio militar obligatorio 
+70.	El problema del tráfico de drogas ilícitas ha generado que con todas las responsabilidades asignadas.
+
+gobernantes, académicos y miembros de la sociedad civil C.	 Ordenarle al Ejército que el soldado participe de los 
+de países productores debatan sobre el asunto con el fin de entrenamientos y haga solo tareas de oficina.
+encontrar soluciones. Algunos proponen que, para defender D.	 Ordenarle al soldado participar únicamente en paradas 
+el bien común, se debe legalizar las drogas. ¿Cuál de los militares, portando con orgullo la dotación militar.
+siguientes es el argumento más afin con la propuesta de 
+legalización? 74.	Durante las épocas de lluvias, en muchas zonas rurales de 
+
+Colombia se inundan escuelas y se interrumpen los caminos 
+A.	 Cada persona debe tener la libertad de decidir si consume o para llegar a estas.
+
+no drogas y, por tanto, su comercialización no debería estar 
+bajo ningún control. 	 ¿Cuál de las siguientes opciones vulnera más claramente el 
+
+B.	 Los países productores no tienen ninguna responsabilidad derecho a la educación?
+en el tráfico de drogas; la responsabilidad recae sobre los 
+países consumidores. A.	 Organizar esquemas de transporte para que los estudiantes 
+
+C.	 Quienes consumen drogas no deben ser tratados como vayan a clases en escuelas no afectadas por las 
+delincuentes, sino como adictos que necesitan tratamientos inundaciones.
+médicos. B.	 Ajustar el calendario escolar para que no haya clases en las 
+
+D.	 En los países productores la prohibición ha generado épocas de inundación.
+problemas sociales más graves que aquellos que se querían C.	 Dar una parte de las clases a través de la emisora de radio 
+evitar con esta medida. local, para reducir los días en los que tienen que asistir al 
+
+colegio.
+71.	La violencia sexual contra las mujeres es un problema D.	 Trasladar a los niños a escuelas no inundadas dos veces por 
+
+mundial. Hace poco tiempo, el jefe de policía de una ciudad semana y reducir el número de horas de clases.
+muy importante, en un país desarrollado, declaró al respecto: 
+“Para evitar estas situaciones, lo mejor sería que las mujeres 75.	Pekín y otras partes de China sufren de elevados niveles de 
+dejaran de salir con minifaldas o escotes provocadores a la contaminación. Debido a la contaminación en Pekín, algunos 
+calle. Así evitarían ser víctimas de acoso o violencia sexual”. días las autoridades cancelan las actividades deportivas en 
+¿Qué intereses está favoreciendo esta declaración? el exterior en colegios y guarderías y recomiendan a niños 
+
+A.	 Los de las mujeres, porque está aconsejándoles cómo vestir y ancianos que no salgan a la calle. Aunque se han cerrado 
+para no ser víctimas. centenares de fábricas en la capital y en otros puntos del 
+
+B.	 Los de los policías, porque su función no es la de manejar país, la situación no mejora. Los expertos consideran que 
+casos de acoso. la única solución es que la segunda economía mundial 
+
+C.	 Los de los agresores, porque está dándoles una justificación reduzca de forma paulatina su dependencia de las 
+a lo que hacen. industrias pesadas y apueste por un modelo de energía 
+
+	 D.	 Los de la ciudad, porque el acoso sexual afecta la mixta. Las industrias pesadas, entre ellas los sectores de 
+		  percepción de seguridad. la construcción y el manufacturero, aportaron el 46 por 
+
+ciento del Producto Interno Bruto (PIB) en 2012. “China 15
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 2
+
+
+
+debería rebajar esta cifra hasta 9 puntos porcentuales entre 
+2013 y 2030 si quiere cumplir su objetivo de reducción de la 78.Unos días antes de una inspección por la Secretaría de 
+contaminación”, señala un experto. Educación, las directivas de un colegio alquilan plantas 
+
+y cuadros para adornar el colegio. Una vez pasada la 
+Adaptado de: http://www.elpais.com.co/elpais/internacional/noticias/ inspección, estas plantas y cuadros se retiran. ¿Cuál de 
+
+pese-medidas-pekin-y-parte-china-siguen-bajo-elevada- las siguientes opciones es una explicación probable del 
+contaminacion. comportamiento de las directivas del colegio?
+
+	 En esta situación, ¿cuáles dimensiones están en conflicto? A.	 Que querían enseñarles a los estudiantes el valor de la 
+naturaleza.
+
+A. La educativa y la ambiental.	 B. La cultural y la educativa. B.	 Que querían aprovechar los buenos precios de alquiler de 
+C. La económica y la ambiental.	 D. La cultural y la económica. elementos de decoración.
+
+C.	 Que querían mostrar una buena imagen del colegio el día de 
+76.	Un estudiante se intoxicó con comida que compró a un la visita, aunque aquella fuera falsa, para quedar bien con los 
+
+vendedor ambulante a la salida del colegio. Por esto, el inspectores.
+Consejo Directivo del colegio, con la ayuda de la Policía, D.	 Que querían aprovechar la visita para que sus estudiantes 
+logró la expulsión de los vendedores ambulantes del sector. tuvieran la oportunidad de ver obras de arte.
+De los siguientes, ¿cuál sería un efecto de la expulsión de 
+los vendedores? 79.En las elecciones de representante de curso ganó Camilo, 
+
+A.	 El aumento de la inseguridad en las inmediaciones del quien tiene malas notas. Por esta razón, el director de grupo 
+colegio. decidió repetir las elecciones.
+
+B.	 El aumento de las intoxicaciones alimentarias de los ¿Por qué es un problema repetir las elecciones?
+estudiantes en el colegio.
+
+C. La disminución del apoyo de la comunidad al Consejo A.	 Porque puede que otros estudiantes quieran ser candidatos 
+Directivo y a la Policía. ahora.
+
+D. La disminución de los ingresos de las familias que dependían B.	 Porque solo se puede elegir a un estudiante, entonces todos 
+de esas ventas. los demás quedan excluidos.
+
+C.	 Porque es una pérdida de tiempo votar dos veces.
+77.	Después de la Segunda Guerra Mundial, lo gobiernos D.	 Porque no respetó la votación de los estudiantes.
+
+latinoamericanos adoptaron políticas económicas que 
+enfatizaron en la industrialización como alternativa para 80.El alcalde de un municipio invita a los concejales a decidir 
+lograr los niveles de “desarrollo” de los países europeos y de cómo invertir mejor el dinero del presupuesto.
+Estados Unidos. Este cambio en la orientación económica 
+de Latinoamérica inició el proceso de consolidación de las 	 Se hacen tres propuestas entre las cuales se debe decidir: 
+clases medias urbanas, entre otros aspectos, porque (1) construir más colegios; (2) organizar un gran concierto 
+
+para los jóvenes; (3) construir un centro de atención para los 
+A.	 se logró inserción equitativa de la economía latinoamericana ancianos.
+
+en las dinámicas de la economía globlal, lo que condujo 
+a la ocupación laboral de la clase media radicada en las 	 ¿Cuál de las siguientes opciones presenta los objetivos de 
+ciudades. cada una de las propuestas?
+
+B.	 se aprovechó estratégicamente la consolidación de la clase 
+media norteamericana para posicionar en sus mercados A. Fortalecer la salud, fomentar la cultura y mejorar calidad de 
+locales los productos manufacturados en Latinoamérica. vida de los niños y jóvenes.
+
+C.	 las industrias que se generaron no requerían mano de obra B.	 Fortalecer la educación, proveer recreación y mejorar la 
+calificada, lo que significó la incorporación a la producción calidad de vida de los ancianos.
+industrial de la población que migraba del campo a la ciudad. C. Fortalecer el bienestar de los jóvenes, proveer opciones de 
+
+D.	 los grupos migrantes campesinos de Latinoamérica descanso y usar bien el presupuesto.
+ampliaron sus posibilidades de ahorro y lograron dinámicas D.	 Fortalecer la solidaridad, fomentar el uso adecuado del 
+de acumulación que facilitaron la adquisición de las tierras presupuesto y mejorar los servicios de salud.
+para la labranza.
+
+Prueba de Inglés
+PARTE 1
+
+RESPONDA LAS PREGUNTAS 81 A 85 DE ACUERDO CON EL EJEMPLO
+¿Dónde puede ver estos avisos?
+En las preguntas 81 - 85, marque A, B o C en su hoja de respuestas.
+Ejemplo:							     
+0.		  A. at a school	 B.	 on a street	 C. in a flat
+
+	 	 Respuesta: 0 A B C
+
+81.	 A.	 on a plane 82.	 A.	 in a house
+		  B.	 on a bus 		  B.	 in a shop
+
+16 	 C.	 on a boat 		  C.	 in a zoo
+Página Porque mereces ingresar a la universidad
+
+Sesión 2
+
+
+
+83.	 A.	 on a father’s shirt 85.	 A.	 in a bathroom
+		  B.	 on a brother’s bag 		  B.	 in a kitchen
+		  C.	 on a cousin’s hat 		  C.	 in a garden
+
+84.	 A.	 on a board
+		  B.	 on a computer
+		  C.	 on a bookcase
+
+     PARTE 2
+RESPONDA LAS PREGUNTAS 86 A 90 DE ACUERDO CON EL EJEMPLO
+
+Lea las descripciones de la columna de la izquierda (86 – 90) y las palabras de la columna de la derecha (A –H).
+¿Cuál palabra (A –H) concuerda con la descripción de cada frase de la izquierda (86 – 90)?
+Tenga en cuenta que sobran dos (2) palabras de las ocho (8) opciones (A-H)
+En las preguntas 86 - 90, marque la letra correcta A - H en su hoja de respuestas.
+
+E	 jemplo:						      		
+0.	You often learn to ride it when you are a child. Respuesta:
+
+0 A B C D E F G H
+86.	 People drive it on a road and it carries big things	 	 	 	
+
+87.	 This is only for one or two people to go by road.  	 A.   bike E.    motorbike
+88.	Many people fly on it to go to a place.                          B.   boat F.    plane
+
+89.	 It is long, with many parts and it carries C.   bus G.   truck
+	 people or things.                D.   helicopter H.   train
+90.	 It is small and you can sail on it.
+
+PARTE 3
+RESPONDA LAS PREGUNTAS 91 A 95 DE ACUERDO CON EL EJEMPLO
+
+Complete las cinco conversaciones.
+En las preguntas 91 - 95, marque A, B o C en su hoja de respuestas.
+
+Ejemplo: How would you A.	Cash
+	 	 	 	 like to p	ay? 	 	 	 	 	 Respuesta:
+0.						      B.	Now
+
+0 A B C
+C.	 Thanks
+
+91.	I`d like to see those shoes 93.	Are you ready to order?. 95.	Did you enjoy the party?
+	 A.  Always. 	 A.  Just a minute. 	 A.  I think so too.
+	 B.  Certainly. 	 B.  Well, I don’t. 	 B.  You are right.
+	 C.  I don`t know. 	 C.  Can I help you? 	 C.  It was wonderful.
+
+	
+92.	I feel sad today 94.	Let`s meet next week.
+	 A.  Why not? 	 A.  How many?
+	 B.  I`ll do it laker. 	 B.  On Thursday?
+
+	 C.  What`s wrong? 	 C.  After you. 17
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 2
+
+
+
+PARTE 4
+RESPONDA LAS PREGUNTAS 96 A 103 DE ACUERDO CON EL SIGUIENTE TEXTO
+
+Lea el texto de la parte inferior y seleccione la palabra correcta para cada espacio.
+En las preguntas 96 – 103, marque A, B o C en su hoja de respuestas.
+
+History of Paper
+Since the beginning of writing, people tried to (0).......... of something easy and cheap 
+to write on, (96).......... it took 3000 years until Chinese people made paper.
+Only one thousand years later, people were (97).......... paper all over Europe and Asia. In the 8th century, 
+the Arabs and the Chinese were enemies, and the Arabs captured (98)..........Chinese men. Many of 
+(99).......... men knew how to make paper, and (100).......... explained it to the Arabs as the price to be able 
+to go home.
+Almost eight centuries (101).......... Europeans began to make (102).......... own paper.
+At that time, people in the country of the Aztecs (103)..........the way to make paper too, while Chinese 
+people were already famous for paper kites and toilet paper!
+
+Ejemplo: 	 	 	 	 Respuesta:
+0.	 A.   think  	 B.   thinking 	 C.   thinks
+
+0 A B C
+
+96.	 A.   or	 B.   and	 C.   but 100. 	 A.  he	 B.   they	 C.   it
+
+97.	 A.   use	 B.   used	 C.   using 101. 	 A.   late	 B.   latest	 C.   later
+
+98.	 A.  some	 B.   any	 C.   much 102. 	 A.   their	 B.   our	 C.   your
+99.	 A.  that	 B.   these	 C.   this 103. 	 A.   find	 B.   finding	 C.   found
+
+PARTE 5
+RESPONDA LAS PREGUNTAS 104 A 110 DE ACUERDO CON EL SIGUIENTE TEXTO
+
+Lea el artículo y luego responda las preguntas.
+En las preguntas 104 - 110, marque A, B o C en su hoja de respuestas.
+
+Life in Aroan Times
+We know a lot about how Aroans lived from ruins of houses which have been 
+found. Archeologists are people who put together history from this kind of 
+ruins.
+Most Aroans were farmers, who lived in houses near the Chinampas-parts 
+of ground next to lakes. They fished for food and grew all kinds of vegetables on their farms. Also thet cooked 
+on a plate on three rocks over a fire. Other people had very little; they made their own clothes and slept on the 
+hard floor. The Aroans were very religious and believed they could talk to their gods. They thought that their 
+gods made the sun come up, rain fall, and fire burn. 
+The Aroans believed thad they lived in the fifth of five “suns”. One day this time would end, but they thought 
+that if they kept loving and giving live animals as food to their gods, the end of their time would never come. 
+They had lots of ceremonies to please their gods. Special religious people, who wore black clothes and never 
+cut their hair, started the ceremonies, and the oldest member of the group closed them.
+
+Ejemplo:	 0.   People know about how Aroans lived	 Respuesta:
+	 A.	 because of their buildings 0 A B C
+	 B. 	 when they put ruins together               
+
+18 	 C. 	 since they lived under the ground
+Página Porque mereces ingresar a la universidad
+
+Sesión 2
+
+
+
+104. Aroans lived	 107. Aroans believed their gods. 110.  Special religious people
+	 A.  in Chinampas.	 	 A.  loved them a lot. A.  ended the ceremonies.
+
+B.  close to Chinampas. 	 B.  were in the sun. B.  had long hair.
+	 C.  far from Chinampas. 	 C.  listened to them. C.  wore bright colors.
+
+	
+105. 108. Aroans thought they lived
+
+ The majority of Aroans	
+	 A.   got food from their farms.	 A.   in the last “sun”.
+
+B.   had few things to live.	 B.   in the first “sun”.
+C.   bought their clothes.	 C.   in the next “sun”.
+
+106. Aroan farmers normally 109. Aroans cave animals to their gods
+	 A.   slept on beds.	 A.  for rain to fall.
+
+B.   ate hot food.	 B.	 for a longer life.
+C.   swam on lakes. 	 C.	 for communication.
+
+PARTE 6
+RESPONDA LAS PREGUNTAS 111 A 115 DE ACUERDO CON EL SIGUIENTE TEXTO
+
+Lea el texto y las preguntas de la siguiente parte.
+En las preguntas 111-115, marque A, B, C o D en su hoja de respuestas.
+
+Jonathan’s Trip to Colombia
+I went to Colombia last summer. My journey began on the Caribbean coast and 
+ended on the border with Ecuador. Colombia is a splendid country, extremely 
+diverse and full of wonderful people. I will tell you why. 
+In South Colombia there is a city called Pereira; just outside you can find a track where you will see the 
+farm Villa Maria - a hidden paradise that takes a long time to get to -. It is a working coffee farm located 
+in the middle of a valley. Coffee and plantain grow as far as the eye can see. The farm is made up of the 
+house and the processing plant. The family business has guest at the house for just $45.000 a night. This 
+includes 3 home cooked meals a day, a swimming pool, and as much coffee as you can drink. The scene 
+is quite unbelievable. Bamboo chairs rest on the corners of the Villa, mangos hang from the trees, parrots 
+and birds fly wild.
+A wonderful man named Hector who runs the farm is happy to show guests around the coffee processing 
+plant. By day, the only sounds are of the horses coming down the valley side carrying food. By night, the 
+wildlife comes alive, and depending on the time of the year - thunderstorms offer a spectacular ligaht show. 
+For those who wish to escape, Villa Maria is the answer.
+This is just one attraction of many in Colombia. I could write pages of the country and not get bored. I 
+graduated next year and I can’t wait to return to this beautiful country. Some of those reading may be 
+stimulated to do the same.
+
+111.  What is the writer trying to do in this article? 113.  One of the ideas presented in the text is that
+
+A.	 describe a tourism-leading Colombian coffee A.	 coffee farms are pleasant places to attract 
+businessmen.
+
+farm. B.	 the writer loved climbing up plantain and mango 
+B.	 tell readers to run a coffee business in Colombia. trees there.
+C.	 invite tourists to write about places they visit in C.	 a variety of attractions can be found on this farm.
+
+Colombia. D.	 visitors can experience a variety of wildlife sound 
+D.	 encourage tourist to visit Colombia. and views.
+
+112.  What can a reader find out from this text? 114.  What does the writer say about his readers?
+
+A.	 which activities tourist prefer to do at the farm. A.	 They may take the same tour to the farm.
+B.	 when the best time is to visit the farm. B.	 They may be influenced to travel to this country.
+
+C.	what the accommodation price includes. C.	 They may save money staying at the farm.
+D.	how to grow coffee on the farm. D.	 They may meet a lot of friends there. 19
+
+ Tel: (6) 885 01 58 Manizales - Caldas - Colombia Página
+
+Sesión 2
+
+
+
+115.  What Thank You Note might Hector find in his Memories and visits to neighbors’ farms all in one place.
+Book? C.	 It was nice to experience delicious tropical fruit, 
+
+excellent local excursions by horse and bird 
+watching.
+
+A.	 I really enjoyed seeing the lightning and the birds, D.	 We had an unusual trip exploring the valley, 
+and learning about the coffee recollection. the coffee plantation and admiring the modern 
+
+B.	 Thanks a lot! Attractive landscapes, natural food decoration.
+
+PARTE 7
+RESPONDA LAS PREGUNTAS 116 A 125 DE ACUERDO CON EL SIGUIENTE TEXTO
+
+Lea el texto de la parte inferior y seleccione la palabra adecuada para cada espacio.
+En las preguntas 116-125, marque la letra correcta A, B, C o D en su hoja de respuestas.
+
+VALENTINE’S DAY
+Do you know what (0) _____ on February 14th every year? Many people exchange gifts, chocolates, cards 
+and flowers. This is done to (116) ______ Valentine’s Day. It`s always a lot of fun to get a card and some 
+chocolates, but (117) ______do we do this? There is a lot of (118)______ about this day.
+One of the (119) ______says that the original Valentine was a priest. It is said that the king, Claudius III, 
+had (120) ______ marriage because he thought that only unmarried men (121) ______ the best soldiers. 
+However, Valentine continued to hold weddings for  a lot of young (122) ______ in secret. When the King 
+found it (123) ______, he ordered soldiers to kill Valentine!
+Valentine`s Day is (124) ______ the second biggest holiday for cards and gifts. Women buy (125) ______ 
+90% of the cards, but gentlemen still buy the most chocolates and flowers to give as a Valentine`s Day 
+present.
+
+Ejemplo:
+0. 	 A.   happens
+	 B.   appears	 	 	 Respuesta:
+	 C.   shows 0 A B C D
+	 D.   passes
+
+116.  	 A.   discover		  B.   perform		  C.   remind		  D.   celebrate
+
+117.  	 A.   where	 	 B.   why 	 	 C.   when	 	 D.   what
+
+118.  	 A.   imagination	 B.   silence		  C.   mystery		  D.   prediction
+
+119.  	 A.   essays		  B.   stories		  C.   reports		  D.   letters
+
+120. 	 A.   forbidden		  B.   denied		  C.   rejected		  D.   refused
+
+121. 	 A.   make		  B.   making		  C.   makes		  D.    made
+
+122. 	 A.   couples		  B.   teams		  C.   groups		  D.    pairs
+
+123. 	 A.   off		 	 B.   in			   C.   at			   D.    out
+
+124. 	 A.   before		  B.   then	 	 C.  now	 	 D.    once
+
+125. 	 A.   almost		  B.   only		  C.   hardly	 	 D.   just
+
+20
+Página Porque mereces ingresar a la universidad
+
+Sesión 2

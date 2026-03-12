@@ -1,0 +1,273 @@
+Simulacro
+SABER  11oSesión 2
+IMPORTANTE
+Dentro de esta bolsa plástica usted encuentra:
+Un cuaderno con preguntas, una hoja de respuestas y una hoja de operaciones.
+NO ABRA LA BOLSA PLÁSTICA HASTA CUANDO EL JEFE DE SALÓN SE LO INDIQUE
+Tomado de preguntas liberadas por el ICFES
+F10 V2
+En el siguiente cuadro usted encuentra 
+las pruebas que va a resolver, el número 
+de preguntas y el tiempo disponible para 
+contestarlas.Áreas
+Número total de preguntas: 125
+Duración total de la prueba:  4 Hor. 30 Min.Ciencias Naturales IIMatemáticas II
+Sociales y Ciudadanas II
+InglésNº de Preguntas
+2832
+20
+452
+Página
+Porque mereces ingresar a la universidadSesión 2Prueba de Matemáticas
+1.	En	determinada	 zona	de	una	ciudad	se	construyen	 edificios	
+de apartamentos, cada metro cuadrado tiene un costo de 
+$800.000, y se asegura a los compradores que en esta zona 
+anualmente, el metro cuadrado se valoriza un 5% respecto al 
+costo del año anterior. 
+ ¿Con cuál de las siguientes expresiones se representa el costo 
+de un metro cuadrado en esa zona, transcurridos n años?
+A. 800.000 + 5n. B. 800.000(5n).
+C. 800.000  D. 800.000 
+2.	En	la	figura	se	representa	 un	cuadrilátero	 MNOP	con	la	medida	
+de algunos de sus lados, ángulos y de una de sus diagonales.
+	 Los	lados	PO	y	MN	del	cuadrilátero	son	paralelos	porque
+A.	 MO	es	congruente	con	MN.	 B.	r`	es	congruente	con	β
+C.	 PM	es	congruente	con	NO.	 D.	α	es	congruente	con	β
+3. Las directivas de la carrera de administración de una 
+universidad realizan un sondeo acerca del salario mensual de 
+100 de sus egresados.
+	 Los	resultados	se	muestran	en	la	gráfica
+	 ¿Por	qué	se	puede	afirmar	que	la	mediana	es	1.300.000?
+A.	 Porque	 hay	50	personas	 que	tienen	un	salario	mayor	o	igual	
+que	éste	y	otras	50	tiene	un	salario	menor	o	igual	que	este.
+B.	 Porque	 es	el	salario	mensual	que	tiene	la	mayor	cantidad	de	
+personas.
+C.	 Porque	 el	50%	de	las	personas	 tiene	un	salario	menor	o	igual	
+que este.
+D.	 Porque	este	valor	corresponde	al	promedio	de	los	datos.4. La función f(x) =  genera la siguiente 
+ tabla para diferentes valores de x1	cuando	x	tiende	por	derecha	
+e izquierda a 1
+	 Cada	 vez	que	x	se	acerca	a	1	por	derecha	los	valores	de	f(x)	
+crecen	cada	vez	más.	Se	define	como	asíntota	vertical	a	la	
+recta que se puede construir paralela al eje Y, que corta al eje 
+X en un punto y no corta a la curva o curvas descritas por la 
+función y su valor se acerca continuamente a esta.
+ De acuerdo con la información anterior es correcto deducir 
+que
+A.	 existe	una	asíntota	vertical	en	x=1	ya	que	x	debe	ser	distinto	
+de 1 y f(1) no existe. 
+B. sólo	existe	una	asíntota	vertical	en	x=-1,	ya	que	f(-1)=0
+C.	 existe	una	asíntota	vertical	en	x=1,	ya	que	f(x) 1 para todo x 
+en el dominio. 
+D.	 no	existen	asíntotas	 verticales,	 ya	que	la	recta	y	=	x	corta	la	
+función.
+5.	En	una	nevera	hay	50	jugos	de	los	cuales	10	son	de	naranja	
+y los demás de manzana. Si antes de que alguien tome un 
+jugo al azar, otra persona guarda 5 más de cada sabor, la 
+probabilidad	 de	que	tome	un	jugo	de	naranja,	ahora	respecto	
+al	momento	en	el	que	había	50	jugos,	es
+A. mayor, porque se agrega la misma cantidad del cada sabor.
+B. menor, porque la proporción de jugos de naranja disminuye 
+respecto al total.
+C. menor, porque la cantidad de jugos en total aumenta.
+D. mayor, porque la proporción de jugos de naranja aumentó con 
+respecto al total.
+6.	En	una	clase	de 	geometría	se	planteó	el	siguiente	problema:	“Construir	un	rectángulo	semejante	al	que	se	presenta	en	la	figura” Tel: (6) 885 01 58
+ Manizales - Caldas - Colombia3
+Página
+Sesión 2Para	resolver	el	problema,	un	estudiante	realizó	la	siguiente	construcción:
+	 Respecto	a	los	rectángulos	EFGH	y	MNOP 	es	correcto	afirmar	que
+A. son semejantes porque los lados del rectángulo inicial se incrementaron 1 cm
+B. son semejantes porque los ángulos internos correspondientes son congruentes.
+C. no son semejantes porque sus lados correspondientes tienen diferentes medidas.
+D. no son semejantes porque sus lados correspondientes no son proporcionales.
+9. En una fábrica se aplica una encuesta a los empleados para 
+saber el medio de transporte que usan para llegar al trabajo, 
+y luego decidir si se implementa un servicio de ruta. Los 
+resultados mostraron, entre otras, estas tres conclusiones 
+sobre un grupo de 100 empleados que viven cerca de la 
+fábrica	y	que	se	desplazan	únicamente	en	bus	o	a	pie:
+ El 60% del grupo son mujeres
+	El 20% de las mujeres se transportan en bus
+	El	40%	de	los	hombres	se	desplaza	caminando
+¿Cuál	de	las	siguientes	 tablas	representa	 correcta-mente	 la	
+información obtenida de ese grupo?
+A. 
+B. 
+C. 
+D. 
+7.	La	suma	digital	(Sd)	se	define	como	la	suma	de	los	digitos	que	
+conforman	un	número,	es	decir:
+Sd(532)=	5	+	3	+	2	=	10
+Sd(20)= 2 + 0 = 2
+Sd(111)=	1	+	1	+	1	=	3
+Según la anterior información, si se desea conocer la cantidad de 
+números	cuya	suma	digital	(Sd)	sea	9,	es	correcto	afirmar	que
+A. corresponde a la mitad de la cantidad de números cuya suma 
+sea 18, pues es el doble de 9.
+B.	 existe	una	cantidad	 infinita	de	números	 que	cumplen	 la	
+condición,	 dado	que	el	dígito	0	permite	construir	diferentes	
+números cuya suma digital es 9.
+C. excede en uno a la cantidad de números cuya suma digital es 
+8, pues 9 es igual a 8+1.
+D.	 existe	una	cantidad	finita	de	números	que	cumplen	la	condición,	
+ya que no es posible utilizar todos los digitos para cumplirla.
+8.	Un	octágono	 regular	es	un	polígono	de	ocho	lados	y	ocho	
+ángulos	internos	congruentes.	 La	figura	muestra	un	octágono	
+regular inscrito en una circunferencia de radio 2.
+ Con la expresión 2sen45º
+sen67,5º se puede calcular en el octágono 
+	 de	la	figura,	la	medida	del
+ A.	 ángulo	OPQ.	 B.	segmento	PQ.
+ C.	 ángulo	QOP.	 D.	segmento	OQ.4
+Página
+Porque mereces ingresar a la universidadSesión 210. Un trapecio isósceles es un cuadrilátero que tiene un solo par 
+de lados paralelos y los otros dos, de igual medida. 
+ En un plano cartesiano se dibuja un trapecio isósceles de 
+modo	que	el	eje	 Y	divide	al	trapecio	en	dos	figuras	iguales.	
+	 Si	las	coordenadas	 de	dos	de	los	vértices	del	trapecio	son	
+(-4,	2)	y	(-2,	8),	¿Cuáles	son	las	coordenadas	 de	los	otros	dos	
+vértices?
+A. (8, 2) y (2, 4). B. (2, 8) y (4, 2).
+C.	 (-2,	-4)	y	(-8,	-2).	 D.	 (-4,	-2)	y	(-2,	-8).
+RESPONDA LAS PREGUNTAS 11 A 12 DE ACUERDO CON 
+LA SIGUIENTE INFORMACIÓN
+Para	adquirir	un	crédito	por	$6.000.000,	 Ángela	solicita	en	una	
+entidad	financiera	 información	 sobre	las	modalidades	 de	pago	
+para	crédito.	Un	asesor	le	da	la	siguiente	información.	
+*En	cualquier	modalidad,	 el	saldo	del	crédito	cada	mes	será	igual	
+a	la	diferencia	 entre	el	saldo	del	crédito	del	mes	anterior	y	el	abono	
+al	crédito	realizado	en	el	mes.
+11.	Después	 de	analizar	la	información,	 Ángela	afirma:	“Con	la	
+modalidad I, el valor de la cuota disminuirá $50.000 en cada 
+mes”.	La	afirmación	es	correcta	porque
+A. el	interés	total	del	crédito	será	$300.000	 y	cada	mes	disminuirá	
+$50.000.
+B. cada	mes	se	abonará	al	crédito	$1.000.000	 y	el	interés	
+disminuirá en $50.000.
+C. cada	mes	aumentará	 el	abono	al	crédito	en	$50.000,	 de	
+manera	que	el	interés	disminuirá.
+D. el	abono	al	crédito	disminuirá	 $50.000	cada	mes,	al	igual	que	
+el	interés.
+12.	El	interés	total	de	un	crédito	es	la	cantidad	de	dinero	que	se	
+paga adicional al valor del mismo. ¿Cuál(es) de los siguientes 
+procesos	podría	utilizar	la	entidad,	para	calcular	el	interés	total	
+del	crédito	de	Ángela,	si	se	pagara	con	la	modalidad	II?
+Proceso	1:	 calcular	el	20%	de	$6.000.000.
+Proceso	2:	 calcular	el	20%	de	$6.000.000	y	multiplicarlo	por	12.
+Proceso	3:	 calcular	 el	valor	de	la	cuota,	multiplicarlo	 por	12	y	al	
+resultado restarle $6.000.000.
+A. 1 solamente. B. 2 solamente.
+C.	1	y	3	solamente.	 D.	2	y	3	solamente.
+13. Un colegio necesita enviar 5 estudiantes como representantes 
+a un foro sobre la contaminación del medio ambiente. 
+Se	decidió	que	2	estudiantes	 sean	de	grado	décimo	
+y	3	de	grado	undécimo.	 En	décimo	hay	5	estudiantes	
+preparados	 para	el	foro	y	en	undécimo	 hay	4.	¿Cuántos	
+grupos diferentes pueden formarse para envi ar al foro?
+ A. 9 B. 14 C. 20 D. 4014. La expresión  relaciona la sonoridad de un  sonido de 
+30	decibeles	 con	su	intensidad	 (I)	y	la	menor intensidad (Io) 
+que	percibe	el	oído	humano.	¿Cuántas	 veces	es	el	valor	de	I	
+respecto a Io?
+A. Una	milésima.	 B. Un tercio.
+C. Tres veces. D. Mil	veces.
+15.	En	determinada 	zona	de	una	ciudad	se	construyen	 edificios	
+de apartamentos en los que cada metro cuadrado tiene un 
+costo de $800.000, y se asegura a los compradores que en 
+esta zona anualmente, el metro cuadrado se valoriza un 5% 
+respecto al costo del año anterior. ¿Con cuál de las siguientes 
+expresiones se representa el costo de un metro cuadrado en 
+esa zona, transcurridos n años?
+A. 800.000 + 5 n B. 800.000 (5 n)
+C. 800.000  D. 800.000  
+16. Se puede encontrar números racionales mayores 
+que k, de manera que sean cada vez más 
+cercanos	 a	él,	calculando 	  (con j entero
+ positivo). Cuanto más grande sea j, más cercano a k será el 
+racional construido. ¿Cuántos números racionales se pueden 
+construir cercanos a k y menores que ?
+A. 10, que es la cantidad de racionales menores que 11.
+B. Una	cantidad	infinita,	pues	existen	infinitos	números	enteros	
+mayores que 11.
+C. 11, que es el número que equivale en este caso a j.
+D. Uno,	pues	el	racional	más	cercano	a	k	se	halla	con	j	=	10,	es	
+decir, con k + 0,1.
+17.	En	la	figura	se	representa 	una	cancha	de	fútbol	con	las	
+medidas de sus lados.
+	 Un	arquitecto	 realiza	una	maqueta	del	diseño	de	la	cancha,	
+con medida de los lados cien veces menor que las medidas 
+originales. El diseño de la maqueta medirá
+A.
+B. 
+ Tel: (6) 885 01 58
+ Manizales - Caldas - Colombia5
+Página
+Sesión 2C. 
+D. 
+18. El área de los rectángulos que se pueden construir a partir 
+del	origen,	los	ejes	y	un	punto	que	pertenece	 a	la	gráfica	de	
+la función  donde x > 0, se describe con la expresión 
+Ax= xf(x).
+¿Cuál	de	las	siguientes	gráficas	corresponde	a	 Ax?
+A.
+ 
+C. 
+ 
+B. 
+ 
+D. 
+ 
+RESPONDA LAS PREGUNTAS 19 A 22 DE ACUERDO CON LA 
+SIGUIENTE INFORMACIÓN
+El subsidio familiar de vivienda (SFV) es un aporte que entrega 
+el	Estado	y	que	constituye	 un	complemento	 del	ahorro,	para	
+facilitarle la adquisición, construcción o mejoramiento de una 
+solución	de	vivienda	de	interés	social	al	ciudadano.	 A	continuación	
+se	presenta	la	tabla	de	ingresos	en	salarios	mínimos	mensuales	
+legales	vigentes	(SMMLV)	 y	el	subsidio	al	que	tiene	derecho,	para	
+cierto año.
+19.	Con	el	SFV	más	los	ahorros	con	los	que	cuente	el	grupo	
+familiar	y	el	crédito	que	obtenga	de	una	entidad	financiera,	
+se	puede	comprar	la	vivienda.	 Por	tanto,	el	procedimiento	
+correcto	para	estimar	el	valor	del	crédito	que	debe	solicitarse	
+al	banco	es:
+A. Valor	del	crédito	=	ingresos	+	ahorros	+	subsidio	+	valor	de	la	
+Vivienda.
+B. Valor	del	crédito	=	valor	de	la	vivienda	–	ahorros	–	subsidio.
+C. Valor	del	crédito	=	ingresos	+	ahorros	–	subsidio	+	valor	de	la	
+Vivienda.
+D. Valor	del	crédito	=	valor	de	la	vivienda	+	subsidio	–	ahorros.
+20. Una persona que observa la información de la tabla elabora la 
+gráfica	que	se	presenta	a	continuación.
+La	gráfica	presenta	una	inconsistencia	porque
+A. los ingresos y el subsidio correspondientes se dan en miles de 
+pesos,	y	no	en	SMMLV.
+B. la correspondencia entre ingresos y subsidios es inversa, pero 
+no disminuye de manera constante y continua.
+C. faltan algunos valores de los subsidios presentados en la 
+tabla.
+D. los valores del subsidio deben ser ascendentes, pues a 
+menores ingresos, mayor es el subsidio.
+21.	Una	familia	con	ingresos	entre	0	y	1	SMMLV	recibe	un	subsidio	
+equivalente a
+A. 1,4 veces el subsidio de una familia de ingresos entre 2 y 2,25 
+SMMLV.
+B. 1,8 veces el subsidio de una familia de ingresos entre 2,5 y 
+2,75	SMMLV.
+C.	 3,5	veces	el	subsidio	de	una	familia	de	ingresos	entre	3	y	3,5	
+SMMLV.
+D.	 5,5	veces	el	subsidio	de	una	familia	de	ingresos	entre	3,5	y	4	
+SMMLV.
+22. Entre los 16 estudiantes de un salón de clases se va a rifar 
+una boleta para ingresar a un parque de diversiones. Cada 
+estudiante	 debe	escoger	un	número	del	3	al	18.	El	sorteo	
+se	efectúa	de	la	siguiente	 manera:	se	depositan	 6	balotas	
+en una urna, cada una numerada del 1 al 6; se extrae una 
+balota, se mira el número y se vuelve a depositar en la urna. 
+El experimento se repite dos veces más. La suma de los tres 
+puntajes obtenidos determina el número ganador de la rifa. 
+Si en la primera extracción del sorteo se obtuvo 2, es más 
+probable que el estudiante que escogió el número 10 gane la 
+rifa a que la gane el estudiante con el número 7, porque
+A. al ser mayor el número escogido, es mayor la probabilidad 
+de ganar.
