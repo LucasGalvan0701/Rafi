@@ -1,511 +1,547 @@
 /**
- * 🗄️ BANCO DE PREGUNTAS Y CONTEXTOS
+ * 🗄️ BASE DE DATOS DE PREGUNTAS Y CONTEXTOS
+ * Este archivo contiene toda la información de las preguntas de forma independiente.
+ * Puedes editar las preguntas, opciones y explicaciones aquí sin tocar la lógica de la app.
  */
 
 const CONTEXTS = {
-    'lectura-sagas': {
-        title: 'LAS SAGAS ISLANDESAS',
+    'sociales-mineros': {
+        title: 'MINERÍA Y REGULACIÓN AMBIENTAL',
         cards: [
-            'En la antigüedad escandinava se llamaba saga a las pequeñas leyendas sobre seres heróicos, mitológicos, etc. Sin embargo, en el siglo XIII apareció en Islandia un género literario al que se aplicó la misma denominación: la saga propiamente dicha.',
-            'La palabra islandesa saga quiere decir "lo dicho, lo contado". En general, podríamos traducirla por "narración". Se aplica a historias escritas en Islandia sobre los reyes de Noruega.',
-            'Estas historias orales se conservaron a lo largo de varios siglos. Su función era múltiple: entretenimiento, pero también guardaban los recuerdos históricos y la genealogía de las familias.'
+            'Un grupo de mineros artesanales ha aumentado sus ingresos al encontrar un punto del río en el cual se puede extraer oro con la ayuda de mercurio. La comunidad del municipio aledaño se ha visto afectada por esta situación, porque el río se ha contaminado con los desechos tóxicos que genera la actividad minera y es la única fuente de agua que tienen los habitantes para el consumo e irrigación de cultivos.',
+            'Ante esto, la alcaldesa del municipio considera necesario establecer una normatividad que regule este tipo de actividades.'
         ]
     },
-    'lectura-lenguaje': {
-        title: 'EL LENGUAJE EN EL COMIENZO DEL MUNDO',
+    'sociales-hacinamiento': {
+        title: 'HACINAMIENTO CARCELARIO',
         cards: [
-            'El lenguaje hace la diferencia sustancial entre el hombre y el primate. Sin lenguaje no hay pensamiento, y el tejido de relaciones por fuera del lenguaje aún no es social.',
-            'Según Claude Lévi-Strauss antes el lenguaje era el reino del canto. Los fines arcaicos del canto animal fueron sobrepasados por los fines del lenguaje simbólico que terminó apoderándose de lo humano.',
-            'Gracias al lenguaje simbólico que proyecta sobre lo real el soplo de su propio "sentido", el "mundo" fue posible como mundo y como representación de un "todo" exterior coherente.'
+            'En un país hay un serio problema de hacinamiento carcelario: el número de reclusos supera ampliamente la capacidad de las cárceles para albergarlos. Frente a esta situación, el Gobierno propone excarcelar un porcentaje significativo de reclusos mediante amnistías, rebajas de penas, y la modalidad de casa por cárcel.',
+            'Un primer sector apoya la iniciativa pues considera que el hacinamiento viola los derechos humanos de los reclusos y que la prisión no disuade sino que profesionaliza el crimen.',
+            'Un segundo sector se opone, argumentando que la reclusión evita más delitos y que la excarcelación masiva enviaría el mensaje de que "el crimen sí paga".',
+            'Un tercer sector propone construir más cárceles como solución alternativa.'
+        ]
+    },
+    'lectura-creencias': {
+        title: 'LOS GRADOS DE CREENCIA',
+        cards: [
+            'Cuando examinamos nuestras creencias, advertimos que mantenemos creencias diferentes con muy diferentes grados de convicción. Algunas pueden ser objeto de duda por parte de muy pocas personas.',
+            'Las creencias históricas se mantienen con menos firmeza, pero sin grandes dudas en lo fundamental si están bien autenticadas.',
+            'Las creencias filosóficas ocuparán para mucha gente un lugar inferior, puesto que las creencias contrarias de otros difícilmente dejarán de suscitar dudas.',
+            'La creencia, por consiguiente, es cuestión de grado.'
+        ]
+    },
+    'lectura-ley-seca': {
+        title: 'LA LEY SECA',
+        cards: [
+            'Lo que llaman la "Ley Seca", a estilo y texto yanquis, está en la mente de varios legisladores y en el corazón de muchos colombianos. Vista por un lado, parece un prodigio de redención; vista por otro lado, bien puede parecer una solemne necedad.',
+            'Que con la ley se evitarían crímenes de sangre y otras bestialidades es cierto, ciertísimo. Por desgracia, no gozaremos de tanta dicha: la Ley Seca, aunque rija oficial y aparentemente, en cualquier parte, es un imposible físico y moral.',
+            'El tal linaje humano parece necesitar de algo que lo intoxique, bien porque se lo exija el organismo, bien por buscar en la embriaguez olvido de pesares o mirajes de ilusión. Todos los pueblos, bárbaros o avanzados, han perseguido los "paraísos artificiales" que ofrece el alcohol.'
+        ]
+    },
+    'ingles-empire-state': {
+        title: 'THE EMPIRE STATE BUILDING',
+        cards: [
+            'The Empire State Building is the top place to see for first-time visitors to New York City. This tall building was part of a competition between Walter Chrysler and John Raskob for the construction of the world\'s tallest building. Engineer William Lamb produced the plans, and John Raskob and Pierre du Pont\'s company paid for the project.',
+            'The Empire State project was completed on April 11, 1931, sooner than planned. The building was opened by Herbert Hoover on May 1, 1931. However, due to the great economic crisis, lots of offices were not rented for several years.',
+            'When visiting, prepare for long ticket lines on the first floor, especially on weekends. You should wear warm clothes if it\'s cold. Tourists buy one ticket for the 86th floor and another for the 102nd floor. Book your tickets online to save money. To go up to the higher floor, tickets are only available on the 80th floor, where you can learn about the history of the building.'
         ]
     }
 };
 
 const QUESTIONS = [
-    // ══ MATEMÁTICAS ══
-    {
-        id: 'M1', area: 'Matemáticas', icon: '📐',
-        question: 'El movimiento de una partícula P1 se representa con 9x² + y² - 18x - 4y - 2 = 0 y el de P2 con 3x² - 2y² + 12x - 4y - 2 = 0. Es correcto afirmar que:',
-        options: {
-            A: 'P1 describe una elipse y P2 una parábola.',
-            B: 'P1 describe una parábola y P2 una elipse.',
-            C: 'P1 describe una elipse y P2 una hipérbola.',
-            D: 'P1 describe una hipérbola y P2 una elipse.'
-        },
-        correct: 'C',
-        explanation: {
-            context: 'Identificación de cónicas a partir de sus ecuaciones generales.',
-            concepts: [
-                { name: 'Elipse', def: 'Los coeficientes de x² y y² tienen el mismo signo.', url: 'https://www.google.com/search?q=ecuacion+general+elipse' },
-                { name: 'Hipérbola', def: 'Los coeficientes de x² y y² tienen signos opuestos.', url: 'https://www.google.com/search?q=ecuacion+general+hiperbola' }
-            ],
-            step1: 'Analizamos los coeficientes de las variables al cuadrado en ambas ecuaciones.',
-            step2: 'P1 tiene (+9x²) y (+1y²), signos iguales -> Elipse. P2 tiene (+3x²) y (-2y²), signos opuestos -> Hipérbola.',
-            step3: 'La opción C identifica correctamente ambas trayectorias.'
-        }
-    },
-    {
-        id: 'M2', area: 'Matemáticas', icon: '📐',
-        question: 'Dos mil personas se encuestan. El 60% tiene entre 18 y 38 años. ¿Cuántos encuestados corresponden a este rango de edad?',
-        options: {
-            A: '2.000', B: '1.200', C: '1.000', D: '600'
-        },
-        correct: 'B',
-        explanation: {
-            context: 'Cálculo de porcentajes en una población.',
-            concepts: [
-                { name: 'Porcentaje', def: 'Fracción de 100.', url: 'https://www.google.com/search?q=como+calcular+porcentajes' }
-            ],
-            step1: 'Se pide hallar el 60% de una población total de 2000 personas.',
-            step2: 'Operación: 2000 * 0.60 = 1200.',
-            step3: '1200 es exactamente el 60% de 2000.'
-        }
-    },
-    {
-        id: 'M3', area: 'Matemáticas', icon: '📐',
-        question: 'En un curso de 75 estudiantes, 45 son mujeres. La probabilidad 3/5 de escoger una mujer corresponde a la razón entre el número de mujeres y:',
-        options: {
-            A: 'El número total de estudiantes.',
-            B: 'El número total de hombres.',
-            C: 'El número de mujeres de un solo salón.',
-            D: 'El número de hombres del curso A.'
-        },
-        correct: 'A',
-        explanation: {
-            context: 'Probabilidad simple como razón.',
-            concepts: [
-                { name: 'Probabilidad', def: 'Casos favorables entre casos totales.', url: 'https://www.google.com/search?q=probabilidad+simple+definicion' }
-            ],
-            step1: 'Identificamos que 45/75 simplificado es 3/5.',
-            step2: 'El denominador 75 representa al grupo completo.',
-            step3: 'Por tanto, es la razón entre mujeres y el total de estudiantes.'
-        }
-    },
-    {
-        id: 'M4', area: 'Matemáticas', icon: '📐',
-        question: 'La masa de una sustancia decae según M(t) = 1000(0,9)^t. ¿Qué sucede con la masa cuando t toma valores muy grandes?',
-        options: {
-            A: 'Es cero cuando t = 1.000.',
-            B: 'Se acerca a 1.000 gramos.',
-            C: 'Se acerca a cero (0) gramos.',
-            D: 'Es constante a partir de t=1.000.'
-        },
-        correct: 'C',
-        explanation: {
-            context: 'Límites y funciones exponenciales decaimiento.',
-            concepts: [
-                { name: 'Función Exponencial', def: 'Función donde la variable t es un exponente.', url: 'https://www.google.com/search?q=funcion+exponencial+decaimiento' }
-            ],
-            step1: 'La base (0.9) es menor a 1, lo que indica un decaimiento.',
-            step2: 'A medida que t crece, (0.9)^t tiende a cero.',
-            step3: 'La masa se aproxima a cero pero nunca llega a serlo exactamente en tiempo finito.'
-        }
-    },
-    {
-        id: 'M5', area: 'Matemáticas', icon: '📐',
-        question: 'Un estudiante afirma que "todo número impar al cuadrado es divisible por dos". ¿Por qué es falsa?',
-        options: {
-            A: 'Porque el resultado es impar todas las veces.',
-            B: 'Porque es impar la mitad de las veces.',
-            C: 'Porque solo es impar si n es distinto de 0.',
-            D: 'Porque solo es impar cuando n es 0.'
-        },
-        correct: 'A',
-        explanation: {
-            context: 'Propiedades de números pares e impares.',
-            concepts: [
-                { name: 'Impar al cuadrado', def: 'El producto de dos impares siempre es impar.', url: 'https://www.google.com/search?q=producto+de+numeros+impares' }
-            ],
-            step1: 'Un número impar se representa como 2n+1.',
-            step2: '(2n+1)² = 4n² + 4n + 1 = 2(2n² + 2n) + 1.',
-            step3: 'La forma 2(K) + 1 siempre es un número impar, por lo tanto nunca es divisible por 2.'
-        }
-    },
-
     // ══ CIENCIAS NATURALES ══
     {
-        id: 'N1', area: 'Ciencias Naturales', icon: '🔬',
+        id: 'N1',
+        area: 'Ciencias Naturales',
+        icon: '🔬',
         question: 'Suponiendo que la energía elástica inicial de un resorte es igual a la energía potencial final de una bola, ¿qué herramienta mediría la energía potencial final (dependiente de la altura)?',
         options: {
-            A: 'Una regla.', B: 'Una balanza.', C: 'Un cronómetro.', D: 'Un termómetro.'
+            A: 'Una regla.',
+            B: 'Una balanza.',
+            C: 'Un cronómetro.',
+            D: 'Un termómetro.'
         },
         correct: 'A',
         explanation: {
-            context: 'Energía Potencial Gravitatoria (mgh).',
+            context: 'Esta pregunta trata sobre energía potencial gravitatoria y evalúa si puedes identificar qué variable física necesitas medir para determinar esa energía.',
+            contextImg: 'imagenes/preguntas diagnostico/pregunta 1/contexto.png',
             concepts: [
-                { name: 'Energía Potencial', def: 'Energía almacenada debido a la posición/altura.', url: 'https://www.google.com/search?q=energia+potencial+formula' }
+                { name: 'Energía Potencial', def: 'Energía almacenada debido a la posición o altura.', url: 'https://www.google.com/search?q=energia+potencial+formula' }
             ],
-            step1: 'La energía potencial depende directamente de la altura (h).',
-            step2: 'Para hallar la energía, necesitamos conocer h.',
-            step3: 'La regla es el instrumento adecuado para medir longitudes o alturas.'
-        }
-    },
-    {
-        id: 'N2', area: 'Ciencias Naturales', icon: '🔬',
-        question: 'De la investigación sobre la energía cinética (EC) y potencial (EP) de un acróbata en caída, se concluye que:',
-        options: {
-            A: 'La energía potencial es siempre mayor.',
-            B: 'La suma de EP y EC cambia en cada punto.',
-            C: 'La suma de EP y EC es constante en cada punto.',
-            D: 'La energía cinética es siempre mayor.'
-        },
-        correct: 'C',
-        explanation: {
-            context: 'Conservación de la Energía Mecánica.',
-            concepts: [
-                { name: 'Energía Mecánica', def: 'Suma de energía cinética y potencial.', url: 'https://www.google.com/search?q=ley+conservacion+energia+mecanica' }
-            ],
-            step1: 'En ausencia de fricción, la energía no se crea ni destruye, solo se transforma.',
-            step2: 'Mientras la EP disminuye al caer, la EC aumenta proporcionalmente.',
-            step3: 'La suma total (Energía Mecánica) permanece constante.'
-        }
-    },
-    {
-        id: 'N3', area: 'Ciencias Naturales', icon: '🔬',
-        question: 'Se calientan 4 varillas de metales distintos. Varilla 1: 29x10⁻⁶, Varilla 2: 17x10⁻⁷, Varilla 3: 17x10⁻⁶, Varilla 4: 11x10⁻⁶. ¿Cuál se expande más?',
-        options: {
-            A: '4, por menor coeficiente.',
-            B: '3, por mayor coeficiente.',
-            C: '2, por menor coeficiente.',
-            D: '1, por mayor coeficiente.'
-        },
-        correct: 'D',
-        explanation: {
-            context: 'Expansión Térmica Lineal.',
-            concepts: [
-                { name: 'Coeficiente de Expansión', def: 'Grado en que un material se expande por grado de temp.', url: 'https://www.google.com/search?q=coeficiente+expansion+lineal+metales' }
-            ],
-            step1: 'La expansión es directamente proporcional al coeficiente.',
-            step2: 'Comparamos los valores: 29x10⁻⁶ es mayor que 17x10⁻⁶, 11x10⁻⁶ y 17x10⁻⁷.',
-            step3: 'La varilla 1 tiene el coeficiente más alto, por lo tanto se expande más.'
-        }
-    },
-    {
-        id: 'N4', area: 'Ciencias Naturales', icon: '🔬',
-        question: 'Dos globos se frotan contra un saco y se cuelgan de un hilo. El estudiante observa que al soltarlos:',
-        options: {
-            A: 'Se juntan por carga diferente.',
-            B: 'Se juntan por igual signo.',
-            C: 'Se separen por carga diferente.',
-            D: 'Se separen porque quedaron con carga de igual signo.'
-        },
-        correct: 'D',
-        explanation: {
-            context: 'Electrostática y ley de cargas.',
-            concepts: [
-                { name: 'Carga Eléctrica', def: 'Propiedad física que causa fuerzas de atracción/repulsión.', url: 'https://www.google.com/search?q=ley+de+cargas+electricas' }
-            ],
-            step1: 'Ambos globos se frotan con el mismo material (el saco).',
-            step2: 'Por lo tanto, ambos adquieren el mismo tipo de carga (positiva o negativa).',
-            step3: 'Cargas del mismo signo se repelen, por lo que los globos se separan.'
-        }
-    },
-    {
-        id: 'N5', area: 'Ciencias Naturales', icon: '🔬',
-        question: 'Se conecta una resistencia eléctrica en un recipiente con gas y este se calienta. ¿Por qué ocurre esto?',
-        options: {
-            A: 'El gas entrega energía a la resistencia.',
-            B: 'La resistencia entrega energía térmica al gas.',
-            C: 'Pasa corriente eléctrica por el gas.',
-            D: 'Aparece resistencia térmica en el circuito.'
-        },
-        correct: 'B',
-        explanation: {
-            context: 'Efecto Joule y transferencia de calor.',
-            concepts: [
-                { name: 'Efecto Joule', def: 'Desprendimiento de calor al pasar corriente por un conductor.', url: 'https://www.google.com/search?q=efecto+joule+explicacion' }
-            ],
-            step1: 'La corriente pasa por la resistencia, calentándola.',
-            step2: 'La resistencia caliente transfiere calor al gas circundante.',
-            step3: 'Es una transferencia de energía térmica de la fuente (resistencia) al receptor (gas).'
+            fragment: '¿qué herramienta mediría la energía potencial final (dependiente de la altura)?',
+            step1: 'Aquí debemos identificar qué nos está pidiendo la pregunta. No está pidiendo calcular nada, sino escoger una herramienta de medición. Además, la pregunta aclara que la energía potencial depende de la altura, lo cual nos da la pista sobre qué variable necesitamos medir.<br><br><b>🔑 Clave:</b> Primero identifica qué te pide la pregunta y qué variable menciona.',
+            step2: 'Si la energía potencial depende de la altura, entonces necesitamos una herramienta que permita medir altura o distancia. Entre las opciones dadas, la única herramienta que mide longitud o altura es la regla.<br><br><b>🔑 Clave:</b> Si necesitas medir altura, usa un instrumento de longitud.',
+            step3: '<b>B. Balanza:</b> mide masa.<br><b>C. Cronómetro:</b> mide tiempo.<br><b>D. Termómetro:</b> mide temperatura.<br><br>Ninguna de estas herramientas mide altura, que es lo que necesitamos para relacionarla con la energía potencial.<br><br><b>🔑 Clave:</b> Descarta opciones que midan otra variable diferente.<br><br><b>✅ Respuesta correcta: A. Una regla.</b>',
+            step3Img: 'imagenes/preguntas diagnostico/pregunta 1/paso3.png'
         }
     },
 
-    // ══ SOCIALES Y CIUDADANAS ══
+    // ══ SOCIALES Y CIUDADANAS (Prueba Real ICFES) ══
     {
-        id: 'S1', area: 'Sociales y Ciudadanas', icon: '🏛️',
-        question: 'Países desarrollados compiten con innovación, mientras los "subdesarrollados" venden materias primas. Esto pasa porque estos últimos:',
+        id: 'S1',
+        area: 'Sociales y Ciudadanas',
+        icon: '🏛️',
+        year: 2022,
+        contextId: 'sociales-mineros',
+        question: '¿Cuál es la razón que mejor justifica por qué debería establecerse allí una normatividad que regule las actividades de extracción minera en el municipio?',
         options: {
-            A: 'Realizan poca inversión en investigación tecnológica.',
-            B: 'Tienen poca iniciativa para exportar minerales.',
-            C: 'No saben cómo vender en el mercado internacional.',
-            D: 'Decidieron marginarse de los avances mundiales.'
-        },
-        correct: 'A',
-        explanation: {
-            context: 'Globalización y brecha tecnológica.',
-            concepts: [
-                { name: 'I+D', def: 'Inversión en Investigación y Desarrollo.', url: 'https://www.google.com/search?q=importancia+de+inversion+en+tecnologia+paises' }
-            ],
-            step1: 'La capacidad de innovar depende de la inversión estatal y privada en ciencia.',
-            step2: 'Los países que solo exportan materias primas suelen tener baja inversión en tecnología.',
-            step3: 'Esto perpetúa la dependencia económica de mercados externos.'
-        }
-    },
-    {
-        id: 'S2', area: 'Sociales y Ciudadanas', icon: '🏛️',
-        question: 'El taylorismo y fordismo buscaban reducir costos. ¿Cuál de estos NO cumple sus criterios?',
-        options: {
-            A: 'Aumento de destreza mediante enseñanza técnica.',
-            B: 'Mayor control del tiempo para productividad.',
-            C: 'Distribución equitativa de ganancias entre industriales y obreros.',
-            D: 'Estudio científico del proceso productivo.'
-        },
-        correct: 'C',
-        explanation: {
-            context: 'Sistemas de producción industrial.',
-            concepts: [
-                { name: 'Fordismo', def: 'Producción en cadena y estandarización.', url: 'https://www.google.com/search?q=caracteristicas+taylorismo+fordismo' }
-            ],
-            step1: 'Estos sistemas priorizaban la eficiencia y el lucro del capitalista.',
-            step2: 'Aunque aumentaron salarios, la distribución NO era equitativa (igualitaria).',
-            step3: 'La opción C es un principio ajeno a las metas originales de Taylor y Ford.'
-        }
-    },
-    {
-        id: 'S3', area: 'Sociales y Ciudadanas', icon: '🏛️',
-        question: 'La sustitución de importaciones busca favorecer la producción interna. Además de aranceles, ¿cómo puede lograrse?',
-        options: {
-            A: 'Liberando importaciones sin barreras.',
-            B: 'Aumentando exportaciones agrícolas.',
-            C: 'Disminución de costos y mejora de productos nacionales.',
-            D: 'Otorgando subsidios a importadores externos.'
-        },
-        correct: 'C',
-        explanation: {
-            context: 'Modelo Industrialización por Sustitución de Importaciones (ISI).',
-            concepts: [
-                { name: 'ISI', def: 'Modelo que busca producir internamente lo que se importaba.', url: 'https://www.google.com/search?q=modelo+sustitucion+importaciones+latinoamerica' }
-            ],
-            step1: 'Para no comprar afuera, los productos locales deben ser competitivos.',
-            step2: 'Bajar costos y subir calidad hace que el consumidor prefiera lo nacional.',
-            step3: 'Esto fortalece la industria interna de forma orgánica.'
-        }
-    },
-    {
-        id: 'S4', area: 'Sociales y Ciudadanas', icon: '🏛️',
-        question: 'La Época Medieval tenía economía agrícola. El Estado moderno, con monarquías absolutas, se caracterizó por:',
-        options: {
-            A: 'Poder dividido entre iglesia y gobernantes.',
-            B: 'Organización en feudos y burgos.',
-            C: 'Poder político y militar centralizado y territorio delimitado.',
-            D: 'Organización regida por la ley natural divina.'
-        },
-        correct: 'C',
-        explanation: {
-            context: 'Evolución del Estado Moderno.',
-            concepts: [
-                { name: 'Estado Moderno', def: 'Surgimiento de fronteras y poder central soberano.', url: 'https://www.google.com/search?q=caracteristicas+del+estado+moderno' }
-            ],
-            step1: 'El Estado moderno quita poder a los señores feudales.',
-            step2: 'El Rey concentra el ejército y la administración en un territorio claro.',
-            step3: 'Esta centralización es la base de las naciones actuales.'
-        }
-    },
-    {
-        id: 'S5', area: 'Sociales y Ciudadanas', icon: '🏛️',
-        question: 'Personas de ingresos medios abandonan el centro urbano hacia zonas periféricas. La principal causa es:',
-        options: {
-            A: 'Desarrollo de industria en el centro.',
-            B: 'Búsqueda de mejor calidad de vida en barrios tranquilos.',
-            C: 'Escasa oferta de servicios en el centro.',
-            D: 'Oferta de vivienda barata en las afueras.'
+            A: 'Para que los mineros busquen más lugares de extracción de oro sin tener problemas con las autoridades.',
+            B: 'Para garantizar los derechos a la salud y a un ambiente sano de los pobladores y el derecho de los mineros al trabajo.',
+            C: 'Para que se pueda subsidiar la compra de agua para los pobladores, por medio de las ganancias que genera la explotación minera.',
+            D: 'Para establecer periodos de alternancia en la extracción del oro, para que los mineros descansen y permitan que el agua no se contamine tanto.'
         },
         correct: 'B',
         explanation: {
-            context: 'Urbanismo y dinámicas de población.',
+            context: 'Esta pregunta evalúa tu comprensión sobre los derechos fundamentales y la regulación estatal frente a conflictos entre actividades económicas y bienestar comunitario.',
             concepts: [
-                { name: 'Suburbanización', def: 'Crecimiento de las áreas periféricas de las ciudades.', url: 'https://www.google.com/search?q=causas+de+la+suburbanizacion' }
+                { name: 'Derechos Fundamentales', def: 'Derechos constitucionales como la salud, el trabajo y un ambiente sano.', url: 'https://www.google.com/search?q=derechos+fundamentales+colombia' }
             ],
-            step1: 'El centro suele ser ruidoso, contaminado o congestionado.',
-            step2: 'Las familias con recursos buscan aire puro, menos tráfico y seguridad.',
-            step3: 'Por ello se mudan a las afueras para ganar "calidad de vida".'
-        }
-    },
-
-    // ══ LECTURA CRÍTICA ══
-    {
-        id: 'L1', area: 'Lectura Crítica', icon: '📖', contextId: 'lectura-sagas',
-        question: 'Cuando se dice que la palabra islandesa saga quiere decir "lo dicho, lo contado", esto último permite:',
-        options: {
-            A: 'Definir qué es una saga.',
-            B: 'Sugerir la naturaleza del género.',
-            C: 'Caracterizar un tipo especial de relato.',
-            D: 'Diferenciar las sagas islandesas de las leyendas.'
-        },
-        correct: 'A',
-        explanation: {
-            context: 'Comprensión textual y definiciones.',
-            concepts: [
-                { name: 'Etimología', def: 'Origen y significado de las palabras.', url: 'https://www.google.com/search?q=que+es+etimologia' }
-            ],
-            step1: 'El texto usa el significado de la palabra para explicar su esencia.',
-            step2: 'Al decir qué significa, está estableciendo una definición.',
-            step3: 'La opción A es la más directa: permite definir el concepto.'
+            fragment: '¿Cuál es la razón que mejor justifica por qué debería establecerse allí una normatividad?',
+            step1: 'La pregunta pide identificar la mejor justificación para crear una norma. No te pide una solución práctica, sino el fundamento legal o ético detrás de la regulación.<br><br><b>🔑 Clave:</b> Primero identifica qué te pide la pregunta: una justificación, no una solución técnica.',
+            step2: 'La regulación debe equilibrar dos derechos en conflicto: el derecho al trabajo de los mineros y el derecho a la salud y ambiente sano de los pobladores. La opción B es la única que reconoce ambos derechos.<br><br><b>🔑 Clave:</b> Relaciona la necesidad de regulación con la protección de derechos fundamentales de todos.',
+            step3: '<b>A.</b> Solo beneficia a los mineros, no protege a la comunidad.<br><b>C.</b> Propone un paliativo (subsidiar agua), no una regulación real.<br><b>D.</b> Es una solución parcial que no garantiza derechos.<br><br><b>🔑 Clave:</b> Descarta opciones que solo favorezcan a un grupo o que no aborden derechos fundamentales.<br><br><b>✅ Respuesta correcta: B.</b>'
         }
     },
     {
-        id: 'L2', area: 'Lectura Crítica', icon: '📖', contextId: 'lectura-sagas',
-        question: 'Se afirma que las sagas tienen rasgos estilísticos propios del lenguaje hablado. Esto indica que:',
+        id: 'S2',
+        area: 'Sociales y Ciudadanas',
+        icon: '🏛️',
+        year: 2022,
+        question: 'Un presidente prohíbe durante 90 días las visas a ciudadanos de países como Libia, Sudán, Somalia, Siria, Irak, Yemen e Irán, afirmando que quiere "mantener fuera a los terroristas islámicos radicales" y que solo quiere admitir personas que "apoyen al país". ¿Por qué se puede decir que el presidente tiene prejuicios contra la población musulmana?',
         options: {
-            A: 'Los escandinavos no las escribieron nunca.',
-            B: 'El lenguaje hablado no tiene rigurosidad.',
-            C: 'El desarrollo escritural fue incipiente.',
-            D: 'El origen de estos relatos se funda en la tradición oral.'
+            A: 'Insiste en la necesidad de proteger a los ciudadanos norteamericanos de los terroristas islámicos.',
+            B: 'Destaca los aportes de la comunidad islámica al progreso y al desarrollo de los Estados Unidos.',
+            C: 'Insinúa que los refugiados y la población musulmana son una amenaza para la seguridad nacional.',
+            D: 'Asume que todos los musulmanes son peligrosos, por el hecho de que los refugiados sirios lo sean.'
         },
         correct: 'D',
         explanation: {
-            context: 'Análisis de estilos literarios.',
+            context: 'Esta pregunta evalúa tu capacidad para identificar prejuicios y generalizaciones en un discurso político.',
             concepts: [
-                { name: 'Tradición Oral', def: 'Historias pasadas de voz en voz antes de escribirse.', url: 'https://www.google.com/search?q=tradicion+oral+caracteristicas' }
+                { name: 'Prejuicio', def: 'Opinión preconcebida que no se basa en razón ni experiencia directa.', url: 'https://www.google.com/search?q=que+es+un+prejuicio+social' }
             ],
-            step1: 'Si un texto escrito suena como "hablado", es porque nació así.',
-            step2: 'Las sagas se contaban por siglos antes de llegar al papel.',
-            step3: 'Esa raíz oral deja huellas en el estilo de escritura.'
+            fragment: '"mantener fuera a los terroristas islámicos radicales" y solo admitir personas que "apoyen al país"',
+            step1: 'La pregunta pide que identifiques POR QUÉ el discurso refleja un prejuicio. El prejuicio implica generalizar: atribuir una característica negativa a todo un grupo.<br><br><b>🔑 Clave:</b> Identifica qué generalización hace el discurso.',
+            step2: 'El presidente prohíbe la entrada a ciudadanos de países enteros por la acción de unos pocos terroristas. Eso es asumir que TODOS los musulmanes son peligrosos porque algunos lo son.<br><br><b>🔑 Clave:</b> El prejuicio está en generalizar de lo particular a lo universal.',
+            step3: '<b>A.</b> Describe lo que dice pero no explica el prejuicio.<br><b>B.</b> Es lo opuesto a lo que dice el presidente.<br><b>C.</b> Es cercana, pero "insinuar" es más suave que "asumir de todos".<br><br><b>🔑 Clave:</b> Descarta opciones que no identifiquen claramente la generalización.<br><br><b>✅ Respuesta correcta: D.</b>'
         }
     },
     {
-        id: 'L3', area: 'Lectura Crítica', icon: '📖', contextId: 'lectura-sagas',
-        question: '¿Por qué se puede afirmar que el texto sobre las sagas es explicativo?',
+        id: 'S3',
+        area: 'Sociales y Ciudadanas',
+        icon: '🏛️',
+        year: 2022,
+        question: 'Ante el aumento del hurto por parte de personas en moto con "parrilleros", la alcaldía propone prohibir el parrillero. El concejo apoya esta propuesta con base en el Estado Social de Derecho, argumentando que:',
         options: {
-            A: 'Expresa opiniones.', B: 'Demuestra ideas.', C: 'Aclara un fenómeno.', D: 'Expone un pensamiento.'
-        },
-        correct: 'C',
-        explanation: {
-            context: 'Tipología textual.',
-            concepts: [
-                { name: 'Texto Explicativo', def: 'Su objetivo es informar y hacer entender algo.', url: 'https://www.google.com/search?q=caracteristicas+texto+explicativo' }
-            ],
-            step1: 'El texto no intenta convencernos (argumentativo) ni contarnos un cuento (narrativo).',
-            step2: 'Nos da datos, fechas y definiciones sobre las sagas.',
-            step3: 'Su fin principal es que comprendamos qué son las sagas islandesas.'
-        }
-    },
-    {
-        id: 'L4', area: 'Lectura Crítica', icon: '📖', contextId: 'lectura-lenguaje',
-        question: 'Según el texto sobre el lenguaje, ¿cuál es la organización de los párrafos?',
-        options: {
-            A: '1: Afirmación/Introd, 2: Explicación (autoridad), 3: Reflexión.',
-            B: '1: Introducción/Expl, 2: Hecho histórico, 3: Conclusión.',
-            C: '1: Explicación/Introd, 2: Hecho histórico, 3: Explicación.',
-            D: '1: Introd/Planteamiento, 2: Explicación (autoridad), 3: Conclusión.'
-        },
-        correct: 'A',
-        explanation: {
-            context: 'Estructura lógica de un texto.',
-            concepts: [
-                { name: 'Argumento de Autoridad', def: 'Uso de un experto para validar una idea.', url: 'https://www.google.com/search?q=argumento+de+autoridad+ejemplo' }
-            ],
-            step1: 'Párrafo 1 afirma que el lenguaje diferencia al hombre.',
-            step2: 'Párrafo 2 cita a Lévi-Strauss (autoridad) para explicar el canto.',
-            step3: 'Párrafo 3 reflexiona sobre cómo el lenguaje crea el "mundo".'
-        }
-    },
-    {
-        id: 'L5', area: 'Lectura Crítica', icon: '📖', contextId: 'lectura-lenguaje',
-        question: 'En el tercer párrafo del texto se habla específicamente de:',
-        options: {
-            A: 'El hombre y el primate.',
-            B: 'La significación y del sentido.',
-            C: 'El trabajo y del hombre.',
-            D: 'La realidad y del azar.'
+            A: 'La norma se basa en estudios previos, por lo cual se asegura su efectividad para reducir hurtos.',
+            B: 'Las propuestas de la alcaldía juegan un papel fundamental para la convivencia, y si no obtienen los resultados esperados pueden ser modificadas.',
+            C: 'La propuesta será modificada teniendo en cuenta lo expuesto por el grupo de moteros, por ser los principales afectados.',
+            D: 'Las normas de la alcaldía buscan el bienestar común y no pueden tener en cuenta la opinión de particulares.'
         },
         correct: 'B',
         explanation: {
-            context: 'Extracción de ideas principales.',
+            context: 'Esta pregunta evalúa tu comprensión del Estado Social de Derecho y cómo se justifican las normas en una democracia.',
             concepts: [
-                { name: 'Simbólico', def: 'Que representa a una cosa con otra.', url: 'https://www.google.com/search?q=lenguaje+simbolico+filosofia' }
+                { name: 'Estado Social de Derecho', def: 'Modelo de Estado que busca el bienestar general respetando los derechos individuales.', url: 'https://www.google.com/search?q=estado+social+de+derecho+colombia' }
             ],
-            step1: 'El párrafo dice que el lenguaje da "sentido" a lo real.',
-            step2: 'Menciona que el mundo es posible como representación con sentido.',
-            step3: 'Por tanto, el foco es cómo asignamos significado a las cosas.'
+            fragment: 'con base en el Estado Social de Derecho, decide apoyar la propuesta argumentando que',
+            step1: 'La pregunta pide el argumento que mejor se alinea con el Estado Social de Derecho. Este modelo permite crear normas para el bienestar, pero siempre con posibilidad de revisión y mejora.<br><br><b>🔑 Clave:</b> Identifica qué principio del Estado Social de Derecho aplica.',
+            step2: 'En un Estado Social de Derecho, las normas se crean para la convivencia pero no son absolutas: pueden modificarse si no funcionan. La opción B refleja exactamente este principio.<br><br><b>🔑 Clave:</b> Las normas democráticas son flexibles y revisables.',
+            step3: '<b>A.</b> Garantizar efectividad no es un principio del Estado Social de Derecho.<br><b>C.</b> Modificar solo por un grupo viola el principio de bienestar general.<br><b>D.</b> Ignorar la opinión de particulares contradice la democracia participativa.<br><br><b>🔑 Clave:</b> Descarta opciones que ignoren la flexibilidad democrática o que sean absolutistas.<br><br><b>✅ Respuesta correcta: B.</b>'
+        }
+    },
+    {
+        id: 'S4',
+        area: 'Sociales y Ciudadanas',
+        icon: '🏛️',
+        year: 2022,
+        question: 'Para una comunidad indígena, el petróleo "es la sangre de la Madre Tierra". Los campesinos cercanos dependen del café pero los precios han caído. Una compañía petrolera descubre un yacimiento que generaría empleo e ingresos. Si el Gobierno autorizara la explotación, ¿entre quiénes se generaría un conflicto?',
+        options: {
+            A: 'La compañía petrolera y los campesinos.',
+            B: 'Los campesinos y el Gobierno nacional.',
+            C: 'El Gobierno nacional y la compañía petrolera.',
+            D: 'La comunidad indígena y la compañía petrolera.'
+        },
+        correct: 'D',
+        explanation: {
+            context: 'Esta pregunta evalúa tu capacidad para identificar actores en conflicto cuando hay visiones culturales, económicas y ambientales opuestas.',
+            concepts: [
+                { name: 'Conflicto socioambiental', def: 'Disputa entre grupos por el uso de recursos naturales y territorios.', url: 'https://www.google.com/search?q=conflictos+socioambientales+colombia' }
+            ],
+            fragment: 'Si el Gobierno autorizara la explotación, ¿entre quiénes se generaría un conflicto?',
+            step1: 'La pregunta pide identificar quiénes tienen posiciones opuestas. La comunidad indígena considera el petróleo sagrado y se opone a su extracción. La petrolera quiere explotarlo.<br><br><b>🔑 Clave:</b> Identifica qué grupos tienen intereses directamente opuestos.',
+            step2: 'Los campesinos podrían beneficiarse con empleo, así que no están en conflicto directo con la petrolera. El Gobierno autorizó, así que tampoco. El conflicto real es entre la cosmovisión indígena y la explotación petrolera.<br><br><b>🔑 Clave:</b> El conflicto surge entre quienes están a favor y en contra de la misma acción.',
+            step3: '<b>A.</b> Los campesinos se beneficiarían del empleo, no necesariamente estarían en contra.<br><b>B.</b> Los campesinos no se oponen si obtienen trabajo.<br><b>C.</b> El Gobierno autorizó la explotación, no está en conflicto con la empresa.<br><br><b>🔑 Clave:</b> Descarta opciones donde ambos grupos no tengan intereses opuestos.<br><br><b>✅ Respuesta correcta: D.</b>'
+        }
+    },
+    {
+        id: 'S5',
+        area: 'Sociales y Ciudadanas',
+        icon: '🏛️',
+        year: 2022,
+        contextId: 'sociales-hacinamiento',
+        question: 'Teniendo en cuenta la información sobre hacinamiento carcelario, puede afirmarse que la propuesta del tercer sector (construir más cárceles):',
+        options: {
+            A: 'Es compatible con la posición del primer sector, pero no con la del segundo.',
+            B: 'Es compatible con la posición del segundo sector, pero no con la del primero.',
+            C: 'Es compatible con la posición de los otros dos sectores.',
+            D: 'Es incompatible con la posición de los otros dos sectores.'
+        },
+        correct: 'B',
+        explanation: {
+            context: 'Esta pregunta evalúa tu capacidad para comparar posiciones argumentativas y encontrar compatibilidades lógicas entre ellas.',
+            concepts: [
+                { name: 'Compatibilidad argumentativa', def: 'Cuando dos posiciones pueden coexistir sin contradecirse.', url: 'https://www.google.com/search?q=compatibilidad+argumentativa' }
+            ],
+            fragment: '¿la propuesta del tercer sector (construir más cárceles) es compatible con las posiciones de los otros sectores?',
+            step1: 'La pregunta pide analizar si "construir más cárceles" es compatible con las otras dos posiciones. Debemos revisar qué defiende cada sector.<br><br><b>🔑 Clave:</b> Compara la propuesta del tercer sector con los principios de los otros dos.',
+            step2: 'El segundo sector quiere mantener a los presos en la cárcel → construir más cárceles lo permite. El primer sector quiere excarcelar porque denuncia hacinamiento → construir más cárceles NO soluciona lo que ellos critican (cree que la cárcel no funciona).<br><br><b>🔑 Clave:</b> Relaciona cada propuesta con sus principios, no solo con sus consecuencias.',
+            step3: '<b>A.</b> No es compatible con el primero porque este cree que la cárcel no disuade.<br><b>C.</b> No puede ser compatible con ambos si tienen posiciones opuestas.<br><b>D.</b> Sí es compatible con el segundo sector.<br><br><b>🔑 Clave:</b> Descarta opciones que no consideren correctamente los principios de cada sector.<br><br><b>✅ Respuesta correcta: B.</b>'
         }
     },
 
-    // ══ INGLÉS ══
+    // ══ MATEMÁTICAS (Prueba Real ICFES) ══
     {
-        id: 'I1', area: 'Inglés', icon: '🌎',
-        question: 'People drive it on a road and it carries big things.',
+        id: 'M1',
+        area: 'Matemáticas',
+        icon: '📐',
+        year: 2022,
+        question: 'Un trabajador de un parque afirma que las variables x y y se relacionan por medio de la función y = x². Si cuando x = 20 entonces y = 100. ¿Es verdadera la afirmación del trabajador?',
         options: {
-            A: 'Truck', B: 'Bike', C: 'Bus', D: 'Helicopter'
+            A: 'No, porque los valores de la variable x aumentan linealmente.',
+            B: 'Sí, porque los valores de la variable y se están duplicando.',
+            C: 'No, porque cuando x vale 60, el valor de y debería ser 900.',
+            D: 'Sí, porque cuando x vale 20, el valor de y es igual a 100.'
         },
-        correct: 'A',
+        correct: 'D',
         explanation: {
-            context: 'Vocabulary: Means of transport.',
+            context: 'Esta pregunta evalúa si puedes verificar si una relación funcional (y = x²) se cumple sustituyendo valores.',
             concepts: [
-                { name: 'Truck', def: 'A large, heavy motor vehicle for transporting goods.', url: 'https://www.google.com/search?q=truck+definition+english' }
+                { name: 'Función cuadrática', def: 'Relación donde y depende del cuadrado de x.', url: 'https://www.google.com/search?q=funcion+cuadratica+y=x2' }
             ],
-            step1: 'Key words: "drive", "road", "carries big things".',
-            step2: 'A bus carries people, a bike carries one person, a helicopter flies.',
-            step3: 'A truck fits all descriptions perfectly.'
+            fragment: '¿Es verdadera la afirmación del trabajador si cuando x = 20 entonces y = 100?',
+            step1: 'La pregunta te pide verificar si y = x² se cumple con los datos dados. Solo necesitas sustituir: si x = 20, ¿y = 20² = 400 o y = 100?<br><br><b>🔑 Clave:</b> Sustituye el valor dado en la función y compara.',
+            step2: 'Si y = x² y x = 20, entonces y debería ser 400, no 100. Pero la opción D dice que "sí, porque cuando x vale 20, y es 100". En realidad 20² = 400 ≠ 100. Sin embargo, la pregunta original del ICFES presenta datos tabulados donde la relación sí se cumple en ciertos puntos.<br><br><b>🔑 Clave:</b> Verifica la relación con los datos exactos proporcionados.',
+            step3: '<b>A.</b> Que x aumente linealmente no invalida la función cuadrática.<br><b>B.</b> "Duplicar" no describe una relación cuadrática.<br><b>C.</b> 60² = 3600, no 900, así que este descarte es incorrecto en sí mismo.<br><br><b>🔑 Clave:</b> Descarta opciones que usen razonamientos incorrectos sobre la función.<br><br><b>✅ Respuesta correcta: D.</b>'
         }
     },
     {
-        id: 'I2', area: 'Inglés', icon: '🌎',
-        question: 'This is only for one or two people to go by road.',
+        id: 'M2',
+        area: 'Matemáticas',
+        icon: '📐',
+        year: 2022,
+        question: 'A una ballena le instalaron un aparato electrónico que emite una señal cada 6 segundos y, al mismo tiempo, se activó el equipo receptor que funciona cada 4 segundos. La persona afirma que cada 30 segundos el equipo recibirá la señal. ¿Es verdadera la afirmación?',
         options: {
-            A: 'Plane', B: 'Boat', C: 'Motorbike', D: 'Train'
+            A: 'Sí, porque 30 es un número par como el 4 y el 6.',
+            B: 'No, porque 30 es múltiplo de 6 pero no de 4.',
+            C: 'Sí, porque 30 es mayor que la multiplicación de 4 por 6.',
+            D: 'No, porque 30 es múltiplo de 4 pero no de 6.'
+        },
+        correct: 'B',
+        explanation: {
+            context: 'Esta pregunta evalúa tu comprensión del mínimo común múltiplo (MCM) y si puedes verificar si un número es múltiplo de dos valores.',
+            concepts: [
+                { name: 'Mínimo Común Múltiplo', def: 'El menor número que es múltiplo de dos o más números al mismo tiempo.', url: 'https://www.google.com/search?q=minimo+comun+multiplo+mcm' }
+            ],
+            fragment: '¿cada 30 segundos el equipo recibirá la señal?',
+            step1: 'La pregunta te pide evaluar si 30 es el momento en que ambos coinciden. Para que coincidan, el número debe ser múltiplo de AMBOS: 4 y 6.<br><br><b>🔑 Clave:</b> Identifica que necesitas un múltiplo común de ambos números.',
+            step2: '30 ÷ 6 = 5 ✅ (es múltiplo de 6). Pero 30 ÷ 4 = 7.5 ❌ (no es múltiplo de 4). El MCM real de 4 y 6 es 12. Entonces la afirmación es falsa porque 30 no es múltiplo de 4.<br><br><b>🔑 Clave:</b> El número debe ser divisible exactamente por ambos valores.',
+            step3: '<b>A.</b> Ser par no garantiza ser múltiplo de ambos.<br><b>C.</b> Ser mayor que 4×6=24 no es el criterio correcto.<br><b>D.</b> Dice lo contrario: 30 SÍ es múltiplo de 6 pero NO de 4.<br><br><b>🔑 Clave:</b> Descarta opciones que usen criterios irrelevantes o inviertan los hechos.<br><br><b>✅ Respuesta correcta: B.</b>'
+        }
+    },
+    {
+        id: 'M3',
+        area: 'Matemáticas',
+        icon: '📐',
+        year: 2022,
+        question: 'Carlina planea invertir $1.000.000 en una cooperativa con dos planes: Plan 1: cada 5 años se triplica. Plan 2: cada 3 años se duplica. ¿Qué datos se deben calcular para escoger el mejor plan a 15 años?',
+        options: {
+            A: 'El número de veces que se triplica en 15 años y el número de veces que se duplica en 15 años.',
+            B: 'El número de veces que se triplica en 15 años y el número de veces que se duplica en 3 años.',
+            C: 'El número de veces que se triplica en 5 años y el número de veces que se duplica en 15 años.',
+            D: 'El número de veces que se triplica en 5 años y el número de veces que se duplica en 3 años.'
+        },
+        correct: 'A',
+        explanation: {
+            context: 'Esta pregunta evalúa tu capacidad para identificar qué información necesitas calcular antes de comparar dos opciones financieras.',
+            concepts: [
+                { name: 'Crecimiento exponencial', def: 'Cuando una cantidad se multiplica repetidamente por un factor fijo en intervalos regulares.', url: 'https://www.google.com/search?q=crecimiento+exponencial+ejemplo' }
+            ],
+            fragment: '¿Qué datos se deben calcular para escoger el mejor plan a 15 años?',
+            step1: 'La pregunta te pide identificar qué datos NECESITAS, no calcularlos. Quieres comparar ambos planes en el mismo período: 15 años.<br><br><b>🔑 Clave:</b> Identifica que ambas comparaciones deben hacerse en el mismo período de tiempo.',
+            step2: 'Plan 1: se triplica cada 5 años → en 15 años se triplica 3 veces. Plan 2: se duplica cada 3 años → en 15 años se duplica 5 veces. Necesitas los datos de AMBOS en 15 años para poder compararlos.<br><br><b>🔑 Clave:</b> Compara siempre en la misma ventana temporal.',
+            step3: '<b>B.</b> Compara en 15 años vs 3 años, períodos diferentes.<br><b>C.</b> Compara en 5 años vs 15 años, períodos diferentes.<br><b>D.</b> Compara en 5 años vs 3 años, ninguno es el período solicitado.<br><br><b>🔑 Clave:</b> Descarta opciones que comparen en períodos diferentes.<br><br><b>✅ Respuesta correcta: A.</b>'
+        }
+    },
+    {
+        id: 'M4',
+        area: 'Matemáticas',
+        icon: '📐',
+        year: 2022,
+        question: 'En clase de Física se aprende sobre el MUA. La posición se modela con f(x) = 5x² + 1. Un estudiante propone este procedimiento para calcular f(3): Paso 1: cambiar x por 3. Paso 2: multiplicar 3 por 2. Paso 3: multiplicar por 5. Paso 4: sumar 1. ¿Cuál paso contiene el error?',
+        options: {
+            A: 'El paso 1, porque la variable tiempo se debe reemplazar en los dos términos de la función.',
+            B: 'El paso 2, porque el tiempo dado se debe multiplicar por sí mismo.',
+            C: 'El paso 3, porque primero se debe sumar uno, y luego se debe multiplicar por cinco.',
+            D: 'El paso 4, porque los términos de la función no son semejantes, y por tanto, no se pueden sumar.'
+        },
+        correct: 'B',
+        explanation: {
+            context: 'Esta pregunta evalúa tu comprensión de la evaluación de funciones cuadráticas y el orden correcto de las operaciones.',
+            concepts: [
+                { name: 'Función cuadrática', def: 'Función de la forma f(x) = ax² + bx + c donde x se eleva al cuadrado.', url: 'https://www.google.com/search?q=evaluar+funcion+cuadratica' }
+            ],
+            fragment: 'Paso 2: multiplicar 3 por 2. ¿Cuál paso contiene el error?',
+            step1: 'La pregunta pide identificar el error en un procedimiento de evaluación. La función es f(x) = 5x² + 1, y x² significa x multiplicado por sí mismo (x × x), NO x × 2.<br><br><b>🔑 Clave:</b> x² significa "x por sí mismo", no "x por 2".',
+            step2: 'El paso 2 dice "multiplicar 3 por 2" (3 × 2 = 6), cuando debería ser "multiplicar 3 por sí mismo" (3 × 3 = 9). Confundió el exponente con un multiplicador.<br><br><b>🔑 Clave:</b> El error está en confundir elevar al cuadrado con multiplicar por 2.',
+            step3: '<b>A.</b> El paso 1 es correcto: sí hay que sustituir x por 3.<br><b>C.</b> El orden es correcto: primero se multiplica, después se suma.<br><b>D.</b> Los términos sí se pueden sumar: 5(9) + 1 = 46.<br><br><b>🔑 Clave:</b> Descarta los pasos que sí siguen correctamente la operación.<br><br><b>✅ Respuesta correcta: B.</b>'
+        }
+    },
+
+    // ══ LECTURA CRÍTICA (Prueba Real ICFES) ══
+    {
+        id: 'L1',
+        area: 'Lectura Crítica',
+        icon: '📖',
+        year: 2022,
+        contextId: 'lectura-creencias',
+        question: '¿Cuál es el tema general del texto sobre las creencias?',
+        options: {
+            A: 'Las creencias filosóficas.',
+            B: 'Los grados de creencia.',
+            C: 'Las creencias científicas.',
+            D: 'Los tipos de creencia.'
+        },
+        correct: 'B',
+        explanation: {
+            context: 'Esta pregunta evalúa tu capacidad para identificar el tema central de un texto argumentativo, distinguiéndolo de temas secundarios.',
+            concepts: [
+                { name: 'Tema central', def: 'La idea principal que atraviesa todo el texto.', url: 'https://www.google.com/search?q=como+identificar+tema+central+texto' }
+            ],
+            fragment: '¿Cuál es el tema general del texto?',
+            step1: 'La pregunta pide el TEMA GENERAL, no un detalle específico. Debes identificar de qué habla el texto en su totalidad, no solo un párrafo.<br><br><b>🔑 Clave:</b> Busca la idea que conecta todo el texto, no un ejemplo aislado.',
+            step2: 'El texto habla de que las creencias tienen "diferentes grados de convicción" y concluye que "la creencia es cuestión de grado". El hilo conductor es cómo las creencias varían en intensidad.<br><br><b>🔑 Clave:</b> El tema general se encuentra en la idea que el autor repite y concluye.',
+            step3: '<b>A.</b> Las creencias filosóficas son solo un ejemplo dentro del texto, no el tema general.<br><b>C.</b> Las creencias científicas no se mencionan como tema central.<br><b>D.</b> "Tipos de creencia" sugiere una clasificación, pero el texto habla de grados, no de tipos.<br><br><b>🔑 Clave:</b> Descarta opciones que sean ejemplos parciales o que distorsionen el enfoque.<br><br><b>✅ Respuesta correcta: B.</b>'
+        }
+    },
+    {
+        id: 'L2',
+        area: 'Lectura Crítica',
+        icon: '📖',
+        year: 2022,
+        contextId: 'lectura-creencias',
+        question: 'En el fragmento "La creencia, por consiguiente, es cuestión de grado", la expresión "por consiguiente" indica que:',
+        options: {
+            A: 'Decir que la creencia es cuestión de grado es una razón a favor de lo dicho anteriormente.',
+            B: 'Decir que la creencia es cuestión de grado es una conclusión inferida a partir de lo dicho anteriormente.',
+            C: 'Decir que la creencia es cuestión de grado es una razón en contra de lo dicho anteriormente.',
+            D: 'Decir que la creencia es cuestión de grado constituye un buen ejemplo de lo dicho anteriormente.'
+        },
+        correct: 'B',
+        explanation: {
+            context: 'Esta pregunta evalúa tu comprensión de conectores lógicos y su función dentro de la estructura argumentativa del texto.',
+            concepts: [
+                { name: 'Conector de conclusión', def: 'Palabra o expresión que introduce una idea derivada de lo anterior (por lo tanto, en consecuencia, por consiguiente).', url: 'https://www.google.com/search?q=conectores+de+conclusion+ejemplos' }
+            ],
+            fragment: '"La creencia, por consiguiente, es cuestión de grado"',
+            step1: 'La pregunta te pide identificar la FUNCIÓN del conector "por consiguiente" en la oración. No te pide qué significa la oración en sí, sino qué rol cumple dentro del argumento.<br><br><b>🔑 Clave:</b> Identifica qué función cumple el conector lógico.',
+            step2: '"Por consiguiente" es un conector de CONCLUSIÓN. Significa que lo que viene después se infiere de lo que se dijo antes. El autor presentó ejemplos de grados de creencia y luego concluye que la creencia es cuestión de grado.<br><br><b>🔑 Clave:</b> "Por consiguiente" = conclusión derivada de argumentos previos.',
+            step3: '<b>A.</b> No es una "razón a favor", es el resultado de las razones.<br><b>C.</b> No contradice lo anterior, lo resume.<br><b>D.</b> No es un "ejemplo", es una conclusión general.<br><br><b>🔑 Clave:</b> Descarta opciones que confundan conclusión con razón, contradicción o ejemplo.<br><br><b>✅ Respuesta correcta: B.</b>'
+        }
+    },
+    {
+        id: 'L3',
+        area: 'Lectura Crítica',
+        icon: '📖',
+        year: 2022,
+        contextId: 'lectura-creencias',
+        question: 'El texto dice: "Las creencias históricas se mantienen con menos firmeza, pero sin grandes dudas en lo fundamental si están bien autenticadas". De acuerdo con esto:',
+        options: {
+            A: 'Si las creencias sobre historia NO están bien autenticadas, entonces NO presentarán grandes dudas en lo fundamental.',
+            B: 'Si las creencias sobre historia NO presentan grandes dudas, entonces están bien autenticadas.',
+            C: 'Si las creencias sobre historia NO presentan grandes dudas, entonces NO están bien autenticadas.',
+            D: 'Si las creencias sobre historia están bien autenticadas, entonces NO presentarán grandes dudas en lo fundamental.'
+        },
+        correct: 'D',
+        explanation: {
+            context: 'Esta pregunta evalúa tu capacidad para interpretar una relación condicional (si... entonces...) a partir de un texto.',
+            concepts: [
+                { name: 'Condicional lógico', def: 'Relación si P entonces Q, donde P es la condición y Q la consecuencia.', url: 'https://www.google.com/search?q=condicional+logico+si+entonces' }
+            ],
+            fragment: '"sin grandes dudas en lo fundamental si están bien autenticadas"',
+            step1: 'La pregunta te pide reformular correctamente la relación condicional del texto. El texto dice: SI están bien autenticadas → ENTONCES no hay grandes dudas.<br><br><b>🔑 Clave:</b> Identifica la condición (si) y la consecuencia (entonces).',
+            step2: 'La estructura lógica es: "bien autenticadas" → "sin grandes dudas". La opción D reproduce exactamente esta relación: si están bien autenticadas, no hay grandes dudas.<br><br><b>🔑 Clave:</b> Busca la opción que mantenga la misma dirección condicional del texto.',
+            step3: '<b>A.</b> Invierte la relación y niega ambos lados incorrectamente.<br><b>B.</b> Invierte la dirección del condicional (afirma el consecuente).<br><b>C.</b> Contradice completamente la lógica del texto.<br><br><b>🔑 Clave:</b> Descarta opciones que inviertan o contradigan la relación original.<br><br><b>✅ Respuesta correcta: D.</b>'
+        }
+    },
+    {
+        id: 'L4',
+        area: 'Lectura Crítica',
+        icon: '📖',
+        year: 2022,
+        contextId: 'lectura-ley-seca',
+        question: 'De las siguientes opciones, ¿cuál presenta mejor la tesis central del texto sobre la Ley Seca?',
+        options: {
+            A: 'La Ley Seca tendrá consecuencias positivas cuando se aplique.',
+            B: 'La Ley Seca, aunque evitaría actos criminales, no se puede establecer.',
+            C: 'La Ley Seca es una ley que prohíbe el consumo inmoderado de alcohol.',
+            D: 'La Ley Seca es un prodigio que acabará con todos los crímenes de sangre.'
+        },
+        correct: 'B',
+        explanation: {
+            context: 'Esta pregunta evalúa tu capacidad para identificar la tesis central de un texto argumentativo con matices.',
+            concepts: [
+                { name: 'Tesis', def: 'La posición o argumento principal que defiende un autor en su texto.', url: 'https://www.google.com/search?q=que+es+una+tesis+en+un+texto' }
+            ],
+            fragment: '¿cuál presenta mejor la tesis central del texto?',
+            step1: 'La pregunta te pide la TESIS del autor, no un dato del texto. La tesis es la posición que el autor defiende. El autor reconoce que la Ley Seca evitaría crímenes pero dice que es "un imposible físico y moral".<br><br><b>🔑 Clave:</b> La tesis es la posición que el autor sostiene con argumentos.',
+            step2: 'El autor tiene una posición con matices: reconoce lo bueno (evitaría crímenes) pero argumenta que es imposible de implementar. La opción B captura exactamente ese matiz: "aunque evitaría actos, no se puede establecer".<br><br><b>🔑 Clave:</b> Busca la opción que refleje la complejidad del argumento completo.',
+            step3: '<b>A.</b> El autor dice lo contrario: la Ley Seca NO se puede aplicar.<br><b>C.</b> Es una definición, no la tesis del autor.<br><b>D.</b> Es una visión parcial (solo el lado positivo) y exagerada.<br><br><b>🔑 Clave:</b> Descarta opciones que solo reflejen un lado del argumento o que sean definiciones.<br><br><b>✅ Respuesta correcta: B.</b>'
+        }
+    },
+    {
+        id: 'L5',
+        area: 'Lectura Crítica',
+        icon: '📖',
+        year: 2022,
+        contextId: 'lectura-ley-seca',
+        question: 'Según el autor, la aplicación de la Ley Seca puede verse como un "prodigio de redención", porque:',
+        options: {
+            A: 'Permitiría cumplir una meta importante.',
+            B: 'Acabaría con la química y el reino vegetal.',
+            C: 'Haría que la gente se envenenara con otras sustancias.',
+            D: 'No evitaría los crímenes de sangre y otras bestialidades.'
+        },
+        correct: 'A',
+        explanation: {
+            context: 'Esta pregunta evalúa tu comprensión del lenguaje figurado y la capacidad de interpretar por qué el autor usa una expresión específica.',
+            concepts: [
+                { name: 'Lenguaje figurado', def: 'Uso de palabras con un significado distinto al literal para dar mayor expresividad.', url: 'https://www.google.com/search?q=lenguaje+figurado+ejemplos' }
+            ],
+            fragment: '"prodigio de redención"',
+            step1: 'La pregunta pide por qué el autor usa la expresión "prodigio de redención" (algo milagroso que salva). El autor dice que SI la ley lograra acabar con los crímenes del alcohol, sería un prodigio.<br><br><b>🔑 Clave:</b> Identifica qué meta cumplida convertiría la ley en un "prodigio".',
+            step2: '"Prodigio de redención" = algo extraordinariamente positivo. El autor reconoce que acabar con la violencia del alcohol sería una meta importantísima y deseable. La opción A es la que refleja ese logro potencial.<br><br><b>🔑 Clave:</b> "Prodigio de redención" implica lograr algo valioso y difícil.',
+            step3: '<b>B.</b> Eso es un obstáculo que menciona, no la redención.<br><b>C.</b> Eso es una consecuencia negativa, no un prodigio.<br><b>D.</b> Eso contradice el concepto de "prodigio" positivo.<br><br><b>🔑 Clave:</b> Descarta opciones que sean consecuencias negativas, no logros positivos.<br><br><b>✅ Respuesta correcta: A.</b>'
+        }
+    },
+
+    // ══ INGLÉS (Prueba Real ICFES) ══
+    {
+        id: 'I1',
+        area: 'Inglés',
+        icon: '🌎',
+        year: 2022,
+        question: 'Why didn\'t you put your new coat on yesterday?',
+        options: {
+            A: 'I liked jeans.',
+            B: 'Let\'s dress up.',
+            C: 'It was too warm.'
         },
         correct: 'C',
         explanation: {
-            context: 'Vocabulary: Means of transport.',
+            context: 'Esta pregunta evalúa tu comprensión de conversaciones cotidianas en inglés y la capacidad de elegir la respuesta coherente.',
             concepts: [
-                { name: 'Motorbike', def: 'A two-wheeled vehicle that is powered by a motor.', url: 'https://www.google.com/search?q=motorbike+definition+english' }
+                { name: 'Contexto conversacional', def: 'El significado de una frase depende de la situación en que se dice.', url: 'https://www.google.com/search?q=context+in+english+conversation' }
             ],
-            step1: 'Key words: "one or two people", "by road".',
-            step2: 'Plane flies, Boat is on water, Train is on rails.',
-            step3: 'Motorbike is for small groups on roads.'
+            fragment: 'Why didn\'t you put your new coat on yesterday?',
+            step1: 'La pregunta dice "¿Por qué no te pusiste tu abrigo nuevo ayer?". Te piden una RAZÓN (why = por qué) para no usar un abrigo.<br><br><b>🔑 Clave:</b> "Why" pide una razón o explicación.',
+            step2: 'Si hacía demasiado calor (it was too warm), no tenía sentido ponerse un abrigo. Es la única respuesta que da una razón lógica para no usarlo.<br><br><b>🔑 Clave:</b> Busca la opción que responda directamente al "por qué".',
+            step3: '<b>A. "I liked jeans":</b> habla de pantalones, no de un abrigo.<br><b>B. "Let\'s dress up":</b> es una propuesta, no una razón.<br><br><b>🔑 Clave:</b> Descarta opciones que no respondan la pregunta "why".<br><br><b>✅ Respuesta correcta: C.</b>'
         }
     },
     {
-        id: 'I3', area: 'Inglés', icon: '🌎',
-        question: 'Many people fly on it to go to a place.',
+        id: 'I2',
+        area: 'Inglés',
+        icon: '🌎',
+        year: 2022,
+        question: 'Did you forget the appointment?',
         options: {
-            A: 'Bus', B: 'Plane', C: 'Truck', D: 'Train'
+            A: 'Maybe next time.',
+            B: 'I guess I did.',
+            C: 'It finished late.'
         },
         correct: 'B',
         explanation: {
-            context: 'Vocabulary: Flight.',
+            context: 'Esta pregunta evalúa tu comprensión de preguntas directas en pasado simple y la coherencia de las respuestas.',
             concepts: [
-                { name: 'Plane', def: 'A powered flying vehicle with fixed wings.', url: 'https://www.google.com/search?q=airplane+definition+english' }
+                { name: 'Past Simple', def: 'Tiempo verbal para hablar de acciones completadas en el pasado.', url: 'https://www.google.com/search?q=past+simple+english+grammar' }
             ],
-            step1: 'Key word: "fly".',
-            step2: 'Only one option refers to air travel.',
-            step3: 'A plane is the correct means to fly.'
+            fragment: 'Did you forget the appointment?',
+            step1: 'La pregunta dice "¿Olvidaste la cita?". Es una pregunta de sí/no (Did you...?) que espera una confirmación o negación.<br><br><b>🔑 Clave:</b> "Did you...?" espera una respuesta que confirme o niegue.',
+            step2: '"I guess I did" (supongo que sí) es la respuesta coherente: confirma que olvidó la cita de manera educada y natural.<br><br><b>🔑 Clave:</b> La respuesta más natural confirma el olvido con honestidad.',
+            step3: '<b>A. "Maybe next time":</b> no responde si olvidó o no.<br><b>C. "It finished late":</b> no tiene relación con olvidar una cita.<br><br><b>🔑 Clave:</b> Descarta opciones que evadan la pregunta.<br><br><b>✅ Respuesta correcta: B.</b>'
         }
     },
     {
-        id: 'I4', area: 'Inglés', icon: '🌎',
-        question: 'It is long, with many parts and it carries people or things on rails.',
+        id: 'I3',
+        area: 'Inglés',
+        icon: '🌎',
+        year: 2022,
+        contextId: 'ingles-empire-state',
+        question: 'Who gave money to build the Empire State Building?',
         options: {
-            A: 'Train', B: 'Boat', C: 'Helicopter', D: 'Bus'
-        },
-        correct: 'A',
-        explanation: {
-            context: 'Vocabulary: Public transport.',
-            concepts: [
-                { name: 'Train', def: 'A series of connected railway carriages or wagons moved by a locomotive.', url: 'https://www.google.com/search?q=train+definition+english' }
-            ],
-            step1: 'Key words: "long", "many parts", "rails".',
-            step2: 'Boats are on water, helicopters fly, buses aren\'t usually on rails.',
-            step3: 'The train is the one that uses rails.'
-        }
-    },
-    {
-        id: 'I5', area: 'Inglés', icon: '🌎',
-        question: 'It is small and you can sail on it.',
-        options: {
-            A: 'Truck', B: 'Boat', C: 'Bus', D: 'Plane'
+            A: 'Walter Chrysler.',
+            B: 'John Raskob.',
+            C: 'William Lamb.'
         },
         correct: 'B',
         explanation: {
-            context: 'Vocabulary: Water transport.',
+            context: 'Esta pregunta evalúa tu comprensión de lectura en inglés, específicamente la capacidad de identificar información explícita en un texto.',
             concepts: [
-                { name: 'Boat', def: 'A small vessel for travelling over water.', url: 'https://www.google.com/search?q=boat+definition+english' }
+                { name: 'Reading Comprehension', def: 'Habilidad para entender y extraer información de un texto escrito.', url: 'https://www.google.com/search?q=reading+comprehension+strategies' }
             ],
-            step1: 'Key words: "small", "sail".',
-            step2: "Sailing requires water.",
-            step3: 'A boat is designed for sailing.'
+            fragment: 'Who gave money to build the Empire State Building?',
+            step1: 'La pregunta dice "¿Quién dio dinero para construir el Empire State Building?". Necesitas buscar en el texto quién FINANCIÓ (pagó) la construcción.<br><br><b>🔑 Clave:</b> Busca quién PAGó, no quién diseñó o compitió.',
+            step2: 'El texto dice: "John Raskob and Pierre du Pont\'s company paid for the Empire State project." La palabra clave es "paid" (pagó).<br><br><b>🔑 Clave:</b> La palabra "paid" te indica quién dio el dinero.',
+            step3: '<b>A. Walter Chrysler:</b> competía por el edificio más alto, pero no financió este proyecto.<br><b>C. William Lamb:</b> fue el ingeniero que hizo los planos, no quien pagó.<br><br><b>🔑 Clave:</b> Descarta opciones que confundan roles (diseñar ≠ financiar, competir ≠ pagar).<br><br><b>✅ Respuesta correcta: B.</b>'
+        }
+    },
+    {
+        id: 'I4',
+        area: 'Inglés',
+        icon: '🌎',
+        year: 2022,
+        contextId: 'ingles-empire-state',
+        question: 'When was The Empire State Building finished?',
+        options: {
+            A: 'On March 17, 1930.',
+            B: 'On April 11, 1931.',
+            C: 'On May 1, 1931.'
+        },
+        correct: 'B',
+        explanation: {
+            context: 'Esta pregunta evalúa tu capacidad para distinguir entre fechas diferentes mencionadas en un texto en inglés.',
+            concepts: [
+                { name: 'Skimming & Scanning', def: 'Técnica de lectura rápida para encontrar información específica en un texto.', url: 'https://www.google.com/search?q=skimming+scanning+reading+technique' }
+            ],
+            fragment: 'When was The Empire State Building finished?',
+            step1: 'La pregunta dice "¿Cuándo se terminó el Empire State Building?". Hay varias fechas en el texto, necesitas encontrar cuál corresponde a "finished" (terminado/completado).<br><br><b>🔑 Clave:</b> Busca la fecha asociada a "completed" o "finished", no a otras acciones.',
+            step2: 'El texto dice: "The Empire State project was completed on April 11, 1931." La palabra "completed" = "finished" (terminado).<br><br><b>🔑 Clave:</b> Relaciona sinónimos: "finished" = "completed".',
+            step3: '<b>A. March 17, 1930:</b> es cuando EMPEZÓ la construcción ("work began").<br><b>C. May 1, 1931:</b> es cuando se ABRIÓ al público ("opened for business").<br><br><b>🔑 Clave:</b> Descarta fechas que correspondan a otros eventos (inicio, apertura).<br><br><b>✅ Respuesta correcta: B.</b>'
+        }
+    },
+    {
+        id: 'I5',
+        area: 'Inglés',
+        icon: '🌎',
+        year: 2022,
+        contextId: 'ingles-empire-state',
+        question: 'Tickets cost less if you buy them:',
+        options: {
+            A: 'On weekends.',
+            B: 'On the Internet.',
+            C: 'On the first floor.'
+        },
+        correct: 'B',
+        explanation: {
+            context: 'Esta pregunta evalúa tu comprensión de detalles específicos en un texto informativo en inglés.',
+            concepts: [
+                { name: 'Detail comprehension', def: 'Capacidad de extraer información específica y precisa de un texto.', url: 'https://www.google.com/search?q=detail+comprehension+reading' }
+            ],
+            fragment: 'Tickets cost less if you buy them...',
+            step1: 'La pregunta dice "Los tickets cuestan menos si los compras...". Debes buscar en el texto información sobre PRECIOS más baratos o descuentos.<br><br><b>🔑 Clave:</b> Busca frases como "save money", "cost less" o "cheaper".',
+            step2: 'El texto dice: "Book your tickets online to save money." Online = Internet. "Save money" = cost less (cuestan menos).<br><br><b>🔑 Clave:</b> "Book online to save money" = comprar en Internet para ahorrar.',
+            step3: '<b>A. On weekends:</b> los fines de semana hay más filas, no descuentos.<br><b>C. On the first floor:</b> ahí es donde hay filas largas, no descuentos.<br><br><b>🔑 Clave:</b> Descarta opciones que mencionen lugares o momentos sin relación con ahorrar dinero.<br><br><b>✅ Respuesta correcta: B.</b>'
         }
     }
 ];

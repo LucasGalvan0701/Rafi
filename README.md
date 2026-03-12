@@ -1,81 +1,69 @@
-# 🚀 Entrenador ICFES - Prototipo Diagnóstico
+# 🚀 Entrenador ICFES - Sistema de Estudio Adaptativo
 
-## 📌 Contexto General (Vibe Coding Context)
-Hola, IA colega. Bienvenida al proyecto **Entrenador ICFES**.
-Este es un **prototipo inicial, puro y ligero** escrito 100% en **Vanilla JavaScript, HTML y CSS**. No usamos React, ni Vue, ni Tailwind, ni dependencias externas (NPM). 
+## 📌 Contexto General
+Este proyecto ha evolucionado de un simple simulador a un **sistema de estudio semanal adaptativo**. El objetivo es proporcionar al estudiante una guía clara ("El Camino") basada en sus debilidades reales, optimizando su tiempo de estudio.
 
-**El objetivo central del prototipo es validar el flujo de aprendizaje:**
-1. El estudiante hace un simulacro diagnóstico (20 preguntas, 4 por área).
-2. Responde cada pregunta en un entorno simulado (tarjetas iterativas con scroll propio, pero sin recargar pantallas).
-3. Obtiene **retroalimentación inmediata** (se bloquean opciones y sube un footer).
-4. El núcleo del prototipo: El botón **"Ver cómo se resuelve"** despliega un **Learning Panel** (Bottom Sheet) directamente sobre la vista actual, sin cambiar de ruta, sin perder el contexto visual de la pregunta, ofreciendo un desglose de 3 pasos y conceptos clave.
-5. Al finalizar las 20 preguntas, una pantalla de **Resultados** calcula el puntaje global y por área.
+**Tecnología:** Escrito 100% en **Vanilla JavaScript, HTML y CSS**. Sin dependencias pesadas, enfocado en rendimiento y experiencia de usuario fluida.
+**Backend:** Integración con **Supabase** para autenticación controlada y almacenamiento de resultados.
 
 ---
 
-## 📂 Arquitectura de Archivos
+## 🔄 Flujo de la Aplicación
+1. **Login Restringido:** Acceso solo para usuarios creados manualmente en la base de datos (Nombre/Contraseña).
+2. **Fase de Escaneo (Diagnóstico):** Examen de 25 preguntas (5 por área) para mapear debilidades.
+3. **Generación de Plan:** Algoritmo que detecta las 2 áreas más críticas.
+4. **Roadmap Semanal:** Presentación de un plan de **40 preguntas semanales** enfocado un 60% en la debilidad principal y 40% en la secundaria.
+5. **Home (Panel de Control):**
+    - **Puntaje Estimado:** Cálculo proyectado en escala 0-500.
+    - **Cuenta Regresiva:** Días restantes para el examen ICFES real.
+    - **Plan Activo:** Visualización clara de las tareas de la semana.
+    - **Progreso por Área:** Gráficos de barras con el nivel de preparación actual.
+
+---
+
+## 📂 Arquitectura de Archivos Actualizada
 
 ```text
 /entrenador icfes
 │
-├── index.html                   # Shell mínimo de la app. Carga los assets.
-│
-├── /pdfs
-│   └── README.txt               # Directorio futuro para almacenar PDFs de donde extraer más preguntas.
+├── index.html                   # Shell de la app.
+├── README.md                    # Esta guía.
 │
 ├── /src
 │   ├── /css
-│   │   └── style.css            # ✨ ÚNICO archivo de estilos.
+│   │   └── style.css            # ✨ Sistema de diseño, animaciones y componentes.
 │   │
 │   └── /js
-│       ├── questions.js         # 🗄️ Base de datos (Constantes: QUESTIONS y CONTEXTS).
-│       └── app.js               # 🧠 Toda la lógica de negocio y renderizado UI (DOM dinámico).
+│       ├── questions.js         # 🗄️ Banco de preguntas y contextos.
+│       └── app.js               # 🧠 Lógica de negocio (State Machine), Router y Supabase.
 ```
 
 ---
 
-## 🛠️ Reglas del Proyecto (Estricto)
+## 🛠️ Características Clave
 
-1. **Vanilla Core:** Mantener la pureza de Vanilla JS/CSS. Nada de bundlers complejos hasta que la arquitectura de prototipo pase a MVP escalable.
-2. **Anti-Flicker / DOM Updates:** Las interacciones dentro de una misma pregunta (seleccionar opción, abrir panel de aprendizaje) **NO DEBEN RE-RENDERIZAR** la pantalla entera usando `app.innerHTML`. Solo se manipulan las clases de CSS (`classList.add('visible')`) o se inyectan/reemplazan bloques (`appendChild`) relativos a `app` para asegurar que el `position: fixed` mantenga el panel de aprendizaje relativo al Viewport y **nunca al scroll**.
-3. **Escala y Mobile-First:** El `<div id="app">` está restringido a `max-width: 480px` centrado. La UI prioriza la legibilidad móvil, el scroll vertical para las tarjetas de contexto de las preguntas y los "Bottom Sheets" para ventanas modales. Está bloqueado a `maximum-scale=1.0` y `-webkit-tap-highlight-color: transparent` para evitar el zoom dinámico de iOS/Android al interactuar.
-4. **Estado Central (State Machine):** En `app.js`, todo gira alrededor del objeto `const S`, que rastrea la vista actual (`screen`), índice de pregunta (`qIndex`), opciones marcadas (`answered`, `selected`, `answers`), y el tiempo (`elapsed`).
+### 🔐 Seguridad y Acceso
+- El acceso es restringido. El administrador crea los usuarios directamente en la tabla `students` de Supabase.
+- Al iniciar sesión, se captura el perfil del estudiante para personalizar toda la experiencia.
 
----
+### 🎯 Plan Semanal Dinámico
+- El sistema no crea un plan estático. Cada semana se recalcula basándose en los últimos resultados, asegurando que el estudiante siempre esté atacando sus puntos más débiles.
+- Meta fija: **40 preguntas semanales**.
 
-## 🧩 Modulos y Componentes Actuales
+### 📊 Métricas e Inteligencia
+- **Puntaje Proyectado:** Conversión de aciertos de diagnóstico a la escala oficial ICFES (0-500).
+- **Learning Panel:** Desglose pedagógico en 3 pasos para cada pregunta fallida.
 
-### 1. `src/js/questions.js`
-Almacena el Mockup Data:
-- `CONTEXTS`: Diccionario de textos/imágenes que requieren más de 1 párrafo y pueden compartirse.
-- `QUESTIONS`: Array de 20 preguntas. Cada una tiene: `id`, `area`, `icon`, `contextId`, `question`, `options{}`, `correct`, y un objeto `explanation` que alimenta el **Learning Panel** (`context`, `concepts[]`, `step1`, `step2`, `step3`).
-
-### 2. `src/js/app.js`
-Diseñado alrededor de renderización basada en estado puro de JS a DOM:
-- `render()`: Enruta la pantalla dependiendo de `S.screen`.
-- `renderWelcome()` & `renderInstructions()`: Flujo de entrada (Onboarding).
-- `renderQuestion()`: 
-  - Crea la vista (Scrollable `#q-content`). 
-  - Mapea botones de opción.
-  - Ojo: Agrega separadamente `footer` y `overlay/panel` directo a `app` para solucionar el infame bug del `transform + position:fixed`.
-- `handleSelect(key)`: Actualiza estilos `.opt-btn`, evalúa si está correcto, e inyecta dinámicamente el feedback en el `q-footer` y lo anima hacia arriba.
-- `renderLearningPanel(q)`: Crea el overlay interactivo basado en `q.explanation`.
-- `renderResults()`: Calcula % totales, agrupa arrays basado en la métrica `.area` de cada pregunta y renderiza el dona y gráficas de barra progresivas.
-
-### 3. `src/css/style.css`
-- Modo Oscuro nativo (`--bg: #0d0d1a`, `--primary: #7c3aed`, `--secondary: #06b6d4`).
-- **Cards & Stacks:** Los textos de contexto están en `.ctx-card` separados por espacios para facilitar lectura. 
-- **Bottom Sheets Animados:** `.q-footer` y `.learning-panel` usan `transform: translateY(110%)` por default y `.visible` lo devuelve a `translateY(0)` vía cubic-bezier fluidos. 
-- **Sticky Elements:** La barra de progreso y métricas (`.q-header`, `.q-progress`) viven adheridos arriba.
+### 🛠️ Herramientas de Desarrollo (Debug Mode)
+- **Skip Diagnostic:** Atajo en la pantalla de login para saltar el diagnóstico y entrar directamente al Home con datos aleatorios (solo para pruebas de UI/UX).
 
 ---
 
-## 🚀 Próximos Pasos de Vibe Coding
+## 🚀 Próximos Pasos de Desarrollo
 
-Si tomas este proyecto para iterar en el futuro, las áreas de crecimiento recomendadas son:
+1. **Gestión de Sesión:** Implementar persistencia de login para evitar re-ingreso constante.
+2. **Historial Evolutivo:** Mostrar una gráfica de cómo el "Puntaje Estimado" sube semana a semana.
+3. **Módulo de Práctica:** Crear la interfaz para resolver las 40 preguntas del plan semanal generado.
 
-1. **Extracción y poblamiento de Banco:** Crear un script de Node que procese PDFs de `pdfs/`, detectando con Regex u OCR enunciados y opciones para volcarlos al Json de `/questions.js`.
-2. **Historial Persistente:** Conectar Firebase o LocalStorage para guardar las `S.answers` a la variable local de progreso antes de reiniciarlo si refresca.
-3. **Pausar Diagnóstico:** Integrar `clearInterval(S.timerInterval)` manejado localmente si el usuario abandona la página y resume luego.
-
-¡Disfruta el código!
+---
+¡El camino al éxito en el ICFES ya tiene mapa! 🧭✨
