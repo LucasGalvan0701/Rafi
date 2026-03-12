@@ -83,20 +83,7 @@ function fmtTime(s) {
   return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`;
 }
 
-/* ─── DEBUG: Saltar Diagnóstico ───────────────────────── */
-function skipDiagnostic() {
-  S.answers = QUESTIONS.map(q => {
-    const isCorrect = Math.random() > 0.6;
-    const options = ['A', 'B', 'C', 'D'];
-    const selected = isCorrect ? q.correct : options.find(o => o !== q.correct);
-    return { id: q.id, selected, correct: q.correct, isCorrect, area: q.area };
-  });
-  S.elapsed = 480;
-  S.finalReview = 'Diagnóstico saltado mediante modo debug.';
-  if (!S.user.name) { S.user.name = 'Usuario Debug'; S.user.whatsapp = '0000000000'; }
-  submitToSupabase();
-  navigate('home');
-}
+
 
 /* ─── NAVEGACIÓN ──────────────────────────────────────── */
 function navigate(screen, qIndex = 0, push = true) {
@@ -165,16 +152,10 @@ function renderWelcome() {
 
     <div style="margin-top:2rem; text-align:center;">
       <a id="btn-to-login" style="font-size:0.75rem; color:var(--primary); cursor:pointer; font-weight:700; text-decoration:none;">Ya soy estudiante (Ingresar)</a>
-    </div>
-    <div style="margin-top:1rem; text-align:center;">
-      <a id="btn-skip-diag" style="font-size:0.7rem; color:var(--text-muted); cursor:pointer; text-decoration:underline; opacity:0.3;">[Modo Debug] Entrar al Home</a>
     </div>`;
 
   el.querySelector('#btn-start').onclick    = () => navigate('instructions');
   el.querySelector('#btn-to-login').onclick = () => navigate('studentLogin');
-  el.querySelector('#btn-skip-diag').onclick = () => {
-    if (confirm('¿Quieres saltar directamente al panel de estudio (Home)?')) skipDiagnostic();
-  };
   app.appendChild(el);
 }
 
@@ -525,25 +506,31 @@ function buildLearningPanel(q) {
 
   let currentStep = 0;
 
-  let selectedVoice = null;
+  let internalPaused = false;
+  let selectedVoice  = null;
+
   const getVoice = () => {
     if (selectedVoice) return selectedVoice;
     const voices = window.speechSynthesis.getVoices();
-    // Prioridad absoluta: Voces "Natural" (Edge), luego "Neural", luego Google
-    const preferred = [
+    
+    const filters = [
+      // 🥇 Máxima calidad: Edge Natural Voices
       v => v.lang.startsWith('es') && v.name.includes('Natural'),
-      v => v.lang.startsWith('es') && v.name.includes('Neural'),
+      // 🥈 Chrome Premium: Google Español (Latino o US suelen ser mejores)
+      v => (v.lang === 'es-MX' || v.lang === 'es-US') && v.name.includes('Google'),
       v => v.lang.startsWith('es') && v.name.includes('Google'),
-      v => v.lang.startsWith('es') && v.name.includes('Helena'),
-      v => v.lang.startsWith('es') && v.name.includes('Sabina')
+      // 🥉 Otras Neurales
+      v => v.lang.startsWith('es') && v.name.includes('Neural'),
+      // 🏅 Voces de Sistema (último recurso)
+      v => v.lang.startsWith('es') && (v.name.includes('Helena') || v.name.includes('Sabina')),
+      v => v.lang.startsWith('es')
     ];
 
-    for (const filter of preferred) {
-      const found = voices.find(filter);
+    for (const f of filters) {
+      const found = voices.find(f);
       if (found) { selectedVoice = found; return found; }
     }
-    selectedVoice = voices.find(v => v.lang.startsWith('es')) || null;
-    return selectedVoice;
+    return voices.find(v => v.lang.startsWith('es')) || null;
   };
 
   // Pre-cargar voces
@@ -553,11 +540,14 @@ function buildLearningPanel(q) {
   const updateUI = () => {
     const ss  = window.speechSynthesis;
     const btn = panel.querySelector('#btn-audio-toggle');
-    if (btn) btn.innerHTML = ss.speaking && !ss.paused ? '⏸' : '▶';
+    const isActuallySpeaking = ss.speaking && !internalPaused;
+    
+    if (btn) btn.innerHTML = isActuallySpeaking ? '⏸' : '▶';
+    
     sections.forEach((sec, idx) => {
       const el = panel.querySelector(`#${sec.id}`);
       if (!el) return;
-      const active = idx + 1 === currentStep && ss.speaking && !ss.paused;
+      const active = idx + 1 === currentStep && isActuallySpeaking;
       el.classList.toggle('section-highlight', active);
     });
   };
@@ -569,35 +559,54 @@ function buildLearningPanel(q) {
       return;
     }
     currentStep = idx;
+    internalPaused = false;
     const u = new SpeechSynthesisUtterance(sections[idx - 1].text);
     const v = getVoice();
     if (v) u.voice = v;
-    u.lang     = 'es-MX';
-    u.rate     = 0.88; // Un "pelín" más lento para máxima claridad
+    u.lang     = v ? v.lang : 'es-MX';
+    u.rate     = 0.88; 
     u.pitch    = 1.0;
-    u.onstart  = updateUI;
+    
+    u.onstart  = () => { internalPaused = false; updateUI(); };
+    u.onerror  = (err) => { 
+      console.warn("Speech error:", err);
+      internalPaused = false;
+      updateUI();
+    };
     u.onend    = () => {
       if (currentStep === idx) {
         if (idx < sections.length) {
-          // Pausa natural de 600ms entre pasos
           setTimeout(() => playStep(idx + 1), 600);
         } else {
           currentStep = 0;
+          internalPaused = false;
           updateUI();
         }
       }
     };
+
     window.speechSynthesis.cancel();
-    window.speechSynthesis.speak(u);
+    setTimeout(() => {
+      window.speechSynthesis.speak(u);
+    }, 50);
   };
 
-  panel.querySelector('#btn-audio-toggle').onclick = () => {
+  panel.querySelector('#btn-audio-toggle').onclick = (e) => {
+    e.preventDefault();
     const ss = window.speechSynthesis;
+    
     if (ss.speaking) {
-      ss.paused ? ss.resume() : ss.pause();
+      if (internalPaused) {
+        ss.resume();
+        internalPaused = false;
+      } else {
+        ss.pause();
+        internalPaused = true;
+      }
     } else {
       playStep(1);
     }
+    
     updateUI();
   };
 
@@ -629,6 +638,8 @@ function openLearning(q) {
 function closeLearning() {
   document.getElementById('lp-overlay')?.classList.remove('visible');
   document.getElementById('lp-panel')?.classList.remove('visible');
+  // Cancelar y limpiar cualquier proceso de voz pendiente
+  window.speechSynthesis.pause(); // Algunos navegadores necesitan pausa antes de cancel
   window.speechSynthesis.cancel();
 }
 
