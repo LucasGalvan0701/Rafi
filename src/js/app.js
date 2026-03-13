@@ -1,5 +1,7 @@
 import { CONTEXTS, QUESTIONS } from './questions.js';
 import { supabase } from './supabase.js';
+import { inject } from '@vercel/analytics';
+import { injectSpeedInsights } from '@vercel/speed-insights';
 import '../css/style.css';
 
 /* ─────────────────────────────────────────────────────────
@@ -1131,6 +1133,11 @@ function div(classes) {
 function initApp() {
   app = document.getElementById('app');
   if (window.speechSynthesis) window.speechSynthesis.cancel();
+  
+  // Activar Analíticas y Métricas de Rendimiento de Vercel
+  inject();
+  injectSpeedInsights();
+
   loadState();
   if (S.screen === 'question' && S.mode === 'diagnostic') startTimer();
   history.replaceState({ screen: S.screen, qIndex: S.qIndex }, '', '');
