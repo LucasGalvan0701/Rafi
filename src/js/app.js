@@ -1,3 +1,7 @@
+import { CONTEXTS, QUESTIONS } from './questions.js';
+import { supabase } from './supabase.js';
+import '../css/style.css';
+
 /* ─────────────────────────────────────────────────────────
    ESTADO GLOBAL
 ───────────────────────────────────────────────────────── */
@@ -12,13 +16,11 @@ const S = {
   trainingQuestions: [],
   elapsed:           0,
   timerInterval:     null,
-  user:              { name: '', whatsapp: '' },
+  user:              { name: '', whatsapp: '', email: '' },
   finalReview:       '',
   errors:            [],
   trainingComplete:  false,
-  streak:            1,
-  supabaseUrl: 'https://eimdtnrehzmxkxdxtaqu.supabase.co',
-  supabaseKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVpbWR0bnJlaHpteGt4ZHh0YXF1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMyNzc4NTcsImV4cCI6MjA4ODg1Mzg1N30.KDdUoGQt8gpdPkOaOSt5_uzlQmfY_Vx8ClXUirmROQ4'
+  streak:            1
 };
 
 /* ─── PERSISTENCIA ────────────────────────────────────── */
@@ -97,7 +99,7 @@ function navigate(screen, qIndex = 0, push = true) {
 }
 
 /* ─── RENDER PRINCIPAL ────────────────────────────────── */
-const app = document.getElementById('app');
+let app;
 
 function render() {
   app.innerHTML = '';
@@ -168,8 +170,8 @@ function renderStudentLogin() {
     <p class="welcome-sub">Si ya tienes tu acceso anticipado, ingresa tus credenciales aquí.</p>
 
     <div class="lp-section" style="margin-top:2rem;">
-      <div class="lp-section-title">Usuario</div>
-      <input type="text" id="login-user" class="btn btn-secondary" style="text-align:left; cursor:text; margin-bottom:1.5rem;" placeholder="Tu nombre">
+      <div class="lp-section-title">Correo Electrónico</div>
+      <input type="email" id="login-email" class="btn btn-secondary" style="text-align:left; cursor:text; margin-bottom:1.5rem;" placeholder="ejemplo@rafi.com">
       <div class="lp-section-title">Contraseña</div>
       <input type="password" id="login-pass" class="btn btn-secondary" style="text-align:left; cursor:text; margin-bottom:2rem;" placeholder="••••••••">
     </div>
@@ -184,13 +186,13 @@ function renderStudentLogin() {
   el.querySelector('#btn-back-welcome').onclick = () => navigate('welcome');
 
   el.querySelector('#btn-login-exec').onclick = async () => {
-    const user    = el.querySelector('#login-user').value.trim();
+    const email   = el.querySelector('#login-email').value.trim();
     const pass    = el.querySelector('#login-pass').value.trim();
     const btn     = el.querySelector('#btn-login-exec');
     const errorEl = el.querySelector('#login-error-msg');
 
-    if (!user || !pass) {
-      errorEl.textContent = 'Ingresa usuario y contraseña.';
+    if (!email || !pass) {
+      errorEl.textContent = 'Ingresa correo y contraseña.';
       errorEl.style.display = 'block';
       return;
     }
@@ -199,27 +201,22 @@ function renderStudentLogin() {
     btn.disabled = true;
 
     try {
-      const response = await fetch(
-        `${S.supabaseUrl}/rest/v1/students?username=eq.${user}&password=eq.${pass}`,
-        { headers: { 'apikey': S.supabaseKey, 'Authorization': `Bearer ${S.supabaseKey}` } }
-      );
-      if (response.ok) {
-        const students = await response.json();
-        if (students?.length > 0) {
-          S.user.name     = students[0].username;
-          S.user.whatsapp = students[0].whatsapp || '';
-          S.loginError    = '';
-          navigate('home');
-        } else {
-          S.loginError = 'Credenciales incorrectas.';
-          render();
-        }
-      } else {
-        S.loginError = 'Error en la conexión.';
+      const { data, error } = await supabase.auth.signInWithPassword({
+        email: email,
+        password: pass,
+      });
+
+      if (error) {
+        S.loginError = 'Credenciales incorrectas o acceso denegado.';
         render();
+      } else {
+        S.user.email = data.user.email;
+        S.user.name  = data.user.user_metadata?.name || data.user.email.split('@')[0];
+        S.loginError = '';
+        navigate('home');
       }
-    } catch {
-      S.loginError = 'Error de red.';
+    } catch (err) {
+      S.loginError = 'Error de conexión.';
       render();
     }
   };
@@ -739,10 +736,10 @@ function renderReview() {
     <h1 class="welcome-title">¡Último paso!</h1>
     <p class="welcome-sub">Tu opinión es lo más importante para nosotros. ¿Qué te pareció el Escaneo Estratégico?</p>
 
-    <div class="lp-section" style="margin-top:2rem;">
+    <div class="lp-section" style="margin-top:2rem; width:100%; box-sizing:border-box;">
       <div class="lp-section-title">¿Cómo fue tu experiencia hoy?</div>
       <textarea id="final-review-text" class="btn btn-secondary"
-        style="width:100%; height:120px; text-align:left; cursor:text; margin-bottom:1rem; padding:1rem; font-size:0.9rem;"
+        style="width:100%; height:200px; text-align:left; cursor:text; margin-bottom:1.5rem; padding:1.2rem; font-size:1rem; resize:none; line-height:1.5;"
         placeholder="Escribe aquí tu comentario o sugerencia..."></textarea>
     </div>
 
@@ -1068,8 +1065,12 @@ function renderHome() {
     }
   };
 
-  el.querySelector('#btn-logout').onclick = () => {
-    if (confirm('¿Seguro que quieres cerrar tu sesión?')) clearState();
+  el.querySelector('#btn-logout').onclick = async () => {
+    if (confirm('¿Seguro que quieres cerrar tu sesión?')) {
+      await supabase.auth.signOut();
+      clearState();
+      navigate('welcome');
+    }
   };
 
   app.appendChild(el);
@@ -1090,20 +1091,8 @@ async function submitToSupabase() {
   };
 
   try {
-    const response = await fetch(`${S.supabaseUrl}/rest/v1/leads`, {
-      method: 'POST',
-      headers: {
-        'apikey':        S.supabaseKey,
-        'Authorization': `Bearer ${S.supabaseKey}`,
-        'Content-Type':  'application/json',
-        'Prefer':        'return=minimal'
-      },
-      body: JSON.stringify(data)
-    });
-    if (!response.ok) {
-      const errText = await response.text();
-      console.error('Error de Supabase:', errText);
-    }
+    const { error } = await supabase.from('leads').insert(data);
+    if (error) console.error('Error de Supabase:', error.message);
   } catch (e) {
     console.error('Error de red al enviar a Supabase:', e);
   }
@@ -1119,38 +1108,7 @@ window.onerror = (msg, url, lineNo, columnNo) => {
 };
 
 /* ─── HELPER ──────────────────────────────────────────── */
-/* ─── RESULTADOS ENTRENAMIENTO ────────────────────────── */
-function renderTrainingResults() {
-  const total   = S.trainingAnswers.length;
-  const correct = S.trainingAnswers.filter(a => a.isCorrect).length;
-  const pct     = Math.round((correct / total) * 100);
 
-  const el = div('screen results-screen');
-  el.innerHTML = `
-    <div class="results-top">
-      <div class="welcome-badge" style="background:rgba(6,182,212,0.1); color:var(--secondary); border-color:var(--secondary);">ENTRENAMIENTO COMPLETADO</div>
-      <div class="score-ring" style="--pct:${pct}; border-color:var(--secondary);">
-        <div class="score-inner">
-          <span class="score-number">${correct}</span>
-          <span class="score-total">de ${total}</span>
-        </div>
-      </div>
-      <h2>${pct >= 80 ? '¡Dominio Total!' : pct >= 50 ? 'Sigue practicando' : 'Sigue trabajando'}</h2>
-      <p>Has procesado ${total} preguntas estratégicas hoy.</p>
-    </div>
-
-    <div class="lp-section" style="margin:2rem 1.5rem; background:var(--surface2); padding:1.5rem; border-radius:var(--radius); border:1px solid var(--border);">
-      <h3 style="font-size:1rem; margin-bottom:1rem; display:flex; align-items:center; gap:0.5rem;">📊 Impacto en tu Progreso</h3>
-      <p style="font-size:0.85rem; color:var(--text-muted); line-height:1.6;">Estas respuestas han sido integradas a tu perfil. Tus puntos débiles ahora son un poco más fuertes. 🔥 <br><br><b>Racha actual: ${S.streak} días</b></p>
-    </div>
-
-    <div class="results-actions" style="padding:0 1.5rem;">
-      <button class="btn btn-primary" id="btn-back-home">🏠 Volver al Panel de Estudio</button>
-    </div>`;
-
-  el.querySelector('#btn-back-home').onclick = () => navigate('home');
-  app.appendChild(el);
-}
 
 function div(classes) {
   const el = document.createElement('div');
@@ -1159,12 +1117,20 @@ function div(classes) {
 }
 
 /* ─── INIT ────────────────────────────────────────────── */
-document.addEventListener('DOMContentLoaded', () => {
+function initApp() {
+  app = document.getElementById('app');
   if (window.speechSynthesis) window.speechSynthesis.cancel();
   loadState();
   history.replaceState({ screen: S.screen, qIndex: S.qIndex }, '', '');
   render();
-});
+}
+
+// Módulos ES se ejecutan con defer, así que el DOM ya está listo
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initApp);
+} else {
+  initApp();
+}
 
 window.onpopstate = (event) => {
   if (event.state) navigate(event.state.screen, event.state.qIndex, false);

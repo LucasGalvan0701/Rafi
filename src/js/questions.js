@@ -4,7 +4,7 @@
  * Puedes editar las preguntas, opciones y explicaciones aquí sin tocar la lógica de la app.
  */
 
-const CONTEXTS = {
+export const CONTEXTS = {
     'sociales-mineros': {
         title: 'MINERÍA Y REGULACIÓN AMBIENTAL',
         cards: [
@@ -48,7 +48,7 @@ const CONTEXTS = {
     }
 };
 
-const QUESTIONS = [
+export const QUESTIONS = [
     // ══ CIENCIAS NATURALES ══
     {
         id: 'N1',
