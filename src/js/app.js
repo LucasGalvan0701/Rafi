@@ -15,6 +15,7 @@ const S = {
   trainingAnswers:   [],
   trainingQuestions: [],
   elapsed:           0,
+  startTime:         null,
   timerInterval:     null,
   user:              { name: '', whatsapp: '', email: '' },
   finalReview:       '',
@@ -28,10 +29,10 @@ const STORAGE_KEY = 'icfes_entrenador_v1';
 
 function saveState() {
   const { user, answers, screen, mode, trainingAnswers, trainingQuestions,
-          trainingComplete, streak, qIndex, selected, answered } = S;
+          trainingComplete, streak, qIndex, selected, answered, elapsed, startTime } = S;
   localStorage.setItem(STORAGE_KEY, JSON.stringify({
     user, answers, screen, mode, trainingAnswers, trainingQuestions,
-    trainingComplete, streak, qIndex, selected, answered
+    trainingComplete, streak, qIndex, selected, answered, elapsed, startTime
   }));
 }
 
@@ -50,6 +51,8 @@ function loadState() {
     S.qIndex            = d.qIndex            ?? 0;
     S.selected          = d.selected          ?? null;
     S.answered          = d.answered          ?? false;
+    S.elapsed           = d.elapsed           ?? 0;
+    S.startTime         = d.startTime         ?? null;
     if (S.user.name || S.answers.length > 0) {
       S.screen = d.screen ?? 'welcome';
     }
@@ -67,14 +70,19 @@ function clearState() {
 const EXAM_DURATION = 25 * 60; // segundos
 
 function startTimer() {
-  S.elapsed = 0;
+  if (!S.startTime) S.startTime = Date.now();
+  
   clearInterval(S.timerInterval);
   S.timerInterval = setInterval(() => {
-    S.elapsed++;
+    const now = Date.now();
+    S.elapsed = Math.floor((now - S.startTime) / 1000);
+    
     const el = document.getElementById('timer-val');
     if (el) el.textContent = fmtTime(EXAM_DURATION - S.elapsed);
+
     if (S.elapsed >= EXAM_DURATION) {
       clearInterval(S.timerInterval);
+      S.startTime = null; // Reset for next time if needed
       alert('¡Se ha agotado el tiempo del Escaneo Estratégico!');
       navigate('review');
     }
@@ -242,6 +250,8 @@ function renderInstructions() {
   el.querySelector('#btn-start-diag').onclick = () => {
     S.mode    = 'diagnostic';
     S.answers = [];
+    S.startTime = null;
+    S.elapsed = 0;
     startTimer();
     navigate('question', 0);
   };
@@ -400,6 +410,7 @@ function handleNext() {
       completeTraining();
     } else {
       clearInterval(S.timerInterval);
+      S.startTime = null;
       navigate('review');
     }
   } else {
@@ -1121,6 +1132,7 @@ function initApp() {
   app = document.getElementById('app');
   if (window.speechSynthesis) window.speechSynthesis.cancel();
   loadState();
+  if (S.screen === 'question' && S.mode === 'diagnostic') startTimer();
   history.replaceState({ screen: S.screen, qIndex: S.qIndex }, '', '');
   render();
 }

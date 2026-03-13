@@ -64,7 +64,7 @@ export const QUESTIONS = [
         correct: 'A',
         explanation: {
             context: 'Esta pregunta trata sobre energía potencial gravitatoria y evalúa si puedes identificar qué variable física necesitas medir para determinar esa energía.',
-            contextImg: 'imagenes/preguntas diagnostico/pregunta 1/contexto.png',
+            contextImg: '/imagenes/preguntas diagnostico/pregunta 1/contexto.png',
             concepts: [
                 { name: 'Energía Potencial', def: 'Energía almacenada debido a la posición o altura.', url: 'https://www.google.com/search?q=energia+potencial+formula' }
             ],
@@ -72,7 +72,7 @@ export const QUESTIONS = [
             step1: 'Aquí debemos identificar qué nos está pidiendo la pregunta. No está pidiendo calcular nada, sino escoger una herramienta de medición. Además, la pregunta aclara que la energía potencial depende de la altura, lo cual nos da la pista sobre qué variable necesitamos medir.<br><br><b>🔑 Clave:</b> Primero identifica qué te pide la pregunta y qué variable menciona.',
             step2: 'Si la energía potencial depende de la altura, entonces necesitamos una herramienta que permita medir altura o distancia. Entre las opciones dadas, la única herramienta que mide longitud o altura es la regla.<br><br><b>🔑 Clave:</b> Si necesitas medir altura, usa un instrumento de longitud.',
             step3: '<b>B. Balanza:</b> mide masa.<br><b>C. Cronómetro:</b> mide tiempo.<br><b>D. Termómetro:</b> mide temperatura.<br><br>Ninguna de estas herramientas mide altura, que es lo que necesitamos para relacionarla con la energía potencial.<br><br><b>🔑 Clave:</b> Descarta opciones que midan otra variable diferente.<br><br><b>✅ Respuesta correcta: A. Una regla.</b>',
-            step3Img: 'imagenes/preguntas diagnostico/pregunta 1/paso3.png'
+            step3Img: '/imagenes/preguntas diagnostico/pregunta 1/paso3.png'
         }
     },
 
